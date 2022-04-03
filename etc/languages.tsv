@@ -1,27 +1,27 @@
 ID	Name	SubGroup	Glottocode	Latitude	Longitude
-Achagua	Achagua				
-Baniwa	Baniwa				
-BaniwaDzawinai	Baniwa_Dzawinai				
-BaniwaDzurema	Baniwa_Dzurema				
-BaniwaHohoodene	Baniwa_Hohoodene				
-BaniwaKowaidakenai	Baniwa_Kowaidakenai				
-BaniwaMauliene	Baniwa_Mauliene				
-BaniwaWaliperidakenai	Baniwa_Waliperidakenai				
-Bare	Baré				
-Kabiyari	Kabiyari				
-Kauixana	Kauixana				
-Koripakoaha	Koripako_aha				
-Koripakoehe	Koripako_ehe				
-KoripakoKumadene	Koripako_Kumadene				
-Koripakoname	Koripako_name				
-Koripakooho	Koripako_oho				
-Passe	Passé				
-Piapoco	Piapoco				
-Resigaro	Resigaro				
-Tariana	Tariana				
-TarianaBruzzi	Tariana_Bruzzi				
-TarianaKumadene	Tariana_Kumadene				
-Warekena	Warekena				
-WerekenaBaniva	Werekena_Baniva				
-Yukuna	Yukuna				
-Yumana	Yumana				
+Achagua	Achagua		acha1250	4.4	-72.25
+Baniwa	Baniwa		bani1255	1.2	-67.8
+Baniwa_Dzawinai	Baniwa_Dzawinai		bani1255	1.27	-67.85
+Baniwa_Dzurema	Baniwa_Dzurema		bani1255	1.3	-69.6
+Baniwa_Hohoodene	Baniwa_Hohoodene		bani1255	1.21	-69.2
+Baniwa_Kowaidakenai	Baniwa_Kowaidakenai		bani1261	0.70	-67.50
+Baniwa_Mauliene	Baniwa_Mauliene		bani1255	1.7	-68.1
+Baniwa_Waliperidakenai	Baniwa_Waliperidakenai		bani1255	1.5	-68.6
+Baré	Baré		bare1276	1.92 	-66.83
+Kabiyari	Kabiyari		cabi1241	0.16	-71.06
+Kauixana	Kauixana		kais1242	-2.17	-67.32
+Koripako_aha	Koripako_aha		curr1243	3.2	-68
+Koripako_ehe	Koripako_ehe		bani1261	2.8	-67.8
+Koripako_Kumadene	Koripako_Kumadene		bani1262	1.7	-69.
+Koripako_name	Koripako_name		bani1263	2.8	-68.6
+Koripako_oho	Koripako_oho		bani1263	3.6	-68
+Passé	Passé		pass1250	0.44	-68.90
+Piapoco	Piapoco		piap1246	-2.6	-68.47
+Resigaro	Resigaro		resi1247	4	-69.5
+Tariana	Tariana		tari1256	-1.17 	-71.61
+Tariana_Bruzzi	Tariana_Bruzzi		tari1256	0.44	-68.90
+Tariana_Kumadene	Tariana_Kumadene		tari1256	0.66	-68.8
+Warekena	Warekena		guar1293	1.5	-67.5
+Werekena_Baniva	Werekena_Baniva		guar1293	1.81	-66.92
+Yukuna	Yukuna		yucu1253	-0.76	-71.00
+Yumana	Yumana		juma1250	-1.93	-68.30
