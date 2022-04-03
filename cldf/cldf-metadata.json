@@ -6,13 +6,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset accompanying Chacon's \"Analysis of Tukanoan Dialects\" from 2022",
     "dcat:accessURL": "https://github.com/lexibank/chaconjcbancor",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/chaconjcbancor",
             "rdf:type": "prov:Entity",
-            "dc:created": "47033e1",
+            "dc:created": "d975e87",
             "dc:title": "Repository"
         },
         {

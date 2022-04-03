@@ -520,15 +520,15 @@
         },
         "Baniwa": {
             "bipa_errors": [
-                "(",
+                "Ih",
                 "\u027bh",
-                "\u00f1h",
-                "lh",
                 ")",
+                "lh",
                 "rh",
+                "(",
                 "tsh",
                 "wh",
-                "Ih"
+                "\u00f1h"
             ],
             "general_errors": 17,
             "replacements": {
@@ -1008,15 +1008,15 @@
                 ]
             },
             "sclass_errors": [
-                "(",
+                "Ih",
                 "\u027bh",
-                "\u00f1h",
-                "lh",
                 ")",
+                "lh",
                 "rh",
+                "(",
                 "tsh",
                 "wh",
-                "Ih"
+                "\u00f1h"
             ],
             "segments": {
                 "(": 3,
@@ -1065,7 +1065,7 @@
                 "\u0294": 1
             }
         },
-        "BaniwaDzawinai": {
+        "Baniwa_Dzawinai": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -1589,7 +1589,7 @@
                 "\u1ebd": 2
             }
         },
-        "BaniwaDzurema": {
+        "Baniwa_Dzurema": {
             "bipa_errors": [
                 "a\u02b0",
                 "i\u02b0"
@@ -2126,7 +2126,7 @@
                 "\u1ebd": 3
             }
         },
-        "BaniwaHohoodene": {
+        "Baniwa_Hohoodene": {
             "bipa_errors": [
                 "n\u2071"
             ],
@@ -2655,7 +2655,7 @@
                 "\u1ebd": 1
             }
         },
-        "BaniwaKowaidakenai": {
+        "Baniwa_Kowaidakenai": {
             "bipa_errors": [
                 "j\u02b0h"
             ],
@@ -3184,7 +3184,7 @@
                 "\u1ebd\u02d0": 1
             }
         },
-        "BaniwaMauliene": {
+        "Baniwa_Mauliene": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -3705,7 +3705,7 @@
                 "\u0290": 9
             }
         },
-        "BaniwaWaliperidakenai": {
+        "Baniwa_Waliperidakenai": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -4755,15 +4755,15 @@
         },
         "Kabiyari": {
             "bipa_errors": [
-                "(",
-                ")",
-                "rh",
-                "wh",
-                "t\u0283h",
-                "u]",
-                "'",
                 "t\u222b",
-                "[p"
+                ")",
+                "'",
+                "u]",
+                "rh",
+                "(",
+                "[p",
+                "wh",
+                "t\u0283h"
             ],
             "general_errors": 20,
             "replacements": {
@@ -5243,15 +5243,15 @@
                 ]
             },
             "sclass_errors": [
-                "(",
-                ")",
-                "rh",
-                "wh",
-                "t\u0283h",
-                "u]",
-                "'",
                 "t\u222b",
-                "[p"
+                ")",
+                "'",
+                "u]",
+                "rh",
+                "(",
+                "[p",
+                "wh",
+                "t\u0283h"
             ],
             "segments": {
                 "'": 1,
@@ -5306,36 +5306,36 @@
         },
         "Kauixana": {
             "bipa_errors": [
-                "wh",
-                "l[h]",
-                "[-",
-                "h-",
-                "\u0306o\u0361w\u00e9",
-                "\u00e9-",
+                "\u0268a-",
                 "lh",
+                "[-",
+                "-",
+                "ma",
                 "si",
-                "[t\u0283]",
                 "oa-",
-                "]",
-                "[",
+                "l[h]",
+                "h-",
+                "i-",
+                "o-",
+                "\u00e9-",
+                "\u0294-",
                 "\u00ed-",
                 "ts-",
-                "o-",
-                "a-",
-                "e-",
-                "i-",
                 "\u0268\u0301-",
-                "]-",
-                "\u0272h",
-                "ma",
-                "\u0268a-",
                 "\u0001",
                 "[h]",
+                "\u2013",
+                "[",
                 "\u0268-",
+                "\u0272h",
                 "a\u00e3-",
-                "-",
-                "\u0294-",
-                "\u2013"
+                "a-",
+                "[t\u0283]",
+                "e-",
+                "\u0306o\u0361w\u00e9",
+                "wh",
+                "]",
+                "]-"
             ],
             "general_errors": 103,
             "replacements": {
@@ -5815,36 +5815,36 @@
                 ]
             },
             "sclass_errors": [
-                "wh",
-                "l[h]",
-                "[-",
-                "h-",
-                "\u0306o\u0361w\u00e9",
-                "\u00e9-",
+                "\u0268a-",
                 "lh",
+                "[-",
+                "-",
+                "ma",
                 "si",
-                "[t\u0283]",
                 "oa-",
-                "]",
-                "[",
+                "l[h]",
+                "h-",
+                "i-",
+                "o-",
+                "\u00e9-",
+                "\u0294-",
                 "\u00ed-",
                 "ts-",
-                "o-",
-                "a-",
-                "e-",
-                "i-",
                 "\u0268\u0301-",
-                "]-",
-                "\u0272h",
-                "ma",
-                "\u0268a-",
                 "\u0001",
                 "[h]",
+                "\u2013",
+                "[",
                 "\u0268-",
+                "\u0272h",
                 "a\u00e3-",
-                "-",
-                "\u0294-",
-                "\u2013"
+                "a-",
+                "[t\u0283]",
+                "e-",
+                "\u0306o\u0361w\u00e9",
+                "wh",
+                "]",
+                "]-"
             ],
             "segments": {
                 "\u0001": 1,
@@ -5921,7 +5921,7 @@
                 "\u2013": 1
             }
         },
-        "KoripakoKumadene": {
+        "Koripako_Kumadene": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -6440,7 +6440,7 @@
                 "\u1ebd": 1
             }
         },
-        "Koripakoaha": {
+        "Koripako_aha": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -6954,7 +6954,7 @@
                 "\u027e": 14
             }
         },
-        "Koripakoehe": {
+        "Koripako_ehe": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -7469,7 +7469,7 @@
                 "\u0283": 2
             }
         },
-        "Koripakoname": {
+        "Koripako_name": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -7979,7 +7979,7 @@
                 "\u027e": 15
             }
         },
-        "Koripakooho": {
+        "Koripako_oho": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -8492,23 +8492,23 @@
         },
         "Passe": {
             "bipa_errors": [
+                "iu-",
+                "[",
                 "o-",
+                "ii-",
+                "i-",
+                "lh",
+                "i-u",
                 "aiu",
                 "a-",
-                "e-",
-                "i-",
-                "\u00e9-",
-                "lh",
-                "ie-",
-                "i-u",
-                "]-",
-                "iu-",
-                "r-",
-                "]",
-                "[",
-                "u-",
                 "[-",
-                "ii-"
+                "e-",
+                "\u00e9-",
+                "]",
+                "ie-",
+                "u-",
+                "r-",
+                "]-"
             ],
             "general_errors": 44,
             "replacements": {
@@ -8988,23 +8988,23 @@
                 ]
             },
             "sclass_errors": [
+                "iu-",
+                "[",
                 "o-",
+                "ii-",
+                "i-",
+                "lh",
+                "i-u",
                 "aiu",
                 "a-",
-                "e-",
-                "i-",
-                "\u00e9-",
-                "lh",
-                "ie-",
-                "i-u",
-                "]-",
-                "iu-",
-                "r-",
-                "]",
-                "[",
-                "u-",
                 "[-",
-                "ii-"
+                "e-",
+                "\u00e9-",
+                "]",
+                "ie-",
+                "u-",
+                "r-",
+                "]-"
             ],
             "segments": {
                 "[": 10,
@@ -9073,11 +9073,11 @@
         },
         "Piapoco": {
             "bipa_errors": [
-                "(",
+                "[",
                 ")",
+                "(",
                 "\u00e9s",
-                "]",
-                "["
+                "]"
             ],
             "general_errors": 9,
             "replacements": {
@@ -9557,11 +9557,11 @@
                 ]
             },
             "sclass_errors": [
-                "(",
+                "[",
                 ")",
+                "(",
                 "\u00e9s",
-                "]",
-                "["
+                "]"
             ],
             "segments": {
                 "(": 3,
@@ -9607,18 +9607,18 @@
         },
         "Resigaro": {
             "bipa_errors": [
-                "j\u03b2",
-                "(",
                 "J",
-                "\u01f0",
-                ")",
-                "t\u0283h",
-                "\u00e9h",
-                "]",
+                "\u0161",
                 "[",
+                ")",
                 "\u0294\u0292",
+                "\u00e9h",
+                "\u01f0",
+                "(",
                 "tsh",
-                "\u0161"
+                "]",
+                "j\u03b2",
+                "t\u0283h"
             ],
             "general_errors": 18,
             "replacements": {
@@ -10098,18 +10098,18 @@
                 ]
             },
             "sclass_errors": [
-                "j\u03b2",
-                "(",
                 "J",
-                "\u01f0",
-                ")",
-                "t\u0283h",
-                "\u00e9h",
-                "]",
+                "\u0161",
                 "[",
+                ")",
                 "\u0294\u0292",
+                "\u00e9h",
+                "\u01f0",
+                "(",
                 "tsh",
-                "\u0161"
+                "]",
+                "j\u03b2",
+                "t\u0283h"
             ],
             "segments": {
                 "(": 3,
@@ -10173,10 +10173,10 @@
         },
         "Tariana": {
             "bipa_errors": [
+                "hj",
                 "wh",
-                "dh",
                 "\u00f1h",
-                "hj"
+                "dh"
             ],
             "general_errors": 12,
             "replacements": {
@@ -10656,10 +10656,10 @@
                 ]
             },
             "sclass_errors": [
+                "hj",
                 "wh",
-                "dh",
                 "\u00f1h",
-                "hj"
+                "dh"
             ],
             "segments": {
                 "_": 2,
@@ -10704,7 +10704,7 @@
                 "\u027e": 19
             }
         },
-        "TarianaBruzzi": {
+        "Tariana_Bruzzi": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -11233,7 +11233,7 @@
                 "\u1ebd": 1
             }
         },
-        "TarianaKumadene": {
+        "Tariana_Kumadene": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -12269,7 +12269,7 @@
                 "\u0283": 25
             }
         },
-        "WerekenaBaniva": {
+        "Werekena_Baniva": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
@@ -12788,12 +12788,12 @@
         },
         "Yukuna": {
             "bipa_errors": [
+                "h\u0272",
                 "h\u027e",
                 ")",
                 "hm",
-                "(h",
                 "hw",
-                "h\u0272"
+                "(h"
             ],
             "general_errors": 8,
             "replacements": {
@@ -13273,12 +13273,12 @@
                 ]
             },
             "sclass_errors": [
+                "h\u0272",
                 "h\u027e",
                 ")",
                 "hm",
-                "(h",
                 "hw",
-                "h\u0272"
+                "(h"
             ],
             "segments": {
                 "(h": 1,
@@ -13317,25 +13317,25 @@
         },
         "Yumana": {
             "bipa_errors": [
-                "au\u0268",
-                "[-",
-                "[u]",
-                "[o]",
-                "\u00e9-",
-                "n-",
                 "lh",
-                "]",
-                "s-",
-                "[",
-                "e-",
-                "a-",
+                "[-",
+                "\u00e1-",
+                "-",
+                "[u]",
+                "au\u0268",
                 "i-",
-                "auo\u0268",
+                "\u00e9-",
+                "[o]",
                 "k-",
                 "[h]",
-                "-",
-                "u-",
-                "\u00e1-"
+                "auo\u0268",
+                "[",
+                "a-",
+                "e-",
+                "n-",
+                "]",
+                "s-",
+                "u-"
             ],
             "general_errors": 46,
             "replacements": {
@@ -13815,25 +13815,25 @@
                 ]
             },
             "sclass_errors": [
-                "au\u0268",
-                "[-",
-                "[u]",
-                "[o]",
-                "\u00e9-",
-                "n-",
                 "lh",
-                "]",
-                "s-",
-                "[",
-                "e-",
-                "a-",
+                "[-",
+                "\u00e1-",
+                "-",
+                "[u]",
+                "au\u0268",
                 "i-",
-                "auo\u0268",
+                "\u00e9-",
+                "[o]",
                 "k-",
                 "[h]",
-                "-",
-                "u-",
-                "\u00e1-"
+                "auo\u0268",
+                "[",
+                "a-",
+                "e-",
+                "n-",
+                "]",
+                "s-",
+                "u-"
             ],
             "segments": {
                 "-": 1,
@@ -13954,8 +13954,8 @@
                 "o \u00f3 <s> wh </s> aa"
             ],
             [
-                "BaniwaDzurema-41_knowsomething-1",
-                "BaniwaDzurema",
+                "Baniwa_Dzurema-41_knowsomething-1",
+                "Baniwa_Dzurema",
                 "41_knowsomething",
                 "wa\u02b0lj\u1ebdtsa",
                 "w <s> a\u02b0 </s> l j \u1ebd ts a"
@@ -14220,8 +14220,8 @@
                 "p o \u027e <s> oa- </s> s i"
             ],
             [
-                "KoripakoKumadene-2_ash-1",
-                "KoripakoKumadene",
+                "Koripako_Kumadene-2_ash-1",
+                "Koripako_Kumadene",
                 "2_ash",
                 "\u027diphienhen",
                 "\u027d i p\u02b0 i e n # h e n"
@@ -14465,8 +14465,8 @@
                 "d i <s> wh </s> a"
             ],
             [
-                "TarianaKumadene-59_peopleorperson-1",
-                "TarianaKumadene",
+                "Tariana_Kumadene-59_peopleorperson-1",
+                "Tariana_Kumadene",
                 "59_peopleorperson",
                 "nawikimasit\u025b",
                 "n a w i k i # m a s i t \u025b"
@@ -14621,82 +14621,82 @@
         ],
         "bad_words_count": 201,
         "bipa_errors": [
-            "aiu",
-            "\u01f0",
-            "hw",
-            "h\u0272",
-            "\u00e9s",
-            "au\u0268",
-            "\u0294\u0292",
-            "[-",
-            "i\u02b0",
-            "h-",
-            "ii-",
-            "\u0306o\u0361w\u00e9",
-            "[u]",
-            "[o]",
-            "\u00e9-",
-            "iu-",
+            "t\u222b",
+            "lh",
+            "\u00e1-",
+            "(",
+            "si",
+            "oa-",
+            "\u00f1h",
             "t\u0283h",
-            "'",
-            "rr",
-            "]",
-            "[",
+            "\u027bh",
+            "h-",
+            "j\u02b0h",
+            "\u0161",
+            "iu-",
+            "u]",
+            "\u01f0",
+            "\u00e9-",
+            "[p",
+            "n\u2071",
+            "\u00ed-",
             "ts-",
-            "o-",
+            "h\u027e",
+            ")",
+            "tsh",
+            "\u0001",
+            "[h]",
+            "auo\u0268",
+            "Ih",
+            "J",
+            "ii-",
+            "hm",
             "a-",
             "e-",
-            "\u0268\u0301-",
-            "ma",
-            "t\u222b",
-            "\u0268a-",
-            "\u0001",
-            "(",
-            "\u00f1h",
-            "ie-",
-            "hm",
-            "u]",
-            "dh",
-            "rh",
-            "wh",
-            "n\u2071",
-            "\u00e9h",
-            "l[h]",
-            "[p",
-            "tsh",
-            "\u027bh",
-            "J",
-            "lh",
             "n-",
-            "hj",
-            "si",
-            "[t\u0283]",
-            "oa-",
-            "s-",
-            "j\u03b2",
-            "\u00ed-",
-            "h\u027e",
-            "i-",
-            "a\u02b0",
-            "auo\u0268",
-            "]-",
-            "\u0272h",
-            "(h",
-            "k-",
-            "j\u02b0h",
-            "r-",
-            "\u00e1-",
-            "Ih",
-            "\u0161",
-            ")",
-            "[h]",
-            "\u0268-",
-            "a\u00e3-",
-            "i-u",
-            "-",
-            "\u0294-",
+            "wh",
+            "]",
             "u-",
-            "\u2013"
+            "\u0294-",
+            "hw",
+            "]-",
+            "\u0268a-",
+            "\u0294\u0292",
+            "a\u02b0",
+            "aiu",
+            "rh",
+            "[-",
+            "\u00e9s",
+            "-",
+            "ma",
+            "[u]",
+            "l[h]",
+            "au\u0268",
+            "i-",
+            "'",
+            "o-",
+            "ie-",
+            "[o]",
+            "(h",
+            "h\u0272",
+            "k-",
+            "i-u",
+            "i\u02b0",
+            "\u0268\u0301-",
+            "dh",
+            "\u00e9h",
+            "j\u03b2",
+            "r-",
+            "\u2013",
+            "[",
+            "\u0268-",
+            "\u0272h",
+            "hj",
+            "rr",
+            "a\u00e3-",
+            "[t\u0283]",
+            "\u0306o\u0361w\u00e9",
+            "s-"
         ],
         "general_errors": 282,
         "invalid_words": [],
@@ -15179,82 +15179,82 @@
             ]
         },
         "sclass_errors": [
-            "aiu",
-            "\u01f0",
-            "hw",
-            "h\u0272",
-            "\u00e9s",
-            "au\u0268",
-            "\u0294\u0292",
-            "[-",
-            "i\u02b0",
-            "h-",
-            "ii-",
-            "\u0306o\u0361w\u00e9",
-            "[u]",
-            "[o]",
-            "\u00e9-",
-            "iu-",
+            "t\u222b",
+            "lh",
+            "\u00e1-",
+            "(",
+            "si",
+            "oa-",
+            "\u00f1h",
             "t\u0283h",
-            "'",
-            "rr",
-            "]",
-            "[",
+            "\u027bh",
+            "h-",
+            "j\u02b0h",
+            "\u0161",
+            "iu-",
+            "u]",
+            "\u01f0",
+            "\u00e9-",
+            "[p",
+            "n\u2071",
+            "\u00ed-",
             "ts-",
-            "o-",
+            "h\u027e",
+            ")",
+            "tsh",
+            "\u0001",
+            "[h]",
+            "auo\u0268",
+            "Ih",
+            "J",
+            "ii-",
+            "hm",
             "a-",
             "e-",
-            "\u0268\u0301-",
-            "ma",
-            "t\u222b",
-            "\u0268a-",
-            "\u0001",
-            "(",
-            "\u00f1h",
-            "ie-",
-            "hm",
-            "u]",
-            "dh",
-            "rh",
-            "wh",
-            "n\u2071",
-            "\u00e9h",
-            "l[h]",
-            "[p",
-            "tsh",
-            "\u027bh",
-            "J",
-            "lh",
             "n-",
-            "hj",
-            "si",
-            "[t\u0283]",
-            "oa-",
-            "s-",
-            "j\u03b2",
-            "\u00ed-",
-            "h\u027e",
-            "i-",
-            "a\u02b0",
-            "auo\u0268",
-            "]-",
-            "\u0272h",
-            "(h",
-            "k-",
-            "j\u02b0h",
-            "r-",
-            "\u00e1-",
-            "Ih",
-            "\u0161",
-            ")",
-            "[h]",
-            "\u0268-",
-            "a\u00e3-",
-            "i-u",
-            "-",
-            "\u0294-",
+            "wh",
+            "]",
             "u-",
-            "\u2013"
+            "\u0294-",
+            "hw",
+            "]-",
+            "\u0268a-",
+            "\u0294\u0292",
+            "a\u02b0",
+            "aiu",
+            "rh",
+            "[-",
+            "\u00e9s",
+            "-",
+            "ma",
+            "[u]",
+            "l[h]",
+            "au\u0268",
+            "i-",
+            "'",
+            "o-",
+            "ie-",
+            "[o]",
+            "(h",
+            "h\u0272",
+            "k-",
+            "i-u",
+            "i\u02b0",
+            "\u0268\u0301-",
+            "dh",
+            "\u00e9h",
+            "j\u03b2",
+            "r-",
+            "\u2013",
+            "[",
+            "\u0268-",
+            "\u0272h",
+            "hj",
+            "rr",
+            "a\u00e3-",
+            "[t\u0283]",
+            "\u0306o\u0361w\u00e9",
+            "s-"
         ],
         "segments": {
             "\u0001": 1,

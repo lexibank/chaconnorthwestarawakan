@@ -257,13 +257,13 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------------|:-----------------|:---------------------|:-------------------|:-------------------------------------------------------------------------------------|
+|:-------------------------------------|:------------------|:---------------------|:-------------------|:-------------------------------------------------------------------------------------|
 | Baniwa-10_bone-2 | Baniwa | 10_bone | ? | <s> ( </s> i <s> ) </s> ñ i a p i |
 | Baniwa-1_all-1 | Baniwa | 1_all | phálhai | pʰ á <s> lh </s> a i |
 | Baniwa-40_knee-1 | Baniwa | 40_knee | -hóorhi | h ó o <s> rh </s> i |
 | Baniwa-57_one-1 | Baniwa | 57_one | a(a)pa- | a <s> ( </s> a <s> ) </s> p a |
 | Baniwa-69_sit-1 | Baniwa | 69_sit | -oówhaa | o ó <s> wh </s> aa |
-| BaniwaDzurema-41_knowsomething-1 | BaniwaDzurema | 41_knowsomething | waʰljẽtsa | w <s> aʰ </s> l j ẽ ts a |
+| Baniwa_Dzurema-41_knowsomething-1 | Baniwa_Dzurema | 41_knowsomething | waʰljẽtsa | w <s> aʰ </s> l j ẽ ts a |
 | Bare-69_sit-1 | Bare | 69_sit | ? | ʰj a <s> rr </s> u m a |
 | Kabiyari-14_come-1 | Kabiyari | 14_come | mira(a)ni | m i r a <s> ( </s> a <s> ) </s> n i |
 | Kabiyari-40_knee-1 | Kabiyari | 40_knee | -urhu(na) | u <s> rh </s> u <s> ( </s> n a <s> ) </s> |
@@ -301,7 +301,7 @@
 | Kauixana-90_white-1 | Kauixana | 90_white | kathí-si | k a th <s> í- </s> s i |
 | Kauixana-92_woman-1 | Kauixana | 92_woman | pɨtʃɨwála | p ɨ <s> [tʃ] </s> ɨ w á l a |
 | Kauixana-93_yellow-1 | Kauixana | 93_yellow | poɾoa-si | p o ɾ <s> oa- </s> s i |
-| KoripakoKumadene-2_ash-1 | KoripakoKumadene | 2_ash | ɽiphienhen | ɽ i pʰ i e n # h e n |
+| Koripako_Kumadene-2_ash-1 | Koripako_Kumadene | 2_ash | ɽiphienhen | ɽ i pʰ i e n # h e n |
 | Passe-10_bone-2 | Passe | 10_bone | pii-mi | p <s> ii- </s> m i |
 | Passe-40_knee-1 | Passe | 40_knee | oto-la[-pinka] | o t <s> o- </s> l a <s> [- </s> p i n k a <s> ] </s> |
 | Passe-42_leaf-1 | Passe | 42_leaf | apana-ma | a p a n <s> a- </s> m a |
@@ -336,7 +336,7 @@
 | Tariana-48_moon-1 | Tariana | 48_moon | ? | d e: p i t e _ k e: ɾ i |
 | Tariana-52_neck-1 | Tariana | 52_neck | ? | <s> dh </s> i n ú ɾ u |
 | Tariana-69_sit-1 | Tariana | 69_sit | ? | d i <s> wh </s> a |
-| TarianaKumadene-59_peopleorperson-1 | TarianaKumadene | 59_peopleorperson | nawikimasitɛ | n a w i k i # m a s i t ɛ |
+| Tariana_Kumadene-59_peopleorperson-1 | Tariana_Kumadene | 59_peopleorperson | nawikimasitɛ | n a w i k i # m a s i t ɛ |
 | Warekena-11_clawornail-1 | Warekena | 11_clawornail | ? | n u ʃ u ɾ a w i _ n a p i b u |
 | Yukuna-12_cloud-1 | Yukuna | 12_cloud | [juni]juwáka'ala | h u n i _ h u w á k a ʔ a l a |
 | Yukuna-57_one-1 | Yukuna | 57_one | pajluwa | p a <s> (h </s> l u w á h a <s> ) </s> |
