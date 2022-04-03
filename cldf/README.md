@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist CLDF dataset accompanying Chacon's "Analysis of Tukanoan Dialects" from 2022
+# Wordlist CLDF dataset accompanying Chacon's "Analysis of Arawakan Japura-Colombia Languages and Baniwa-Koripako dialects" from 2022
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
