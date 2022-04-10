@@ -2,9 +2,9 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 Achagua-1_all-1,,Achagua,1_all,kinínama,k_i_n_i_n_a_m_a,k i n i n a m a,,,34,,^ k _ i _ n _ i _ n _ a _ m _ a $,default
 Warekena-1_all-1,,Warekena,1_all,?,p_a_j_a_ɾ_u,p a j a ɾ u,,,41,,^ p _ a _ j _ a _ ɾ _ u $,default
 Warekena-1_all-2,,Warekena,1_all,?,u_b_e,u b e,,,19,,^ u _ b _ e $,default
-Baniwa-1_all-1,,Baniwa,1_all,phálhai,pʰ_á_lh_a_i,pʰ á !lh a i,,,41,,^ pʰ _ á _ lh _ a _ i $,default
+Baniwa-1_all-1,,Baniwa,1_all,phálhai,pʰ_á_lh_a_i,pʰ á lʰ a i,,,41,,^ pʰ _ á _ lh _ a _ i $,default
 Bare-1_all-1,,Bare,1_all,?,w_a_r_a,w a r a,,,3,,^ w _ a _ r _ a $,default
-Kabiyari-1_all-1,,Kabiyari,1_all,put'i,p_u_t_'i,p u t i,,,10,,^ p _ u _ t _ 'i $,default
+Kabiyari-1_all-1,,Kabiyari,1_all,put'i,p_u_t_'i,p u t ʔ i,,,10,,^ p _ u _ t _ 'i $,default
 Piapoco-1_all-1,,Piapoco,1_all,canánama,k_a_n_á_n_a_m_a,k a n á n a m a,,,34,,^ k _ a _ n _ á _ n _ a _ m _ a $,default
 Piapoco-1_all-2,,Piapoco,1_all,macáita,m_a_k_á_i_t_a,m a k á i t a,,,18,,^ m _ a _ k _ á _ i _ t _ a $,default
 Baniwa_Waliperidakenai-1_all-1,,Baniwa_Waliperidakenai,1_all,pʰiomɛ,pʰ_i_o_m_ɛ,pʰ i o m ɛ,,,30,,^ pʰ _ i _ o _ m _ ɛ $,default
@@ -23,7 +23,7 @@ Koripako_name-1_all-1,,Koripako_name,1_all,piomi,p_i_o_m_i,p i o m i,,,30,,^ p _
 Werekena_Baniva-1_all-1,,Werekena_Baniva,1_all,pajɛɾoi,p_a_j_ɛ_ɾ_o_i,p a j ɛ ɾ o i,,,41,,^ p _ a _ j _ ɛ _ ɾ _ o _ i $,default
 Tariana-1_all-1,,Tariana,1_all,?,tʰ_ú_j_a,tʰ ú j a,,,15,,^ tʰ _ ú _ j _ a $,default
 Yukuna-1_all-1,,Yukuna,1_all,pihukeha,p_i_h_u_k_e_h_a,p i h u k e h a,,,30,,^ p _ i _ h _ u _ k _ e _ h _ a $,default
-Kauixana-1_all-1,,Kauixana,1_all,ló(ɨ)wa-ma,l_ó_ɨ_w_a_-_m_a,l ó ɨ w a !- m a,,,21494,,^ l _ ó _ ɨ _ w _ a _ - _ m _ a $,default
+Kauixana-1_all-1,,Kauixana,1_all,ló(ɨ)wa-ma,l_ó_ɨ_w_a_-_m_a,l ó ɨ w a + m a,,,21494,,^ l _ ó _ ɨ _ w _ a _ - _ m _ a $,default
 Yumana-1_all-1,,Yumana,1_all,kukuumɨ,k_u_k_uu_m_ɨ,k u k uː m ɨ,,,9,,^ k _ u _ k _ uu _ m _ ɨ $,default
 Baniwa_Dzawinai-2_ash-1,,Baniwa_Dzawinai,2_ash,tidzemheni,t_i_dz_e_mʰ_e_n_i,t i dz e mʰ e n i,,,61,,^ t _ i _ dz _ e _ mʰ _ e _ n _ i $,default
 Tariana_Bruzzi-2_ash-1,,Tariana_Bruzzi,2_ash,kãdaɾi,k_ã_d_a_ɾ_i,k ã d a ɾ i,,,11,,^ k _ ã _ d _ a _ ɾ _ i $,default
@@ -38,7 +38,7 @@ Bare-2_ash-1,,Bare,2_ash,?,b_a_r_i_d_i,b a r i d i,,,27,,^ b _ a _ r _ i _ d _ i
 Kabiyari-2_ash-1,,Kabiyari,2_ash,pa'ari,p_a_ʔ_a_r_i,p a ʔ a r i,,,27,,^ p _ a _ ʔ _ a _ r _ i $,default
 Piapoco-2_ash-1,,Piapoco,2_ash,balìi,b_a_l_ì_i,b a l ì i,,,27,,^ b _ a _ l _ ì _ i $,default
 Piapoco-2_ash-2,,Piapoco,2_ash,ibalìiná,i_b_a_l_ì_i_n_á,i b a l ì i n á,,,27,,^ i _ b _ a _ l _ ì _ i _ n _ á $,default
-Resigaro-2_ash-1,,Resigaro,2_ash,ókóniigiJíhú,ó_k_ó_n_ii_g_i_J_í_h_ú,ó k ó n iː g i !J í h ú,,,25,,^ ó _ k _ ó _ n _ ii _ g _ i _ J _ í _ h _ ú $,default
+Resigaro-2_ash-1,,Resigaro,2_ash,ókóniigiJíhú,ó_k_ó_n_ii_g_i_J_í_h_ú,ó k ó n iː g i J/j í h ú,,,25,,^ ó _ k _ ó _ n _ ii _ g _ i _ J _ í _ h _ ú $,default
 Tariana-2_ash-1,,Tariana,2_ash,?,k_á_d_a_l_i,k á d a l i,,,11,,^ k _ á _ d _ a _ l _ i $,default
 Tariana-2_ash-2,,Tariana,2_ash,?,p_á_l_i,p á l i,,,27,,^ p _ á _ l _ i $,default
 Yukuna-2_ash-1,,Yukuna,2_ash,pai'ilá,p_a_i_ʔ_i_l_á,p a i ʔ i l á,,,27,,^ p _ a _ i _ ʔ _ i _ l _ á $,default
@@ -47,9 +47,9 @@ Baniwa_Waliperidakenai-2_ash-1,,Baniwa_Waliperidakenai,2_ash,ʈidzɛheni,t_i_dz_
 Baniwa_Hohoodene-2_ash-1,,Baniwa_Hohoodene,2_ash,paɾiada,p_a_ɾ_i_a_d_a,p a ɾ i a d a,,,27,,^ p _ a _ ɾ _ i _ a _ d _ a $,default
 Baniwa_Dzurema-2_ash-1,,Baniwa_Dzurema,2_ash,paɽiada,p_a_ɽ_i_a_d_a,p a ɽ i a d a,,,27,,^ p _ a _ ɽ _ i _ a _ d _ a $,default
 Baniwa_Mauliene-2_ash-1,,Baniwa_Mauliene,2_ash,paɽi,p_a_ɽ_i,p a ɽ i,,,27,,^ p _ a _ ɽ _ i $,default
-Koripako_Kumadene-2_ash-1,,Koripako_Kumadene,2_ash,ɽiphienhen,ɽ_i_pʰ_i_e_n_#_h_e_n,ɽ i pʰ i e n <<#>> h e n,,,61,,^ ɽ _ i _ pʰ _ i _ e _ n _ <#> _ h _ e _ n $,default
+Koripako_Kumadene-2_ash-1,,Koripako_Kumadene,2_ash,ɽiphienhen,ɽ_i_pʰ_i_e_n_+_h_e_n,ɽ i pʰ i e n <<+>> h e n,,,61,,^ ɽ _ i _ pʰ _ i _ e _ n _ <+> _ h _ e _ n $,default
 Baniwa_Kowaidakenai-2_ash-1,,Baniwa_Kowaidakenai,2_ash,ɽĩːpeni,ɽ_ĩː_p_e_n_i,ɽ ĩː p e n i,,,61,,^ ɽ _ ĩː _ p _ e _ n _ i $,default
-Kauixana-2_ash-1,,Kauixana,2_ash,xitʃɨ-póko,ʃ_i_tʃ_ɨ_-_p_ó_k_o,ʃ i tʃ ɨ !- p ó k o,,,21495,,^ ʃ _ i _ tʃ _ ɨ _ - _ p _ ó _ k _ o $,default
+Kauixana-2_ash-1,,Kauixana,2_ash,xitʃɨ-póko,ʃ_i_tʃ_ɨ_-_p_ó_k_o,ʃ i tʃ ɨ + p ó k o,,,21495,,^ ʃ _ i _ tʃ _ ɨ _ - _ p _ ó _ k _ o $,default
 Piapoco-10_bone-1,,Piapoco,10_bone,api,a_p_i,a p i,,,108,,^ a _ p _ i $,default
 Resigaro-10_bone-1,,Resigaro,10_bone,aápí,a_á_p_í,a á p í,,,108,,^ a _ á _ p _ í $,default
 Tariana-10_bone-1,,Tariana,10_bone,?,d_i_j_á_p_i,d i j á p i,,,108,,^ d _ i _ j _ á _ p _ i $,default
@@ -69,13 +69,13 @@ Koripako_name-10_bone-1,,Koripako_name,10_bone,liapi,l_i_a_p_i,l i a p i,,,108,,
 Werekena_Baniva-10_bone-1,,Werekena_Baniva,10_bone,simati,s_i_m_a_t_i,s i m a t i,,,203,,^ s _ i _ m _ a _ t _ i $,default
 Achagua-10_bone-1,,Achagua,10_bone,jáhiʃi,j_a_h_i_ʃ_i,j a h i ʃ i,,,108,,^ j _ a _ h _ i _ ʃ _ i $,default
 Baniwa-10_bone-1,,Baniwa,10_bone,-áapi,á_a_p_i,á a p i,,,108,,^ á _ a _ p _ i $,default
-Baniwa-10_bone-2,,Baniwa,10_bone,?,(_i_)_ñ_i_a_p_i,!( i !) ɲ i a p i,,,108,,^ ( _ i _ ) _ ñ _ i _ a _ p _ i $,default
+Baniwa-10_bone-2,,Baniwa,10_bone,?,(_i_)_ñ_i_a_p_i,i ɲ i a p i,,,108,,^ ( _ i _ ) _ ñ _ i _ a _ p _ i $,default
 Kabiyari-10_bone-1,,Kabiyari,10_bone,japi,j_a_p_i,j a p i,,,108,,^ j _ a _ p _ i $,default
-Kauixana-10_bone-1,,Kauixana,10_bone,pí-mi-hi,p_í-_m_i-_h_i,p !í- m !i- h i,,,201,,^ p _ í- _ m _ i- _ h _ i $,default
+Kauixana-10_bone-1,,Kauixana,10_bone,pí-mi-hi,p_í-_m_i-_h_i,p í/i + m i + h i,,,201,,^ p _ í- _ m _ i- _ h _ i $,default
 Yumana-10_bone-1,,Yumana,10_bone,pína,p_í_n_a,p í n a,,,201,,^ p _ í _ n _ a $,default
-Yumana-10_bone-2,,Yumana,10_bone,pi-mi,p_i-_m_i,p !i- m i,,,201,,^ p _ i- _ m _ i $,default
+Yumana-10_bone-2,,Yumana,10_bone,pi-mi,p_i-_m_i,p i + m i,,,201,,^ p _ i- _ m _ i $,default
 Passe-10_bone-1,,Passe,10_bone,pi,p_i,p i,,,201,,^ p _ i $,default
-Passe-10_bone-2,,Passe,10_bone,pii-mi,p_ii-_m_i,p !ii- m i,,,201,,^ p _ ii- _ m _ i $,default
+Passe-10_bone-2,,Passe,10_bone,pii-mi,p_ii-_m_i,p iː + m i,,,201,,^ p _ ii- _ m _ i $,default
 Koripako_oho-37_hotorwarm-1,,Koripako_oho,37_hotorwarm,hamodale,h_a_m_o_d_a_l_e,h a m o d a l e,,,128,,^ h _ a _ m _ o _ d _ a _ l _ e $,default
 Koripako_name-37_hotorwarm-1,,Koripako_name,37_hotorwarm,hamodali,h_a_m_o_d_a_l_i,h a m o d a l i,,,128,,^ h _ a _ m _ o _ d _ a _ l _ i $,default
 Werekena_Baniva-37_hotorwarm-1,,Werekena_Baniva,37_hotorwarm,atali,a_t_a_l_i,a t a l i,,,204,,^ a _ t _ a _ l _ i $,default
@@ -83,7 +83,7 @@ Achagua-37_hotorwarm-1,,Achagua,37_hotorwarm,amuái,a_m_u_a_i,a m u a i,,,128,,^
 Baniwa-37_hotorwarm-1,,Baniwa,37_hotorwarm,hámo,h_á_m_o,h á m o,,,128,,^ h _ á _ m _ o $,default
 Bare-37_hotorwarm-1,,Bare,37_hotorwarm,?,t_a_k_a_n_i,t a k a n i,,,204,,^ t _ a _ k _ a _ n _ i $,default
 Kabiyari-37_hotorwarm-1,,Kabiyari,37_hotorwarm,muʔú,m_u_ʔ_ú,m u ʔ ú,,,128,,^ m _ u _ ʔ _ ú $,default
-Piapoco-37_hotorwarm-1,,Piapoco,37_hotorwarm,ùuléeri,ù_u_l_é:_ɾ_i,ù u l éː ɾ i,,,130,,^ ù _ u _ l _ é: _ ɾ _ i $,default
+Piapoco-37_hotorwarm-1,,Piapoco,37_hotorwarm,ùuléeri,ù_u_l_é:_ɾ_i,ù u l éː/eː ɾ i,,,130,,^ ù _ u _ l _ é: _ ɾ _ i $,default
 Resigaro-37_hotorwarm-1,,Resigaro,37_hotorwarm,ha?mo?,h_a_ʔ_m_o_ʔ,h a ʔ m o ʔ,,,128,,^ h _ a _ ʔ _ m _ o _ ʔ $,default
 Tariana-37_hotorwarm-1,,Tariana,37_hotorwarm,?,h_a_m_ú_p_e_ɾ_i,h a m ú p e ɾ i,,,128,,^ h _ a _ m _ ú _ p _ e _ ɾ _ i $,default
 Yukuna-37_hotorwarm-1,,Yukuna,37_hotorwarm,imaʔaní,i_m_a_ʔ_a_n_í,i m a ʔ a n í,,,194,,^ i _ m _ a _ ʔ _ a _ n _ í $,default
@@ -98,10 +98,10 @@ Baniwa_Dzawinai-37_hotorwarm-1,,Baniwa_Dzawinai,37_hotorwarm,hamo,h_a_m_o,h a m 
 Tariana_Bruzzi-37_hotorwarm-1,,Tariana_Bruzzi,37_hotorwarm,hamũmãwhã,h_a_m_ũ_m_ã_wʰ_ã,h a m ũ m ã wʰ ã,,,128,,^ h _ a _ m _ ũ _ m _ ã _ wʰ _ ã $,default
 Koripako_aha-37_hotorwarm-1,,Koripako_aha,37_hotorwarm,hamodali,h_a_m_o_d_a_l_i,h a m o d a l i,,,128,,^ h _ a _ m _ o _ d _ a _ l _ i $,default
 Koripako_ehe-37_hotorwarm-1,,Koripako_ehe,37_hotorwarm,haːmu,h_aː_m_u,h aː m u,,,128,,^ h _ aː _ m _ u $,default
-Kauixana-37_hotorwarm-1,,Kauixana,37_hotorwarm,maʔ-hɨ̃,m_a_ʔ-_h_ɨ̃,m a !ʔ- h ɨ̃,,,194,,^ m _ a _ ʔ- _ h _ ɨ̃ $,default
+Kauixana-37_hotorwarm-1,,Kauixana,37_hotorwarm,maʔ-hɨ̃,m_a_ʔ-_h_ɨ̃,m a ʔ + h ɨ̃,,,194,,^ m _ a _ ʔ- _ h _ ɨ̃ $,default
 Yumana-37_hotorwarm-1,,Yumana,37_hotorwarm,sima,s_i_m_a,s i m a,,,194,,^ s _ i _ m _ a $,default
 Passe-37_hotorwarm-1,,Passe,37_hotorwarm,ima,i_m_a,i m a,,,194,,^ i _ m _ a $,default
-Resigaro-90_white-1,,Resigaro,90_white,?,+_(_b_r_a_n_c_o_)_+,<<+>> !( b r a n c o !) <<+>>,,,941,,^ <+> _ ( _ b _ r _ a _ n _ c _ o _ ) _ <+> $,default
+Resigaro-90_white-1,,Resigaro,90_white,?,+_(_b_r_a_n_c_o_)_+,<<+>> b r a n c o <<+>>,,,941,,^ <+> _ ( _ b _ r _ a _ n _ c _ o _ ) _ <+> $,default
 Tariana-90_white-1,,Tariana,90_white,?,h_a_l_í_t_e,h a l í t e,,,129,,^ h _ a _ l _ í _ t _ e $,default
 Yukuna-90_white-1,,Yukuna,90_white,hareni,h_a_r_e_n_i,h a r e n i,,,129,,^ h _ a _ r _ e _ n _ i $,default
 Warekena-90_white-1,,Warekena,90_white,?,á_ɾ_i_ɾ_i,á ɾ i ɾ i,,,129,,^ á _ ɾ _ i _ ɾ _ i $,default
@@ -124,15 +124,15 @@ Baniwa-90_white-1,,Baniwa,90_white,hále,h_á_l_e,h á l e,,,129,,^ h _ á _ l _
 Bare-90_white-1,,Bare,90_white,?,b_a_r_i_n_i,b a r i n i,,,943,,^ b _ a _ r _ i _ n _ i $,default
 Kabiyari-90_white-1,,Kabiyari,90_white,katare:i-ri,k_a_t_a_r_e:_i_r_i,k a t a r eː i r i,,,197,,^ k _ a _ t _ a _ r _ e: _ i _ r _ i $,default
 Piapoco-90_white-1,,Piapoco,90_white,cabalèeri,k_a_b_a_l_è_e_ɾ_i,k a b a l è e ɾ i,,,943,,^ k _ a _ b _ a _ l _ è _ e _ ɾ _ i $,default
-Kauixana-90_white-1,,Kauixana,90_white,kathí-si,k_a_th_í-_s_i,k a tʰ !í- s i,,,197,,^ k _ a _ th _ í- _ s _ i $,default
-Yumana-90_white-1,,Yumana,90_white,sa[h]re[-ju],s_a_[h]_r_e_[-_j_u_],s a ![h] r e ![- j u !],,,129,,^ s _ a _ [h] _ r _ e _ [- _ j _ u _ ] $,default
+Kauixana-90_white-1,,Kauixana,90_white,kathí-si,k_a_th_í-_s_i,k a tʰ í/i + s i,,,197,,^ k _ a _ th _ í- _ s _ i $,default
+Yumana-90_white-1,,Yumana,90_white,sa[h]re[-ju],s_a_[h]_r_e_[-_j_u_],s a h r e + j u,,,129,,^ s _ a _ [h] _ r _ e _ [- _ j _ u _ ] $,default
 Passe-90_white-1,,Passe,90_white,saaré,s_aa_r_é,s aː r é,,,129,,^ s _ aa _ r _ é $,default
-Passe-90_white-2,,Passe,90_white,saré-u,s_a_r_é-_u,s a r !é- u,,,129,,^ s _ a _ r _ é- _ u $,default
+Passe-90_white-2,,Passe,90_white,saré-u,s_a_r_é-_u,s a r é/e + u,,,129,,^ s _ a _ r _ é- _ u $,default
 Achagua-91_who-1,,Achagua,91_who,tána,t_á_n_a,t á n a,,,198,,^ t _ á _ n _ a $,default
 Baniwa-91_who-1,,Baniwa,91_who,kóaka,k_ó_a_k_a,k ó a k a,,,1856,,^ k _ ó _ a _ k _ a $,default
 Bare-91_who-1,,Bare,91_who,?,a_b_a_d_i,a b a d i,,,960,,^ a _ b _ a _ d _ i $,default
 Kabiyari-91_who-1,,Kabiyari,91_who,mikha,m_i_kh_a,m i kʰ a,,,950,,^ m _ i _ kh _ a $,default
-Kabiyari-91_who-2,,Kabiyari,91_who,arhi,a_rh_i,a !rh i,,,200,,^ a _ rh _ i $,default
+Kabiyari-91_who-2,,Kabiyari,91_who,arhi,a_rh_i,a rʰ i,,,200,,^ a _ rh _ i $,default
 Kabiyari-91_who-3,,Kabiyari,91_who,umha,u_mʰ_a,u mʰ a,,,959,,^ u _ mʰ _ a $,default
 Piapoco-91_who-1,,Piapoco,91_who,càiná,k_à_i_n_á,k à i n á,,,947,,^ k _ à _ i _ n _ á $,default
 Piapoco-91_who-2,,Piapoco,91_who,cawiná,k_a_w_i_n_á,k a w i n á,,,947,,^ k _ a _ w _ i _ n _ á $,default
@@ -178,7 +178,7 @@ Koripako_ehe-92_woman-1,,Koripako_ehe,92_woman,inaro,i_n_a_ɾ_o,i n a ɾ o,,,147
 Koripako_oho-92_woman-1,,Koripako_oho,92_woman,inaro,i_n_a_ɾ_o,i n a ɾ o,,,147,,^ i _ n _ a _ ɾ _ o $,default
 Koripako_name-92_woman-1,,Koripako_name,92_woman,liːno,l_iː_n_o,l iː n o,,,119,,^ l _ iː _ n _ o $,default
 Werekena_Baniva-92_woman-1,,Werekena_Baniva,92_woman,nejawa,n_e_j_a_w_a,n e j a w a,,,1920,,^ n _ e _ j _ a _ w _ a $,default
-Kauixana-92_woman-1,,Kauixana,92_woman,pɨtʃɨwála,p_ɨ_[tʃ]_ɨ_w_á_l_a,p ɨ ![tʃ] ɨ w á l a,,,21615,,^ p _ ɨ _ [tʃ] _ ɨ _ w _ á _ l _ a $,default
+Kauixana-92_woman-1,,Kauixana,92_woman,pɨtʃɨwála,p_ɨ_[tʃ]_ɨ_w_á_l_a,p ɨ tʃ ɨ w á l a,,,21615,,^ p _ ɨ _ [tʃ] _ ɨ _ w _ á _ l _ a $,default
 Yumana-92_woman-1,,Yumana,92_woman,jabujú,j_a_b_u_j_ú,j a b u j ú,,,207,,^ j _ a _ b _ u _ j _ ú $,default
 Yumana-92_woman-2,,Yumana,92_woman,ʃupujú,ʃ_u_p_u_j_ú,ʃ u p u j ú,,,207,,^ ʃ _ u _ p _ u _ j _ ú $,default
 Yumana-92_woman-3,,Yumana,92_woman,ʃapuijú,ʃ_a_p_ui_j_ú,ʃ a p ui j ú,,,207,,^ ʃ _ a _ p _ ui _ j _ ú $,default
@@ -205,14 +205,14 @@ Yukuna-38_i-1,,Yukuna,38_i,nuká,n_u_k_á,n u k á,,,1,,^ n _ u _ k _ á $,defau
 Warekena-38_i-1,,Warekena,38_i,?,n_u_j_a,n u j a,,,1,,^ n _ u _ j _ a $,default
 Kauixana-38_i-1,,Kauixana,38_i,nowá,n_o_w_á,n o w á,,,1,,^ n _ o _ w _ á $,default
 Yumana-38_i-1,,Yumana,38_i,telanohó,t_e_l_a_n_o_h_ó,t e l a n o h ó,,,1,,^ t _ e _ l _ a _ n _ o _ h _ ó $,default
-Yumana-38_i-2,,Yumana,38_i,mɨthe-háing,m_ɨ_tʰ_e-_h_ái_ng,m ɨ tʰ !e- h ái ng,,,212,,^ m _ ɨ _ tʰ _ e- _ h _ ái _ ng $,default
+Yumana-38_i-2,,Yumana,38_i,mɨthe-háing,m_ɨ_tʰ_e-_h_ái_ng,m ɨ tʰ e + h ái ng/ŋ,,,212,,^ m _ ɨ _ tʰ _ e- _ h _ ái _ ng $,default
 Passe-38_i-1,,Passe,38_i,noo,n_oo,n oː,,,1,,^ n _ oo $,default
 Achagua-93_yellow-1,,Achagua,93_yellow,meréekii,m_e_r_ee_k_ii,m e r eː k iː,,,971,,^ m _ e _ r _ ee _ k _ ii $,default
 Baniwa-93_yellow-1,,Baniwa,93_yellow,éewa,é_e_w_a,é e w a,,,1932,,^ é _ e _ w _ a $,default
 Bare-93_yellow-1,,Bare,93_yellow,?,w_i_t_u,w i t u,,,23,,^ w _ i _ t _ u $,default
 Kabiyari-93_yellow-1,,Kabiyari,93_yellow,karawa-ri,k_a_r_a_w_a_r_i,k a r a w a r i,,,1932,,^ k _ a _ r _ a _ w _ a _ r _ i $,default
-Piapoco-93_yellow-1,,Piapoco,93_yellow,é(e)wa,é_(_e_)_w_a,é !( e !) w a,,,1932,,^ é _ ( _ e _ ) _ w _ a $,default
-Piapoco-93_yellow-2,,Piapoco,93_yellow,éewéeri,é:_w_é:_ɾ_i,éː w éː ɾ i,,,1932,,^ é: _ w _ é: _ ɾ _ i $,default
+Piapoco-93_yellow-1,,Piapoco,93_yellow,é(e)wa,é_(_e_)_w_a,é e w a,,,1932,,^ é _ ( _ e _ ) _ w _ a $,default
+Piapoco-93_yellow-2,,Piapoco,93_yellow,éewéeri,é:_w_é:_ɾ_i,éː/eː w éː/eː ɾ i,,,1932,,^ é: _ w _ é: _ ɾ _ i $,default
 Resigaro-93_yellow-1,,Resigaro,93_yellow,dogíiga?é?,d_o_g_í_i_g_a_ʔ_é_ʔ,d o g í i g a ʔ é ʔ,,,976,,^ d _ o _ g _ í _ i _ g _ a _ ʔ _ é _ ʔ $,default
 Tariana-93_yellow-1,,Tariana,93_yellow,?,e_w_í_t_e,e w í t e,,,1932,,^ e _ w _ í _ t _ e $,default
 Yukuna-93_yellow-1,,Yukuna,93_yellow,hewani,h_e_w_a_n_i,h e w a n i,,,1932,,^ h _ e _ w _ a _ n _ i $,default
@@ -231,9 +231,9 @@ Koripako_ehe-93_yellow-1,,Koripako_ehe,93_yellow,eːwa,eː_w_a,eː w a,,,1932,,^
 Koripako_oho-93_yellow-1,,Koripako_oho,93_yellow,eːwadale,eː_w_a_d_a_l_e,eː w a d a l e,,,1932,,^ eː _ w _ a _ d _ a _ l _ e $,default
 Koripako_name-93_yellow-1,,Koripako_name,93_yellow,eːwadali,eː_w_a_d_a_l_i,eː w a d a l i,,,1932,,^ eː _ w _ a _ d _ a _ l _ i $,default
 Werekena_Baniva-93_yellow-1,,Werekena_Baniva,93_yellow,tɛwaɽi,t_ɛ_w_a_ɽ_i,t ɛ w a ɽ i,,,1932,,^ t _ ɛ _ w _ a _ ɽ _ i $,default
-Kauixana-93_yellow-1,,Kauixana,93_yellow,poɾoa-si,p_o_ɾ_oa-_s_i,p o ɾ !oa- s i,,,213,,^ p _ o _ ɾ _ oa- _ s _ i $,default
-Yumana-93_yellow-1,,Yumana,93_yellow,kitéia,k_i_t_é_ia,k i t é ia,,,214,,^ k _ i _ t _ é _ ia $,default
-Passe-93_yellow-1,,Passe,93_yellow,tsetʃeniaɲ,ts_e_tʃ_e_n_ia_ɲ,ts e tʃ e n ia ɲ,,,215,,^ ts _ e _ tʃ _ e _ n _ ia _ ɲ $,default
+Kauixana-93_yellow-1,,Kauixana,93_yellow,poɾoa-si,p_o_ɾ_oa-_s_i,p o ɾ oa + s i,,,213,,^ p _ o _ ɾ _ oa- _ s _ i $,default
+Yumana-93_yellow-1,,Yumana,93_yellow,kitéia,k_i_t_é_ia,k i t é i/j a,,,214,,^ k _ i _ t _ é _ ia $,default
+Passe-93_yellow-1,,Passe,93_yellow,tsetʃeniaɲ,ts_e_tʃ_e_n_ia_ɲ,ts e tʃ e n i/j a ɲ,,,215,,^ ts _ e _ tʃ _ e _ n _ ia _ ɲ $,default
 Baniwa_Waliperidakenai-39_kill-1,,Baniwa_Waliperidakenai,39_kill,nuinoaka,n_u_i_n_o_a_k_a,n u i n o a k a,,,21550,,^ n _ u _ i _ n _ o _ a _ k _ a $,default
 Baniwa_Hohoodene-39_kill-1,,Baniwa_Hohoodene,39_kill,wajnoakani,w_a_j_n_o_a_k_a_n_i,w a j n o a k a n i,,,21550,,^ w _ a _ j _ n _ o _ a _ k _ a _ n _ i $,default
 Baniwa_Dzurema-39_kill-1,,Baniwa_Dzurema,39_kill,ɽinoakani,ɽ_i_n_o_a_k_a_n_i,ɽ i n o a k a n i,,,21550,,^ ɽ _ i _ n _ o _ a _ k _ a _ n _ i $,default
@@ -255,13 +255,13 @@ Piapoco-39_kill-1,,Piapoco,39_kill,étáidaca,é_t_á_i_d_a_k_a,é t á i d a k 
 Piapoco-39_kill-2,,Piapoco,39_kill,nuáca,n_u_á_k_a,n u á k a,,,21550,,^ n _ u _ á _ k _ a $,default
 Resigaro-39_kill-1,,Resigaro,39_kill,kainée-khú,k_a_i_n_é_e_kʰ_ú,k a i n é e kʰ ú,,,131,,^ k _ a _ i _ n _ é _ e _ kʰ _ ú $,default
 Resigaro-39_kill-2,,Resigaro,39_kill,mótshó,m_ó_tsʰ_ó,m ó tsʰ ó,,,428,,^ m _ ó _ tsʰ _ ó $,default
-Tariana-39_kill-1,,Tariana,39_kill,?,d_í:_n_u,d íː n u,,,21550,,^ d _ í: _ n _ u $,default
+Tariana-39_kill-1,,Tariana,39_kill,?,d_í:_n_u,d íː/iː n u,,,21550,,^ d _ í: _ n _ u $,default
 Tariana-39_kill-2,,Tariana,39_kill,?,d_í_n_u,d í n u,,,21550,,^ d _ í _ n _ u $,default
 Yukuna-39_kill-1,,Yukuna,39_kill,nókaje,n_ó_k_a_h_e,n ó k a h e,,,21550,,^ n _ ó _ k _ a _ h _ e $,default
 Warekena-39_kill-1,,Warekena,39_kill,?,j_u_tʃ_i_a,j u tʃ i a,,,115,,^ j _ u _ tʃ _ i _ a $,default
 Kauixana-39_kill-1,,Kauixana,39_kill,ija,i_j_a,i j a,,,131,,^ i _ j _ a $,default
 Kauixana-39_kill-2,,Kauixana,39_kill,iɲa,i_ɲ_a,i ɲ a,,,131,,^ i _ ɲ _ a $,default
-Yumana-39_kill-1,,Yumana,39_kill,pekthá[?],p_e_ktʰ_á_[_ʔ_],p e ktʰ á ![ ʔ !],,,422,,^ p _ e _ ktʰ _ á _ [ _ ʔ _ ] $,default
+Yumana-39_kill-1,,Yumana,39_kill,pekthá[?],p_e_ktʰ_á_[_ʔ_],p e k tʰ á ʔ,,,422,,^ p _ e _ ktʰ _ á _ [ _ ʔ _ ] $,default
 Baniwa_Waliperidakenai-40_knee-1,,Baniwa_Waliperidakenai,40_knee,ɽiuʃuatʰe,ɽ_i_u_ʃ_u_a_tʰ_e,ɽ i u ʃ u a tʰ e,,,21551,,^ ɽ _ i _ u _ ʃ _ u _ a _ tʰ _ e $,default
 Baniwa_Hohoodene-40_knee-1,,Baniwa_Hohoodene,40_knee,haːʃi,h_aː_ʃ_i,h aː ʃ i,,,21551,,^ h _ aː _ ʃ _ i $,default
 Baniwa_Dzurema-40_knee-1,,Baniwa_Dzurema,40_knee,ɽ̥ʰioʐi,ɽʰ_i_o_ʐ_i,ɽʰ i o ʐ i,,,21551,,^ ɽʰ _ i _ o _ ʐ _ i $,default
@@ -272,19 +272,19 @@ Baniwa_Dzawinai-40_knee-1,,Baniwa_Dzawinai,40_knee,hiuʃi,h_i_u_ʃ_i,h i u ʃ i,
 Tariana_Bruzzi-40_knee-1,,Tariana_Bruzzi,40_knee,thusisida,tʰ_u_s_i_s_i_d_a,tʰ u s i s i d a,,,21551,,^ tʰ _ u _ s _ i _ s _ i _ d _ a $,default
 Werekena_Baniva-40_knee-1,,Werekena_Baniva,40_knee,nukwaɾitaɽe,n_u_kʷ_a_ɾ_i_t_a_ɽ_e,n u kʷ a ɾ i t a ɽ e,,,860,,^ n _ u _ kʷ _ a _ ɾ _ i _ t _ a _ ɽ _ e $,default
 Achagua-40_knee-1,,Achagua,40_knee,júruiʃi,j_u_r_u_i_ʃ_i,j u r u i ʃ i,,,21551,,^ j _ u _ r _ u _ i _ ʃ _ i $,default
-Baniwa-40_knee-1,,Baniwa,40_knee,-hóorhi,h_ó_o_rh_i,h ó o !rh i,,,21551,,^ h _ ó _ o _ rh _ i $,default
-Kabiyari-40_knee-1,,Kabiyari,40_knee,-urhu(na),u_rh_u_(_n_a_),u !rh u !( n a !),,,21551,,^ u _ rh _ u _ ( _ n _ a _ ) $,default
+Baniwa-40_knee-1,,Baniwa,40_knee,-hóorhi,h_ó_o_rh_i,h ó o rʰ i,,,21551,,^ h _ ó _ o _ rh _ i $,default
+Kabiyari-40_knee-1,,Kabiyari,40_knee,-urhu(na),u_rh_u_(_n_a_),u rʰ u n a,,,21551,,^ u _ rh _ u _ ( _ n _ a _ ) $,default
 Kabiyari-40_knee-2,,Kabiyari,40_knee,-huru,h_u_r_u,h u r u,,,21551,,^ h _ u _ r _ u $,default
 Piapoco-40_knee-1,,Piapoco,40_knee,?,w_à_u_l_u_ì,w à u l u ì,,,21551,,^ w _ à _ u _ l _ u _ ì $,default
 Resigaro-40_knee-1,,Resigaro,40_knee,-ho?dónaú,h_o_ʔ_d_ó_n_a_ú,h o ʔ d ó n a ú,,,21551,,^ h _ o _ ʔ _ d _ ó _ n _ a _ ú $,default
 Tariana-40_knee-1,,Tariana,40_knee,?,d_í_s_i,d í s i,,,21551,,^ d _ í _ s _ i $,default
 Yukuna-40_knee-1,,Yukuna,40_knee,iʔirúpachiji,r_i_ʔ_i_r_ú_p_a_tʃ_i,r i ʔ i r ú p a tʃ i,,,21551,,^ r _ i _ ʔ _ i _ r _ ú _ p _ a _ tʃ _ i $,default
 Warekena-40_knee-1,,Warekena,40_knee,?,n_u_k_u_w_a_ɾ_u_t_a_ɾ_e,n u k u w a ɾ u t a ɾ e,,,860,,^ n _ u _ k _ u _ w _ a _ ɾ _ u _ t _ a _ ɾ _ e $,default
-Kauixana-40_knee-1,,Kauixana,40_knee,[-áʔ(w)ɨ]-so-l(h)a,[-_á_ʔ_[_w_]_ɨ_]-_s_o-_l_[h]_a,![- á ʔ ![ w !] ɨ !]- s !o- l ![h] a,,,21551,,^ [- _ á _ ʔ _ [ _ w _ ] _ ɨ _ ]- _ s _ o- _ l _ [h] _ a $,default
-Passe-40_knee-1,,Passe,40_knee,oto-la[-pinka],o_t_o-_l_a_[-_p_i_n_k_a_],o t !o- l a ![- p i n k a !],,,21551,,^ o _ t _ o- _ l _ a _ [- _ p _ i _ n _ k _ a _ ] $,default
+Kauixana-40_knee-1,,Kauixana,40_knee,[-áʔ(w)ɨ]-so-l(h)a,[-_á_ʔ_[_w_]_ɨ_]-_s_o-_l_[h]_a,+ á ʔ w ɨ + s o + l h a,,,21551,,^ [- _ á _ ʔ _ [ _ w _ ] _ ɨ _ ]- _ s _ o- _ l _ [h] _ a $,default
+Passe-40_knee-1,,Passe,40_knee,oto-la[-pinka],o_t_o-_l_a_[-_p_i_n_k_a_],o t o + l a + p i n k a,,,21551,,^ o _ t _ o- _ l _ a _ [- _ p _ i _ n _ k _ a _ ] $,default
 Baniwa_Waliperidakenai-41_knowsomething-1,,Baniwa_Waliperidakenai,41_knowsomething,nuaheni,n_u_a_h_e_n_i,n u a h e n i,,,861,,^ n _ u _ a _ h _ e _ n _ i $,default
 Baniwa_Hohoodene-41_knowsomething-1,,Baniwa_Hohoodene,41_knowsomething,waːhẽki̥,w_aː_h_ẽ_k_i̥,w aː h ẽ k i̥,,,861,,^ w _ aː _ h _ ẽ _ k _ i̥ $,default
-Baniwa_Dzurema-41_knowsomething-1,,Baniwa_Dzurema,41_knowsomething,waʰljẽtsa,w_aʰ_l_j_ẽ_ts_a,w !aʰ l j ẽ ts a,,,861,,^ w _ aʰ _ l _ j _ ẽ _ ts _ a $,default
+Baniwa_Dzurema-41_knowsomething-1,,Baniwa_Dzurema,41_knowsomething,waʰljẽtsa,w_aʰ_l_j_ẽ_ts_a,w a <<ʰ>> l j ẽ ts a,,,861,,^ w _ a <ʰ> _ l _ j _ ẽ _ ts _ a $,default
 Baniwa_Mauliene-41_knowsomething-1,,Baniwa_Mauliene,41_knowsomething,nuwanʰeni,n_u_w_a_nʰ_e_n_i,n u w a nʰ e n i,,,861,,^ n _ u _ w _ a _ nʰ _ e _ n _ i $,default
 Koripako_Kumadene-41_knowsomething-1,,Koripako_Kumadene,41_knowsomething,nuwanʰẽoka,n_u_w_a_nʰ_ẽ_o_k_a,n u w a nʰ ẽ o k a,,,861,,^ n _ u _ w _ a _ nʰ _ ẽ _ o _ k _ a $,default
 Baniwa_Kowaidakenai-41_knowsomething-1,,Baniwa_Kowaidakenai,41_knowsomething,nuanʰe,n_u_a_nʰ_e,n u a nʰ e,,,861,,^ n _ u _ a _ nʰ _ e $,default
@@ -305,8 +305,8 @@ Resigaro-41_knowsomething-1,,Resigaro,41_knowsomething,-manaá-tó?,m_a_n_a_á_t
 Tariana-41_knowsomething-1,,Tariana,41_knowsomething,?,d_i_j_é_k_a,d i j é k a,,,444,,^ d _ i _ j _ é _ k _ a $,default
 Yukuna-41_knowsomething-1,,Yukuna,41_knowsomething,we'epíkaje,w_e_ʔ_e_p_í_k_a_h_e,w e ʔ e p í k a h e,,,446,,^ w _ e _ ʔ _ e _ p _ í _ k _ a _ h _ e $,default
 Warekena-41_knowsomething-1,,Warekena,41_knowsomething,?,ts_e,ts e,,,132,,^ ts _ e $,default
-Kauixana-41_knowsomething-1,,Kauixana,41_knowsomething,omah-,o_m_a_h-,o m a !h-,,,21553,,^ o _ m _ a _ h- $,default
-Kauixana-41_knowsomething-2,,Kauixana,41_knowsomething,wama-,w_a_m_a-,w a m !a-,,,21553,,^ w _ a _ m _ a- $,default
+Kauixana-41_knowsomething-1,,Kauixana,41_knowsomething,omah-,o_m_a_h-,o m a h,,,21553,,^ o _ m _ a _ h-$,default
+Kauixana-41_knowsomething-2,,Kauixana,41_knowsomething,wama-,w_a_m_a-,w a m a,,,21553,,^ w _ a _ m _ a-$,default
 Baniwa_Waliperidakenai-42_leaf-1,,Baniwa_Waliperidakenai,42_leaf,ɽipʰɛ,ɽ_i_pʰ_ɛ,ɽ i pʰ ɛ,,,55,,^ ɽ _ i _ pʰ _ ɛ $,default
 Baniwa_Hohoodene-42_leaf-1,,Baniwa_Hohoodene,42_leaf,ɽipʰɛ,ɽ_i_pʰ_ɛ,ɽ i pʰ ɛ,,,55,,^ ɽ _ i _ pʰ _ ɛ $,default
 Baniwa_Dzurema-42_leaf-1,,Baniwa_Dzurema,42_leaf,ɽipʰɛ,ɽ_i_pʰ_ɛ,ɽ i pʰ ɛ,,,55,,^ ɽ _ i _ pʰ _ ɛ $,default
@@ -333,8 +333,8 @@ Warekena-42_leaf-1,,Warekena,42_leaf,-phe,pʰ_e,pʰ e,,,216,,^ pʰ _ e $,default
 Warekena-42_leaf-2,,Warekena,42_leaf,apanaphe,a_p_a_n_a_pʰ_e,a p a n a pʰ e,,,216,,^ a _ p _ a _ n _ a _ pʰ _ e $,default
 Kauixana-42_leaf-1,,Kauixana,42_leaf,apaná,a_p_a_n_á,a p a n á,,,216,,^ a _ p _ a _ n _ á $,default
 Kauixana-42_leaf-2,,Kauixana,42_leaf,owála,o_w_á_l_a,o w á l a,,,21555,,^ o _ w _ á _ l _ a $,default
-Yumana-42_leaf-1,,Yumana,42_leaf,apunak-phe,a_p_u_n_a_k-_pʰ_e,a p u n a !k- pʰ e,,,216,,^ a _ p _ u _ n _ a _ k- _ pʰ _ e $,default
-Passe-42_leaf-1,,Passe,42_leaf,apana-ma,a_p_a_n_a-_m_a,a p a n !a- m a,,,216,,^ a _ p _ a _ n _ a- _ m _ a $,default
+Yumana-42_leaf-1,,Yumana,42_leaf,apunak-phe,a_p_u_n_a_k-_pʰ_e,a p u n a k + pʰ e,,,216,,^ a _ p _ u _ n _ a _ k- _ pʰ _ e $,default
+Passe-42_leaf-1,,Passe,42_leaf,apana-ma,a_p_a_n_a-_m_a,a p a n a + m a,,,216,,^ a _ p _ a _ n _ a- _ m _ a $,default
 Baniwa_Hohoodene-44_liver-1,,Baniwa_Hohoodene,44_liver,nuʃupana,n_u_ʃ_u_p_a_n_a,n u ʃ u p a n a,,,21558,,^ n _ u _ ʃ _ u _ p _ a _ n _ a $,default
 Baniwa_Dzurema-44_liver-1,,Baniwa_Dzurema,44_liver,nuʃupɐna,n_u_ʃ_u_p_ɐ_n_a,n u ʃ u p ɐ n a,,,21558,,^ n _ u _ ʃ _ u _ p _ ɐ _ n _ a $,default
 Baniwa_Mauliene-44_liver-1,,Baniwa_Mauliene,44_liver,nuʃupana,n_u_ʃ_u_p_a_n_a,n u ʃ u p a n a,,,21558,,^ n _ u _ ʃ _ u _ p _ a _ n _ a $,default
@@ -409,9 +409,9 @@ Tariana-46_man-1,,Tariana,46_man,?,c̃_i_ã_ɾ_i,c̃ i ã ɾ i,,,1068,,^ c̃ _ i
 Yukuna-46_man-1,,Yukuna,46_man,achiñá,a_tʃ_i_ɲ_á,a tʃ i ɲ á,,,1068,,^ a _ tʃ _ i _ ɲ _ á $,default
 Warekena-46_man-1,,Warekena,46_man,?,e_n_a_m_i,e n a m i,,,503,,^ e _ n _ a _ m _ i $,default
 Kauixana-46_man-1,,Kauixana,46_man,tsína,ts_í_n_a,ts í n a,,,1068,,^ ts _ í _ n _ a $,default
-Yumana-46_man-1,,Yumana,46_man,asiah,a_s_ia_h,a s ia h,,,1068,,^ a _ s _ ia _ h $,default
+Yumana-46_man-1,,Yumana,46_man,asiah,a_s_ia_h,a s i/j a h,,,1068,,^ a _ s _ ia _ h $,default
 Yumana-46_man-2,,Yumana,46_man,adʒɨwa,a_dʒ_ɨ_w_a,a dʒ ɨ w a,,,1068,,^ a _ dʒ _ ɨ _ w _ a $,default
-Yumana-46_man-3,,Yumana,46_man,atsiã,a_ts_iã,a ts iã,,,1068,,^ a _ ts _ iã $,default
+Yumana-46_man-3,,Yumana,46_man,atsiã,a_ts_iã,a ts i/j ã,,,1068,,^ a _ ts _ iã $,default
 Passe-46_man-1,,Passe,46_man,okoné,o_k_o_n_é,o k o n é,,,220,,^ o _ k _ o _ n _ é $,default
 Passe-46_man-2,,Passe,46_man,okunala,o_k_u_n_a_l_a,o k u n a l a,,,220,,^ o _ k _ u _ n _ a _ l _ a $,default
 Baniwa_Waliperidakenai-47_many-1,,Baniwa_Waliperidakenai,47_many,mɐnupɛ,m_ɐ_n_u_p_ɛ,m ɐ n u p ɛ,,,142,,^ m _ ɐ _ n _ u _ p _ ɛ $,default
@@ -433,10 +433,10 @@ Baniwa-47_many-2,,Baniwa,47_many,hóre,h_ó_r_e,h ó r e,,,144,,^ h _ ó _ r _ e
 Baniwa-47_many-3,,Baniwa,47_many,manópe,m_a_n_ó_p_e,m a n ó p e,,,142,,^ m _ a _ n _ ó _ p _ e $,default
 Bare-47_many-1,,Bare,47_many,?,i_b_a_b_u_k_u,i b a b u k u,,,508,,^ i _ b _ a _ b _ u _ k _ u $,default
 Kabiyari-47_many-1,,Kabiyari,47_many,muura,m_uu_r_a,m uː r a,,,21561,,^ m _ uu _ r _ a $,default
-Piapoco-47_many-1,,Piapoco,47_many,kána(na)ma,k_á_n_a_(_n_a_)_m_a,k á n a !( n a !) m a,,,221,,^ k _ á _ n _ a _ ( _ n _ a _ ) _ m _ a $,default
+Piapoco-47_many-1,,Piapoco,47_many,kána(na)ma,k_á_n_a_(_n_a_)_m_a,k á n a n a m a,,,221,,^ k _ á _ n _ a _ ( _ n _ a _ ) _ m _ a $,default
 Piapoco-47_many-2,,Piapoco,47_many,manuba,m_a_n_u_b_a,m a n u b a,,,142,,^ m _ a _ n _ u _ b _ a $,default
 Piapoco-47_many-3,,Piapoco,47_many,maini,m_a_i_n_i,m a i n i,,,520,,^ m _ a _ i _ n _ i $,default
-Resigaro-47_many-1,,Resigaro,47_many,an̥epúúʔ,a_n̥_e_p_úú_ʔ,a n̥ e p úú ʔ,,,145,,^ a _ n̥ _ e _ p _ úú _ ʔ $,default
+Resigaro-47_many-1,,Resigaro,47_many,an̥epúúʔ,a_n̥_e_p_úú_ʔ,a n̥ e p ú: ʔ,,,145,,^ a _ n̥ _ e _ p _ úú _ ʔ $,default
 Tariana-47_many-1,,Tariana,47_many,?,h_a_n_í_p_a,h a n í p a,,,145,,^ h _ a _ n _ í _ p _ a $,default
 Tariana-47_many-2,,Tariana,47_many,?,s_ó_m_e,s ó m e,,,513,,^ s _ ó _ m _ e $,default
 Tariana-47_many-3,,Tariana,47_many,?,ts_ó_m_e,ts ó m e,,,513,,^ ts _ ó _ m _ e $,default
@@ -448,11 +448,11 @@ Warekena-47_many-1,,Warekena,47_many,?,ʃ_u_p_e,ʃ u p e,,,223,,^ ʃ _ u _ p _ e
 Warekena-47_many-2,,Warekena,47_many,?,a_k_u_n_e,a k u n e,,,221,,^ a _ k _ u _ n _ e $,default
 Kauixana-47_many-1,,Kauixana,47_many,pale,p_a_l_e,p a l e,,,21561,,^ p _ a _ l _ e $,default
 Yumana-47_many-1,,Yumana,47_many,kená,k_e_n_á,k e n á,,,221,,^ k _ e _ n _ á $,default
-Yumana-47_many-2,,Yumana,47_many,jepi-ú,j_e_p_i-_ú,j e p !i- ú,,,223,,^ j _ e _ p _ i- _ ú $,default
+Yumana-47_many-2,,Yumana,47_many,jepi-ú,j_e_p_i-_ú,j e p i + ú,,,223,,^ j _ e _ p _ i- _ ú $,default
 Yumana-47_many-3,,Yumana,47_many,jaɨole,j_a_ɨ_o_l_e,j a ɨ o l e,,,0,,^ j _ a _ ɨ _ o _ l _ e $,default
-Passe-47_many-1,,Passe,47_many,pola-la,p_o_l_a-_l_a,p o l !a- l a,,,21561,,^ p _ o _ l _ a- _ l _ a $,default
+Passe-47_many-1,,Passe,47_many,pola-la,p_o_l_a-_l_a,p o l a + l a,,,21561,,^ p _ o _ l _ a- _ l _ a $,default
 Passe-47_many-2,,Passe,47_many,poola,p_oo_l_a,p oː l a,,,21561,,^ p _ oo _ l _ a $,default
-Passe-47_many-3,,Passe,47_many,pola-ju,p_o_l_a-_j_u,p o l !a- j u,,,21561,,^ p _ o _ l _ a- _ j _ u $,default
+Passe-47_many-3,,Passe,47_many,pola-ju,p_o_l_a-_j_u,p o l a + j u,,,21561,,^ p _ o _ l _ a- _ j _ u $,default
 Baniwa_Waliperidakenai-48_moon-1,,Baniwa_Waliperidakenai,48_moon,tʃɛːɾi,tʃ_ɛː_ɾ_i,tʃ ɛː ɾ i,,,222,,^ tʃ _ ɛː _ ɾ _ i $,default
 Baniwa_Hohoodene-48_moon-1,,Baniwa_Hohoodene,48_moon,keːɽi,k_eː_ɽ_i,k eː ɽ i,,,222,,^ k _ eː _ ɽ _ i $,default
 Baniwa_Dzurema-48_moon-1,,Baniwa_Dzurema,48_moon,keːɽi,k_eː_ɽ_i,k eː ɽ i,,,222,,^ k _ eː _ ɽ _ i $,default
@@ -466,14 +466,14 @@ Achagua-48_moon-1,,Achagua,48_moon,kéeri,k_e:_r_i,k eː r i,,,222,,^ k _ e: _ r
 Baniwa-48_moon-1,,Baniwa,48_moon,kéeri,k_é_e_r_i,k é e r i,,,222,,^ k _ é _ e _ r _ i $,default
 Bare-48_moon-1,,Bare,48_moon,?,kʰ_i,kʰ i,,,222,,^ kʰ _ i $,default
 Kabiyari-48_moon-1,,Kabiyari,48_moon,kéeri,k_é_e_r_i,k é e r i,,,222,,^ k _ é _ e _ r _ i $,default
-Piapoco-48_moon-1,,Piapoco,48_moon,quéeri,k_é:_ɾ_i,k éː ɾ i,,,222,,^ k _ é: _ ɾ _ i $,default
+Piapoco-48_moon-1,,Piapoco,48_moon,quéeri,k_é:_ɾ_i,k éː/eː ɾ i,,,222,,^ k _ é: _ ɾ _ i $,default
 Resigaro-48_moon-1,,Resigaro,48_moon,keégí,k_e_é_g_í,k e é g í,,,222,,^ k _ e _ é _ g _ í $,default
 Tariana-48_moon-1,,Tariana,48_moon,?,d_e:_p_i_t_e_+_k_e:_ɾ_i,d eː p i t e <<+>> k eː ɾ i,,,222,,^ d _ e: _ p _ i _ t _ e _ <+> _ k _ e: _ ɾ _ i $,default
 Yukuna-48_moon-1,,Yukuna,48_moon,keri,k_e_ɾ_i,k e ɾ i,,,222,,^ k _ e _ ɾ _ i $,default
 Warekena-48_moon-1,,Warekena,48_moon,?,a_ʃ_í_t_a,a ʃ í t a,,,1012,,^ a _ ʃ _ í _ t _ a $,default
 Kauixana-48_moon-1,,Kauixana,48_moon,kesí,k_e_s_í,k e s í,,,222,,^ k _ e _ s _ í $,default
 Yumana-48_moon-1,,Yumana,48_moon,waníu,w_a_n_í_u,w a n í u,,,224,,^ w _ a _ n _ í _ u $,default
-Yumana-48_moon-2,,Yumana,48_moon,owitte,o_w_i_tt_e,o w i tt e,,,224,,^ o _ w _ i _ tt _ e $,default
+Yumana-48_moon-2,,Yumana,48_moon,owitte,o_w_i_tt_e,o w i tː e,,,224,,^ o _ w _ i _ tt _ e $,default
 Passe-48_moon-1,,Passe,48_moon,kiʃi,k_i_ʃ_i,k i ʃ i,,,222,,^ k _ i _ ʃ _ i $,default
 Passe-48_moon-2,,Passe,48_moon,kɨetɨe,k_ɨ_e_t_ɨ_e,k ɨ e t ɨ e,,,222,,^ k _ ɨ _ e _ t _ ɨ _ e $,default
 Baniwa_Waliperidakenai-49_mountain-1,,Baniwa_Waliperidakenai,49_mountain,hidzapa,h_i_dz_a_p_a,h i dz a p a,,,1039,,^ h _ i _ dz _ a _ p _ a $,default
@@ -499,7 +499,7 @@ Resigaro-49_mountain-1,,Resigaro,49_mountain,tégahú,t_é_g_a_h_ú,t é g a h �
 Tariana-49_mountain-1,,Tariana,49_mountain,maka-pulikúda,m_a_k_a_p_u_l_i_k_ú_d_a,m a k a p u l i k ú d a,,,534,,^ m _ a _ k _ a _ p _ u _ l _ i _ k _ ú _ d _ a $,default
 Yukuna-49_mountain-1,,Yukuna,49_mountain,henuri,h_e_n_u_ɾ_i,h e n u ɾ i,,,13,,^ h _ e _ n _ u _ ɾ _ i $,default
 Warekena-49_mountain-1,,Warekena,49_mountain,hidápa,h_i_d_á_p_a,h i d á p a,,,1039,,^ h _ i _ d _ á _ p _ a $,default
-Kauixana-49_mountain-1,,Kauixana,49_mountain,tʃeno-wasi,tʃ_e_n_o-_w_a_s_i,tʃ e n !o- w a s i,,,13,,^ tʃ _ e _ n _ o- _ w _ a _ s _ i $,default
+Kauixana-49_mountain-1,,Kauixana,49_mountain,tʃeno-wasi,tʃ_e_n_o-_w_a_s_i,tʃ e n o + w a s i,,,13,,^ tʃ _ e _ n _ o- _ w _ a _ s _ i $,default
 Baniwa_Waliperidakenai-50_mouth-1,,Baniwa_Waliperidakenai,50_mouth,ɽinuma,ɽ_i_n_u_m_a,ɽ i n u m a,,,21564,,^ ɽ _ i _ n _ u _ m _ a $,default
 Baniwa_Hohoodene-50_mouth-1,,Baniwa_Hohoodene,50_mouth,ɽinuma,ɽ_i_n_u_m_a,ɽ i n u m a,,,21564,,^ ɽ _ i _ n _ u _ m _ a $,default
 Baniwa_Dzurema-50_mouth-1,,Baniwa_Dzurema,50_mouth,ɽinuma,ɽ_i_n_u_m_a,ɽ i n u m a,,,21564,,^ ɽ _ i _ n _ u _ m _ a $,default
@@ -524,7 +524,7 @@ Yukuna-50_mouth-1,,Yukuna,50_mouth,numaji,n_u_m_a_h_i,n u m a h i,,,21564,,^ n _
 Warekena-50_mouth-1,,Warekena,50_mouth,?,n_u_n_ú_m_a,n u n ú m a,,,21564,,^ n _ u _ n _ ú _ m _ a $,default
 Kauixana-50_mouth-1,,Kauixana,50_mouth,nomá,n_o_m_á,n o m á,,,21564,,^ n _ o _ m _ á $,default
 Yumana-50_mouth-1,,Yumana,50_mouth,nomɨ,n_o_m_ɨ,n o m ɨ,,,21564,,^ n _ o _ m _ ɨ $,default
-Yumana-50_mouth-2,,Yumana,50_mouth,n-uma,n-_u_m_a,!n- u m a,,,21564,,^ n- _ u _ m _ a $,default
+Yumana-50_mouth-2,,Yumana,50_mouth,n-uma,n-_u_m_a,n + u m a,,,21564,,^ n- _ u _ m _ a $,default
 Passe-50_mouth-1,,Passe,50_mouth,numa,n_u_m_a,n u m a,,,21564,,^ n _ u _ m _ a $,default
 Baniwa_Waliperidakenai-51_name-1,,Baniwa_Waliperidakenai,51_name,atʃiãɽi,a_tʃ_i_ã_ɽ_i,a tʃ i ã ɽ i,,,1068,,^ a _ tʃ _ i _ ã _ ɽ _ i $,default
 Baniwa_Hohoodene-51_name-1,,Baniwa_Hohoodene,51_name,ɽiːpitɐna,ɽ_iː_p_i_t_ɐ_n_a,ɽ iː p i t ɐ n a,,,554,,^ ɽ _ iː _ p _ i _ t _ ɐ _ n _ a $,default
@@ -589,16 +589,16 @@ Baniwa-52_neck-1,,Baniwa,52_neck,-nóoro,n_ó_o_r_o,n ó o r o,,,21566,,^ n _ ó
 Bare-52_neck-1,,Bare,52_neck,?,n_u_ʰn_u,n u ʰn u,,,21566,,^ n _ u _ ʰn _ u $,default
 Kabiyari-52_neck-1,,Kabiyari,52_neck,kanhapi,k_a_nʰ_a_p_i,k a nʰ a p i,,,228,,^ k _ a _ nʰ _ a _ p _ i $,default
 Piapoco-52_neck-1,,Piapoco,52_neck,canápi,k_a_n_á_p_i,k a n á p i,,,228,,^ k _ a _ n _ á _ p _ i $,default
-Resigaro-52_neck-1,,Resigaro,52_neck,-iñočhí,i_ñ_o_tʃh_í,i ɲ o !tʃh í,,,21566,,^ i _ ñ _ o _ tʃh _ í $,default
-Tariana-52_neck-1,,Tariana,52_neck,?,dh_i_n_ú_ɾ_u,!dh i n ú ɾ u,,,21566,,^ dh _ i _ n _ ú _ ɾ _ u $,default
+Resigaro-52_neck-1,,Resigaro,52_neck,-iñočhí,i_ñ_o_tʃh_í,i ɲ o tʃʰ í,,,21566,,^ i _ ñ _ o _ tʃh _ í $,default
+Tariana-52_neck-1,,Tariana,52_neck,?,dh_i_n_ú_ɾ_u,dʰ i n ú ɾ u,,,21566,,^ dh _ i _ n _ ú _ ɾ _ u $,default
 Yukuna-52_neck-1,,Yukuna,52_neck,núrupiji,n_ú_r_u_p_i_h_i,n ú r u p i h i,,,21566,,^ n _ ú _ r _ u _ p _ i _ h _ i $,default
 Warekena-52_neck-1,,Warekena,52_neck,?,n_u_n_u_p_i,n u n u p i,,,21566,,^ n _ u _ n _ u _ p _ i $,default
 Kauixana-52_neck-1,,Kauixana,52_neck,nótso,n_ó_ts_o,n ó ts o,,,21566,,^ n _ ó _ ts _ o $,default
 Yumana-52_neck-1,,Yumana,52_neck,márpii,m_á_r_p_ii,m á r p iː,,,0,,^ m _ á _ r _ p _ ii $,default
-Yumana-52_neck-2,,Yumana,52_neck,larap[u]ɨ,l_a_r_a_p_[u]_ɨ,l a r a p ![u] ɨ,,,228,,^ l _ a _ r _ a _ p _ [u] _ ɨ $,default
-Yumana-52_neck-3,,Yumana,52_neck,[o]attá,[o]_a_tt_á,![o] a tt á,,,211,,^ [o] _ a _ tt _ á $,default
+Yumana-52_neck-2,,Yumana,52_neck,larap[u]ɨ,l_a_r_a_p_[u]_ɨ,l a r a p u ɨ,,,228,,^ l _ a _ r _ a _ p _ [u] _ ɨ $,default
+Yumana-52_neck-3,,Yumana,52_neck,[o]attá,[o]_a_tt_á,o a tː á,,,211,,^ [o] _ a _ tt _ á $,default
 Passe-52_neck-1,,Passe,52_neck,notó,n_o_t_ó,n o t ó,,,21566,,^ n _ o _ t _ ó $,default
-Passe-52_neck-2,,Passe,52_neck,tolho,t_o_lh_o,t o !lh o,,,21566,,^ t _ o _ lh _ o $,default
+Passe-52_neck-2,,Passe,52_neck,tolho,t_o_lh_o,t o lʰ o,,,21566,,^ t _ o _ lh _ o $,default
 Baniwa_Waliperidakenai-53_new-1,,Baniwa_Waliperidakenai,53_new,waɽipɛ,w_a_ɽ_i_p_ɛ,w a ɽ i p ɛ,,,21567,,^ w _ a _ ɽ _ i _ p _ ɛ $,default
 Baniwa_Hohoodene-53_new-1,,Baniwa_Hohoodene,53_new,waːɽipɛ,w_aː_ɽ_i_p_ɛ,w aː ɽ i p ɛ,,,21567,,^ w _ aː _ ɽ _ i _ p _ ɛ $,default
 Baniwa_Dzurema-53_new-1,,Baniwa_Dzurema,53_new,waɽidaɽi,w_a_ɽ_i_d_a_ɽ_i,w a ɽ i d a ɽ i,,,21567,,^ w _ a _ ɽ _ i _ d _ a _ ɽ _ i $,default
@@ -624,7 +624,7 @@ Tariana-53_new-1,,Tariana,53_new,?,w_a_l_í_t_e,w a l í t e,,,21567,,^ w _ a _ 
 Tariana-53_new-2,,Tariana,53_new,?,e_m_í_t_e,e m í t e,,,565,,^ e _ m _ í _ t _ e $,default
 Yukuna-53_new-1,,Yukuna,53_new,wajé,w_a_h_é,w a h é,,,59,,^ w _ a _ h _ é $,default
 Warekena-53_new-1,,Warekena,53_new,?,w_e_n_i_a_p_e_ɾ_i,w e n i a p e ɾ i,,,21567,,^ w _ e _ n _ i _ a _ p _ e _ ɾ _ i $,default
-Kauixana-53_new-1,,Kauixana,53_new,wali-laɾi,w_a_l_i-_l_a_ɾ_i,w a l !i- l a ɾ i,,,21567,,^ w _ a _ l _ i- _ l _ a _ ɾ _ i $,default
+Kauixana-53_new-1,,Kauixana,53_new,wali-laɾi,w_a_l_i-_l_a_ɾ_i,w a l i + l a ɾ i,,,21567,,^ w _ a _ l _ i- _ l _ a _ ɾ _ i $,default
 Achagua-11_clawornail-1,,Achagua,11_clawornail,júbawiaʃi,j_u_b_a_w_i_a_ʃ_i,j u b a w i a ʃ i,,,21509,,^ j _ u _ b _ a _ w _ i _ a _ ʃ _ i $,default
 Baniwa-11_clawornail-1,,Baniwa,11_clawornail,-tsóta,ts_ó_t_a,ts ó t a,,,140,,^ ts _ ó _ t _ a $,default
 Bare-11_clawornail-1,,Bare,11_clawornail,?,ʰn_a_b_a,ʰn a b a,,,21509,,^ ʰn _ a _ b _ a $,default
@@ -658,15 +658,15 @@ Bare-54_night-1,,Bare,54_night,?,h_e_b_i_n_a_m_a,h e b i n a m a,,,138,,^ h _ e 
 Kabiyari-54_night-1,,Kabiyari,54_night,néápi,n_é_á_p_i,n é á p i,,,138,,^ n _ é _ á _ p _ i $,default
 Piapoco-54_night-1,,Piapoco,54_night,catá,k_a_t_á,k a t á,,,580,,^ k _ a _ t _ á $,default
 Resigaro-54_night-1,,Resigaro,54_night,naapí,n_aa_p_í,n aː p í,,,138,,^ n _ aa _ p _ í $,default
-Tariana-54_night-1,,Tariana,54_night,?,d_é:_p_i,d éː p i,,,138,,^ d _ é: _ p _ i $,default
+Tariana-54_night-1,,Tariana,54_night,?,d_é:_p_i,d éː/eː p i,,,138,,^ d _ é: _ p _ i $,default
 Tariana-54_night-2,,Tariana,54_night,?,d_é_p_i,d é p i,,,138,,^ d _ é _ p _ i $,default
 Yukuna-54_night-1,,Yukuna,54_night,lapí,l_a_p_í,l a p í,,,138,,^ l _ a _ p _ í $,default
 Warekena-54_night-1,,Warekena,54_night,?,j_a_ʃ_a_p_u_a,j a ʃ a p u a,,,583,,^ j _ a _ ʃ _ a _ p _ u _ a $,default
 Kauixana-54_night-1,,Kauixana,54_night,lápi,l_á_p_i,l á p i,,,138,,^ l _ á _ p _ i $,default
-Yumana-54_night-1,,Yumana,54_night,ketsé-ka,k_e_ts_é-_k_a,k e ts !é- k a,,,230,,^ k _ e _ ts _ é- _ k _ a $,default
+Yumana-54_night-1,,Yumana,54_night,ketsé-ka,k_e_ts_é-_k_a,k e ts é/e + k a,,,230,,^ k _ e _ ts _ é- _ k _ a $,default
 Yumana-54_night-2,,Yumana,54_night,walajekah,w_a_l_a_j_e_k_a_h,w a l a j e k a h,,,0,,^ w _ a _ l _ a _ j _ e _ k _ a _ h $,default
 Passe-54_night-1,,Passe,54_night,lapoto,l_a_p_o_t_o,l a p o t o,,,138,,^ l _ a _ p _ o _ t _ o $,default
-Passe-54_night-2,,Passe,54_night,Kese-ju,k_e_s_e-_j_u,k e s !e- j u,,,230,,^ k _ e _ s _ e- _ j _ u $,default
+Passe-54_night-2,,Passe,54_night,Kese-ju,k_e_s_e-_j_u,k e s e + j u,,,230,,^ k _ e _ s _ e- _ j _ u $,default
 Baniwa_Waliperidakenai-55_nose-1,,Baniwa_Waliperidakenai,55_nose,ɽʰitako,ɽʰ_i_t_a_k_o,ɽʰ i t a k o,,,21569,,^ ɽʰ _ i _ t _ a _ k _ o $,default
 Baniwa_Hohoodene-55_nose-1,,Baniwa_Hohoodene,55_nose,hɛtako,h_ɛ_t_a_k_o,h ɛ t a k o,,,21569,,^ h _ ɛ _ t _ a _ k _ o $,default
 Baniwa_Dzurema-55_nose-1,,Baniwa_Dzurema,55_nose,ɽ̥ʰitako,ɽʰ_i_t_a_k_o,ɽʰ i t a k o,,,21569,,^ ɽʰ _ i _ t _ a _ k _ o $,default
@@ -689,7 +689,7 @@ Resigaro-55_nose-1,,Resigaro,55_nose,-hitákó,h_i_t_á_k_ó,h i t á k ó,,,215
 Tariana-55_nose-1,,Tariana,55_nose,?,d_i_tʰ_a_k_ú,d i tʰ a k ú,,,21569,,^ d _ i _ tʰ _ a _ k _ ú $,default
 Yukuna-55_nose-1,,Yukuna,55_nose,takuji,t_a_k_u_h_i,t a k u h i,,,21569,,^ t _ a _ k _ u _ h _ i $,default
 Warekena-55_nose-1,,Warekena,55_nose,?,n_u_j_a_p_a,n u j a p a,,,592,,^ n _ u _ j _ a _ p _ a $,default
-Kauixana-55_nose-1,,Kauixana,55_nose,(h)ɨtokó,[h]_ɨ_t_o_k_ó,![h] ɨ t o k ó,,,21569,,^ [h] _ ɨ _ t _ o _ k _ ó $,default
+Kauixana-55_nose-1,,Kauixana,55_nose,(h)ɨtokó,[h]_ɨ_t_o_k_ó,h ɨ t o k ó,,,21569,,^ [h] _ ɨ _ t _ o _ k _ ó $,default
 Yumana-55_nose-1,,Yumana,55_nose,itʃuku,i_tʃ_u_k_u,i tʃ u k u,,,21569,,^ i _ tʃ _ u _ k _ u $,default
 Yumana-55_nose-2,,Yumana,55_nose,ɨtʃoko,ɨ_tʃ_o_k_o,ɨ tʃ o k o,,,21569,,^ ɨ _ tʃ _ o _ k _ o $,default
 Passe-55_nose-1,,Passe,55_nose,itaku,i_t_a_k_u,i t a k u,,,21569,,^ i _ t _ a _ k _ u $,default
@@ -709,20 +709,20 @@ Koripako_oho-57_one-1,,Koripako_oho,57_one,padatsa,p_a_d_a_ts_a,p a d a ts a,,,2
 Koripako_name-57_one-1,,Koripako_name,57_one,padatsa,p_a_d_a_ts_a,p a d a ts a,,,21575,,^ p _ a _ d _ a _ ts _ a $,default
 Werekena_Baniva-57_one-1,,Werekena_Baniva,57_one,patʃɛɾo,p_a_tʃ_ɛ_ɾ_o,p a tʃ ɛ ɾ o,,,21575,,^ p _ a _ tʃ _ ɛ _ ɾ _ o $,default
 Achagua-57_one-1,,Achagua,57_one,áabai,a:_b_a_i,aː b a i,,,21575,,^ a: _ b _ a _ i $,default
-Baniwa-57_one-1,,Baniwa,57_one,a(a)pa-,a_(_a_)_p_a,a !( a !) p a,,,21575,,^ a _ ( _ a _ ) _ p _ a $,default
+Baniwa-57_one-1,,Baniwa,57_one,a(a)pa-,a_(_a_)_p_a,a a p a,,,21575,,^ a _ ( _ a _ ) _ p _ a $,default
 Bare-57_one-1,,Bare,57_one,?,b_a_k_u,b a k u,,,21575,,^ b _ a _ k _ u $,default
-Kabiyari-57_one-1,,Kabiyari,57_one,pa[pu],p_a_[p_u],p a ![p !u],,,21575,,^ p _ a _ [p _ u] $,default
-Piapoco-57_one-1,,Piapoco,57_one,ab[ì-],a_b_[_ì_],a b ![ ì !],,,21575,,^ a _ b _ [ _ ì _ ] $,default
+Kabiyari-57_one-1,,Kabiyari,57_one,pa[pu],p_a_[p_u],p a p u,,,21575,,^ p _ a _ [p _ u] $,default
+Piapoco-57_one-1,,Piapoco,57_one,ab[ì-],a_b_[_ì_],a b ì,,,21575,,^ a _ b _ [ _ ì _ ] $,default
 Piapoco-57_one-2,,Piapoco,57_one,abe,a_b_e,a b e,,,21575,,^ a _ b _ e $,default
-Resigaro-57_one-1,,Resigaro,57_one,pa[topʰe],p_a_[_t_o_pʰ_e_],p a ![ t o pʰ e !],,,21575,,^ p _ a _ [ _ t _ o _ pʰ _ e _ ] $,default
+Resigaro-57_one-1,,Resigaro,57_one,pa[topʰe],p_a_[_t_o_pʰ_e_],p a t o pʰ e,,,21575,,^ p _ a _ [ _ t _ o _ pʰ _ e _ ] $,default
 Resigaro-57_one-2,,Resigaro,57_one,sagú,s_a_g_ú,s a g ú,,,616,,^ s _ a _ g _ ú $,default
-Tariana-57_one-1,,Tariana,57_one,?,p_á:_d_a,p áː d a,,,21575,,^ p _ á: _ d _ a $,default
-Yukuna-57_one-1,,Yukuna,57_one,pajluwa,p_a_(h_l_u_w_á_h_a_),p a !(h l u w á h a !),,,21575,,^ p _ a _ (h _ l _ u _ w _ á _ h _ a _ ) $,default
+Tariana-57_one-1,,Tariana,57_one,?,p_á:_d_a,p áː/aː d a,,,21575,,^ p _ á: _ d _ a $,default
+Yukuna-57_one-1,,Yukuna,57_one,pajluwa,p_a_(h_l_u_w_á_h_a_),p a h l u w á h a,,,21575,,^ p _ a _ (h _ l _ u _ w _ á _ h _ a _ ) $,default
 Warekena-57_one-1,,Warekena,57_one,?,a_p_a,a p a,,,21575,,^ a _ p _ a $,default
-Kauixana-57_one-1,,Kauixana,57_one,pe-l(h)ó,p_e-_l_[h]_ó,p !e- l ![h] ó,,,21575,,^ p _ e- _ l _ [h] _ ó $,default
+Kauixana-57_one-1,,Kauixana,57_one,pe-l(h)ó,p_e-_l_[h]_ó,p e + l h ó,,,21575,,^ p _ e- _ l _ [h] _ ó $,default
 Kauixana-57_one-2,,Kauixana,57_one,pane,p_a_n_e,p a n e,,,21575,,^ p _ a _ n _ e $,default
-Kauixana-57_one-3,,Kauixana,57_one,pé-l(h)a,p_é_–_l[h]_a,p é !– !l[h] a,,,21575,,^ p _ é _ – _ l[h] _ a $,default
-Yumana-57_one-1,,Yumana,57_one,aphɨlhá,a_pʰ_ɨ_lh_á,a pʰ ɨ !lh á,,,21575,,^ a _ pʰ _ ɨ _ lh _ á $,default
+Kauixana-57_one-3,,Kauixana,57_one,pé-l(h)a,p_é_–_l[h]_a,p é + lʰ a,,,21575,,^ p _ é _ – _ l[h] _ a $,default
+Yumana-57_one-1,,Yumana,57_one,aphɨlhá,a_pʰ_ɨ_lh_á,a pʰ ɨ lʰ á,,,21575,,^ a _ pʰ _ ɨ _ lh _ á $,default
 Yumana-57_one-2,,Yumana,57_one,apé,a_p_é,a p é,,,21575,,^ a _ p _ é $,default
 Passe-57_one-1,,Passe,57_one,apeala,a_p_e_a_l_a,a p e a l a,,,21575,,^ a _ p _ e _ a _ l _ a $,default
 Passe-57_one-2,,Passe,57_one,apa,a_p_a,a p a,,,21575,,^ a _ p _ a $,default
@@ -750,7 +750,7 @@ Kabiyari-58_path-2,,Kabiyari,58_path,jóopu,j_ó_o_p_u,j ó o p u,,,21579,,^ j _
 Kabiyari-58_path-3,,Kabiyari,58_path,ajápú,a_j_á_p_ú,a j á p ú,,,21579,,^ a _ j _ á _ p _ ú $,default
 Piapoco-58_path-1,,Piapoco,58_path,àjapu,à_j_a_p_u,à j a p u,,,21579,,^ à _ j _ a _ p _ u $,default
 Resigaro-58_path-1,,Resigaro,58_path,aǰápó,a_dʒ_á_p_ó,a dʒ á p ó,,,21579,,^ a _ dʒ _ á _ p _ ó $,default
-Resigaro-58_path-2,,Resigaro,58_path,éhuúhí,éh_u_ú_h_í,!éh u ú h í,,,14,,^ éh _ u _ ú _ h _ í $,default
+Resigaro-58_path-2,,Resigaro,58_path,éhuúhí,éh_u_ú_h_í,é/e h u ú h í,,,14,,^ éh _ u _ ú _ h _ í $,default
 Tariana-58_path-1,,Tariana,58_path,?,h_i_n_í_p_u,h i n í p u,,,21579,,^ h _ i _ n _ í _ p _ u $,default
 Yukuna-58_path-1,,Yukuna,58_path,iñeʔepú,i_ñ_e_ʔ_e_p_ú,i ɲ e ʔ e p ú,,,21579,,^ i _ ñ _ e _ ʔ _ e _ p _ ú $,default
 Warekena-58_path-1,,Warekena,58_path,?,e_p_u_n_a,e p u n a,,,14,,^ e _ p _ u _ n _ a $,default
@@ -762,7 +762,7 @@ Baniwa-12_cloud-1,,Baniwa,12_cloud,eenótona,ee_n_ó_t_o_n_a,eː n ó t o n a,,,
 Baniwa-12_cloud-2,,Baniwa,12_cloud,idzadawäka,i_dz_a_d_a_w_a_k_a,i dz a d a w a k a,,,64,,^ i _ dz _ a _ d _ a _ w _ a _ k _ a $,default
 Bare-12_cloud-1,,Bare,12_cloud,?,n_u_v_e,n u v e,,,238,,^ n _ u _ v _ e $,default
 Piapoco-12_cloud-1,,Piapoco,12_cloud,acalèe,a_k_a_l_è_e,a k a l è e,,,150,,^ a _ k _ a _ l _ è _ e $,default
-Resigaro-12_cloud-1,,Resigaro,12_cloud,iítshú,i_í_tsh_ú,i í !tsh ú,,,64,,^ i _ í _ tsh _ ú $,default
+Resigaro-12_cloud-1,,Resigaro,12_cloud,iítshú,i_í_tsh_ú,i í tsʰ ú,,,64,,^ i _ í _ tsh _ ú $,default
 Tariana-12_cloud-1,,Tariana,12_cloud,?,i_j_a_k_ú_m_a,i j a k ú m a,,,64,,^ i _ j _ a _ k _ ú _ m _ a $,default
 Yukuna-12_cloud-1,,Yukuna,12_cloud,[juni]juwáka'ala,h_u_n_i_+_h_u_w_á_k_a_ʔ_a_l_a,h u n i <<+>> h u w á k a ʔ a l a,,,150,,^ h _ u _ n _ i _ <+> _ h _ u _ w _ á _ k _ a _ ʔ _ a _ l _ a $,default
 Warekena-12_cloud-1,,Warekena,12_cloud,?,a_ʃ_i_b_u_n_a_p_i,a ʃ i b u n a p i,,,149,,^ a _ ʃ _ i _ b _ u _ n _ a _ p _ i $,default
@@ -781,12 +781,12 @@ Koripako_ehe-12_cloud-1,,Koripako_ehe,12_cloud,itamana,i_t_a_m_a_n_a,i t a m a n
 Koripako_oho-12_cloud-1,,Koripako_oho,12_cloud,idzadaoka,i_dz_a_d_a_o_k_a,i dz a d a o k a,,,64,,^ i _ dz _ a _ d _ a _ o _ k _ a $,default
 Koripako_name-12_cloud-1,,Koripako_name,12_cloud,itamana,i_t_a_m_a_n_a,i t a m a n a,,,64,,^ i _ t _ a _ m _ a _ n _ a $,default
 Werekena_Baniva-12_cloud-1,,Werekena_Baniva,12_cloud,sjaɾiɾi,s_j_a_ɾ_i_ɾ_i,s j a ɾ i ɾ i,,,21493,,^ s _ j _ a _ ɾ _ i _ ɾ _ i $,default
-Tariana_Kumadene-59_peopleorperson-1,,Tariana_Kumadene,59_peopleorperson,nawikimasitɛ,n_a_w_i_k_i_#_m_a_s_i_t_ɛ,n a w i k i <<#>> m a s i t ɛ,,,21580,,^ n _ a _ w _ i _ k _ i _ <#> _ m _ a _ s _ i _ t _ ɛ $,default
+Tariana_Kumadene-59_peopleorperson-1,,Tariana_Kumadene,59_peopleorperson,nawikimasitɛ,n_a_w_i_k_i_+_m_a_s_i_t_ɛ,n a w i k i <<+>> m a s i t ɛ,,,21580,,^ n _ a _ w _ i _ k _ i _ <+> _ m _ a _ s _ i _ t _ ɛ $,default
 Achagua-59_peopleorperson-1,,Achagua,59_peopleorperson,wenàiwica,w_e_n_à_i_w_i_k_a,w e n à i w i k a,,,21580,,^ w _ e _ n _ à _ i _ w _ i _ k _ a $,default
 Baniwa-59_peopleorperson-1,,Baniwa,59_peopleorperson,newíki,n_e_w_í_k_i,n e w í k i,,,21580,,^ n _ e _ w _ í _ k _ i $,default
 Kabiyari-59_peopleorperson-1,,Kabiyari,59_peopleorperson,néki-ri,n_é_k_i_ɾ_i,n é k i ɾ i,,,21580,,^ n _ é _ k _ i _ ɾ _ i $,default
 Piapoco-59_peopleorperson-1,,Piapoco,59_peopleorperson,wenàiwica,w_e_n_à_i_w_i_k_a,w e n à i w i k a,,,21580,,^ w _ e _ n _ à _ i _ w _ i _ k _ a $,default
-Resigaro-59_peopleorperson-1,,Resigaro,59_peopleorperson,ináavi?žaánigí,i_n_á_a_v_i_ʔʒ_a_á_n_i_g_í,i n á a v i !ʔʒ a á n i g í,,,21580,,^ i _ n _ á _ a _ v _ i _ ʔʒ _ a _ á _ n _ i _ g _ í $,default
+Resigaro-59_peopleorperson-1,,Resigaro,59_peopleorperson,ináavi?žaánigí,i_n_á_a_v_i_ʔʒ_a_á_n_i_g_í,i n á a v i ʔ ʒ a á n i g í,,,21580,,^ i _ n _ á _ a _ v _ i _ ʔʒ _ a _ á _ n _ i _ g _ í $,default
 Tariana-59_peopleorperson-1,,Tariana,59_peopleorperson,?,n_a_w_í_k_i,n a w í k i,,,21580,,^ n _ a _ w _ í _ k _ i $,default
 Yukuna-59_peopleorperson-1,,Yukuna,59_peopleorperson,inaʔuké,i_n_a_ʔ_u_k_é,i n a ʔ u k é,,,21580,,^ i _ n _ a _ ʔ _ u _ k _ é $,default
 Warekena-59_peopleorperson-1,,Warekena,59_peopleorperson,?,ñ_a_m_a_ɾ_i,ɲ a m a ɾ i,,,21580,,^ ñ _ a _ m _ a _ ɾ _ i $,default
@@ -817,8 +817,8 @@ Tariana-60_rainprecipitation-1,,Tariana,60_rainprecipitation,?,í_j_a,í j a,,,6
 Yukuna-60_rainprecipitation-1,,Yukuna,60_rainprecipitation,juni,h_u_n_i,h u n i,,,644,,^ h _ u _ n _ i $,default
 Warekena-60_rainprecipitation-1,,Warekena,60_rainprecipitation,?,w_e_n_i,w e n i,,,644,,^ w _ e _ n _ i $,default
 Kauixana-60_rainprecipitation-1,,Kauixana,60_rainprecipitation,owi,o_w_i,o w i,,,21581,,^ o _ w _ i $,default
-Yumana-60_rainprecipitation-1,,Yumana,60_rainprecipitation,owi[j]a,o_w_i_[_j_]_a,o w i ![ j !] a,,,21581,,^ o _ w _ i _ [ _ j _ ] _ a $,default
-Passe-60_rainprecipitation-1,,Passe,60_rainprecipitation,owie-hoka,o_w_ie-_h_o_k_a,o w !ie- h o k a,,,21581,,^ o _ w _ ie- _ h _ o _ k _ a $,default
+Yumana-60_rainprecipitation-1,,Yumana,60_rainprecipitation,owi[j]a,o_w_i_[_j_]_a,o w i j a,,,21581,,^ o _ w _ i _ [ _ j _ ] _ a $,default
+Passe-60_rainprecipitation-1,,Passe,60_rainprecipitation,owie-hoka,o_w_ie-_h_o_k_a,o w i/j e + h o k a,,,21581,,^ o _ w _ ie- _ h _ o _ k _ a $,default
 Baniwa_Waliperidakenai-61_red-1,,Baniwa_Waliperidakenai,61_red,iʐajdaɽi,i_ʐ_a_j_d_a_ɽ_i,i ʐ a j d a ɽ i,,,653,,^ i _ ʐ _ a _ j _ d _ a _ ɽ _ i $,default
 Baniwa_Hohoodene-61_red-1,,Baniwa_Hohoodene,61_red,iːʐajdaj,iː_ʐ_a_j_d_a_j,iː ʐ a j d a j,,,653,,^ iː _ ʐ _ a _ j _ d _ a _ j $,default
 Baniwa_Dzurema-61_red-1,,Baniwa_Dzurema,61_red,iʐajdaɽi,i_ʐ_a_j_d_a_ɽ_i,i ʐ a j d a ɽ i,,,653,,^ i _ ʐ _ a _ j _ d _ a _ ɽ _ i $,default
@@ -838,24 +838,24 @@ Baniwa-61_red-1,,Baniwa,61_red,iirai,ii_r_a_i,iː r a i,,,653,,^ ii _ r _ a _ i 
 Baniwa-61_red-2,,Baniwa,61_red,kéerama,k_é_e_r_a_m_a,k é e r a m a,,,653,,^ k _ é _ e _ r _ a _ m _ a $,default
 Bare-61_red-1,,Bare,61_red,?,kʰ_i_a,kʰ i a,,,653,,^ kʰ _ i _ a $,default
 Kabiyari-61_red-1,,Kabiyari,61_red,kíira,k_í_i_r_a,k í i r a,,,653,,^ k _ í _ i _ r _ a $,default
-Piapoco-61_red-1,,Piapoco,61_red,quíiraca,k_í:_ɾ_a_k_a,k íː ɾ a k a,,,653,,^ k _ í: _ ɾ _ a _ k _ a $,default
-Resigaro-61_red-1,,Resigaro,61_red,kedávií́?,k_e_d_á_v_i_í́_ʔ,k e d á v i í ʔ,,,653,,^ k _ e _ d _ á _ v _ i _ í́ _ ʔ $,default
+Piapoco-61_red-1,,Piapoco,61_red,quíiraca,k_í:_ɾ_a_k_a,k íː/iː ɾ a k a,,,653,,^ k _ í: _ ɾ _ a _ k _ a $,default
+Resigaro-61_red-1,,Resigaro,61_red,kedávií́?,k_e_d_á_v_i_í́_ʔ,k e d á v i í/i ʔ,,,653,,^ k _ e _ d _ á _ v _ i _ í́ _ ʔ $,default
 Tariana-61_red-1,,Tariana,61_red,?,i_ɾ_í_t_e,i ɾ í t e,,,653,,^ i _ ɾ _ í _ t _ e $,default
 Yukuna-61_red-1,,Yukuna,61_red,kerani,k_e_ɾ_a_n_i,k e ɾ a n i,,,653,,^ k _ e _ ɾ _ a _ n _ i $,default
 Warekena-61_red-1,,Warekena,61_red,?,i_ɾ_a_ɾ_i,i ɾ a ɾ i,,,653,,^ i _ ɾ _ a _ ɾ _ i $,default
-Kauixana-61_red-1,,Kauixana,61_red,tsa-mala,ts_a-_m_a_l_a,ts !a- m a l a,,,156,,^ ts _ a- _ m _ a _ l _ a $,default
-Kauixana-61_red-2,,Kauixana,61_red,sáʔ-tsi,s_á_ʔ-_ts_i,s á !ʔ- ts i,,,156,,^ s _ á _ ʔ- _ ts _ i $,default
+Kauixana-61_red-1,,Kauixana,61_red,tsa-mala,ts_a-_m_a_l_a,ts a + m a l a,,,156,,^ ts _ a- _ m _ a _ l _ a $,default
+Kauixana-61_red-2,,Kauixana,61_red,sáʔ-tsi,s_á_ʔ-_ts_i,s á ʔ + ts i,,,156,,^ s _ á _ ʔ- _ ts _ i $,default
 Yumana-61_red-1,,Yumana,61_red,kita,k_i_t_a,k i t a,,,653,,^ k _ i _ t _ a $,default
 Yumana-61_red-2,,Yumana,61_red,saami,s_aa_m_i,s aː m i,,,156,,^ s _ aa _ m _ i $,default
-Passe-61_red-1,,Passe,61_red,ktiti-u,k_t_i_t_i-u,k t i t !i-u,,,653,,^ k _ t _ i _ t _ i-u $,default
+Passe-61_red-1,,Passe,61_red,ktiti-u,k_t_i_t_i-u,k t i t i + u,,,653,,^ k _ t _ i _ t _ i-u $,default
 Passe-61_red-2,,Passe,61_red,kita,k_i_t_a,k i t a,,,653,,^ k _ i _ t _ a $,default
-Passe-61_red-3,,Passe,61_red,puru-ju,p_u_r_u-_j_u,p u r !u- j u,,,232,,^ p _ u _ r _ u- _ j _ u $,default
+Passe-61_red-3,,Passe,61_red,puru-ju,p_u_r_u-_j_u,p u r u + j u,,,232,,^ p _ u _ r _ u- _ j _ u $,default
 Achagua-13_cold-1,,Achagua,13_cold,kasáIinii,k_a_s_a_l_i_n_i:,k a s a l i n iː,,,153,,^ k _ a _ s _ a _ l _ i _ n _ i: $,default
 Baniwa-13_cold-1,,Baniwa,13_cold,hápe,h_á_p_e,h á p e,,,233,,^ h _ á _ p _ e $,default
 Bare-13_cold-1,,Bare,13_cold,?,h_a_m_e_n_a,h a m e n a,,,233,,^ h _ a _ m _ e _ n _ a $,default
 Bare-13_cold-2,,Bare,13_cold,?,t_i_w_e_h_e,t i w e h e,,,67,,^ t _ i _ w _ e _ h _ e $,default
 Kabiyari-13_cold-1,,Kabiyari,13_cold,peʔe,p_e_ʔ_e,p e ʔ e,,,233,,^ p _ e _ ʔ _ e $,default
-Piapoco-13_cold-1,,Piapoco,13_cold,casalíníiri,k_a_s_a_l_í_n_í:_ɾ_i,k a s a l í n íː ɾ i,,,153,,^ k _ a _ s _ a _ l _ í _ n _ í: _ ɾ _ i $,default
+Piapoco-13_cold-1,,Piapoco,13_cold,casalíníiri,k_a_s_a_l_í_n_í:_ɾ_i,k a s a l í n íː/iː ɾ i,,,153,,^ k _ a _ s _ a _ l _ í _ n _ í: _ ɾ _ i $,default
 Resigaro-13_cold-1,,Resigaro,13_cold,hi?píí?,h_i_ʔ_p_íí_ʔ,h i ʔ p íí ʔ,,,233,,^ h _ i _ ʔ _ p _ íí _ ʔ $,default
 Resigaro-13_cold-2,,Resigaro,13_cold,taa,t_aa,t aː,,,5,,^ t _ aa $,default
 Tariana-13_cold-1,,Tariana,13_cold,?,h_a_p_é_p_e_ɾ_i,h a p é p e ɾ i,,,233,,^ h _ a _ p _ é _ p _ e _ ɾ _ i $,default
@@ -876,8 +876,8 @@ Koripako_ehe-13_cold-1,,Koripako_ehe,13_cold,hape,h_a_p_e,h a p e,,,233,,^ h _ a
 Koripako_oho-13_cold-1,,Koripako_oho,13_cold,hapedale,h_a_p_e_d_a_l_e,h a p e d a l e,,,233,,^ h _ a _ p _ e _ d _ a _ l _ e $,default
 Koripako_name-13_cold-1,,Koripako_name,13_cold,haperrji,h_a_p_e_r_j_i,h a p e r j i,,,233,,^ h _ a _ p _ e _ r _ j _ i $,default
 Werekena_Baniva-13_cold-1,,Werekena_Baniva,13_cold,awinimi,a_w_i_n_i_m_i,a w i n i m i,,,68,,^ a _ w _ i _ n _ i _ m _ i $,default
-Kauixana-13_cold-1,,Kauixana,13_cold,peʔ-hɨ̃,p_e_ʔ-_h_ɨ̃,p e !ʔ- h ɨ̃,,,233,,^ p _ e _ ʔ- _ h _ ɨ̃ $,default
-Kauixana-13_cold-2,,Kauixana,13_cold,pé-ɲɨ,p_é-_ɲ_ɨ,p !é- ɲ ɨ,,,233,,^ p _ é- _ ɲ _ ɨ $,default
+Kauixana-13_cold-1,,Kauixana,13_cold,peʔ-hɨ̃,p_e_ʔ-_h_ɨ̃,p e ʔ + h ɨ̃,,,233,,^ p _ e _ ʔ- _ h _ ɨ̃ $,default
+Kauixana-13_cold-2,,Kauixana,13_cold,pé-ɲɨ,p_é-_ɲ_ɨ,p é/e + ɲ ɨ,,,233,,^ p _ é- _ ɲ _ ɨ $,default
 Yumana-13_cold-1,,Yumana,13_cold,tsope,ts_o_p_e,ts o p e,,,233,,^ ts _ o _ p _ e $,default
 Passe-13_cold-1,,Passe,13_cold,kaameré,k_aa_m_e_r_é,k aː m e r é,,,236,,^ k _ aa _ m _ e _ r _ é $,default
 Baniwa_Waliperidakenai-62_rock-1,,Baniwa_Waliperidakenai,62_rock,hipada,h_i_p_a_d_a,h i p a d a,,,21584,,^ h _ i _ p _ a _ d _ a $,default
@@ -904,7 +904,7 @@ Tariana-62_rock-1,,Tariana,62_rock,?,h_i_p_á_d_a,h i p á d a,,,21584,,^ h _ i 
 Yukuna-62_rock-1,,Yukuna,62_rock,jipa,h_i_p_a,h i p a,,,21584,,^ h _ i _ p _ a $,default
 Warekena-62_rock-1,,Warekena,62_rock,?,i_p_a,i p a,,,21584,,^ i _ p _ a $,default
 Warekena-62_rock-2,,Warekena,62_rock,?,i:_p_a,iː p a,,,21584,,^ i: _ p _ a $,default
-Kauixana-62_rock-1,,Kauixana,62_rock,pál(h)a,p_á_l_[h]_a,p á l ![h] a,,,21584,,^ p _ á _ l _ [h] _ a $,default
+Kauixana-62_rock-1,,Kauixana,62_rock,pál(h)a,p_á_l_[h]_a,p á l h a,,,21584,,^ p _ á _ l _ [h] _ a $,default
 Yumana-62_rock-1,,Yumana,62_rock,sepá,s_e_p_á,s e p á,,,21584,,^ s _ e _ p _ á $,default
 Passe-62_rock-1,,Passe,62_rock,wâri,w_â_r_i,w â r i,,,0,,^ w _ â _ r _ i $,default
 Baniwa_Waliperidakenai-63_root-1,,Baniwa_Waliperidakenai,63_root,ɽiːɽi,ɽ_iː_ɽ_i,ɽ iː ɽ i,,,157,,^ ɽ _ iː _ ɽ _ i $,default
@@ -963,17 +963,17 @@ Baniwa-4_belly-1,,Baniwa,4_belly,-ʃáda,ʃ_á_d_a,ʃ á d a,,,31,,^ ʃ _ á _ d
 Bare-4_belly-1,,Bare,4_belly,?,n_u_d_u_r_a,n u d u r a,,,46,,^ n _ u _ d _ u _ r _ a $,default
 Kabiyari-4_belly-1,,Kabiyari,4_belly,te[re],t_e_r_e,t e r e,,,46,,^ t _ e _ r _ e $,default
 Piapoco-4_belly-1,,Piapoco,4_belly,dèe,d_è_e,d è e,,,46,,^ d _ è _ e $,default
-Resigaro-4_belly-1,,Resigaro,4_belly,-ii?šáú,ii_ʔ_š_á_ú,iː ʔ !š á ú,,,31,,^ ii _ ʔ _ š _ á _ ú $,default
+Resigaro-4_belly-1,,Resigaro,4_belly,-ii?šáú,ii_ʔ_š_á_ú,iː ʔ š/ʃ á ú,,,31,,^ ii _ ʔ _ š _ á _ ú $,default
 Tariana-4_belly-1,,Tariana,4_belly,?,d_í_w_a,d í w a,,,32,,^ d _ í _ w _ a $,default
 Yukuna-4_belly-1,,Yukuna,4_belly,julaji,h_u_l_a_h_i,h u l a h i,,,47,,^ h _ u _ l _ a _ h _ i $,default
 Warekena-4_belly-1,,Warekena,4_belly,?,n_u_n_e_n_i,n u n e n i,,,2,,^ n _ u _ n _ e _ n _ i $,default
 Warekena-4_belly-2,,Warekena,4_belly,?,n_u_ts_i_á_b_u,n u ts i á b u,,,31,,^ n _ u _ ts _ i _ á _ b _ u $,default
 Kauixana-4_belly-1,,Kauixana,4_belly,mokó,m_o_k_ó,m o k ó,,,158,,^ m _ o _ k _ ó $,default
-Kauixana-4_belly-2,,Kauixana,4_belly,mokaá,m_o_k_aá,m o k áː,,,158,,^ m _ o _ k _ aá $,default
+Kauixana-4_belly-2,,Kauixana,4_belly,mokaá,m_o_k_aá,m o k áː/aː,,,158,,^ m _ o _ k _ aá $,default
 Yumana-4_belly-1,,Yumana,4_belly,mhulhú,mʰ_u_l_h_ú,mʰ u l h ú,,,237,,^ mʰ _ u _ l _ h _ ú $,default
-Yumana-4_belly-2,,Yumana,4_belly,[o]molo,[_o_]_m_o_l_o,![ o !] m o l o,,,237,,^ [ _ o _ ] _ m _ o _ l _ o $,default
-Passe-4_belly-1,,Passe,4_belly,[o]motoda,[_o_]_m_o_t_o_d_a,![ o !] m o t o d a,,,237,,^ [ _ o _ ] _ m _ o _ t _ o _ d _ a $,default
-Passe-4_belly-2,,Passe,4_belly,niu-tula,n_iu-_t_u_l_a,n !iu- t u l a,,,237,,^ n _ iu- _ t _ u _ l _ a $,default
+Yumana-4_belly-2,,Yumana,4_belly,[o]molo,[_o_]_m_o_l_o,o m o l o,,,237,,^ [ _ o _ ] _ m _ o _ l _ o $,default
+Passe-4_belly-1,,Passe,4_belly,[o]motoda,[_o_]_m_o_t_o_d_a,o m o t o d a,,,237,,^ [ _ o _ ] _ m _ o _ t _ o _ d _ a $,default
+Passe-4_belly-2,,Passe,4_belly,niu-tula,n_iu-_t_u_l_a,n i/j u + t u l a,,,237,,^ n _ iu- _ t _ u _ l _ a $,default
 Baniwa_Waliperidakenai-65_sand-1,,Baniwa_Waliperidakenai,65_sand,kajɖa,k_a_j_d_a,k a j d a,,,21585,,^ k _ a _ j _ d _ a $,default
 Baniwa_Hohoodene-65_sand-1,,Baniwa_Hohoodene,65_sand,kajda,k_a_j_d_a,k a j d a,,,21585,,^ k _ a _ j _ d _ a $,default
 Baniwa_Dzurema-65_sand-1,,Baniwa_Dzurema,65_sand,kajda,k_a_j_d_a,k a j d a,,,21585,,^ k _ a _ j _ d _ a $,default
@@ -1021,7 +1021,7 @@ Warekena-66_say-1,,Warekena,66_say,-máka,m_á_k_a,m á k a,,,21586,,^ m _ á _ 
 Warekena-66_say-2,,Warekena,66_say,-kasaléta,k_a_s_a_l_é_t_a,k a s a l é t a,,,105,,^ k _ a _ s _ a _ l _ é _ t _ a $,default
 Kauixana-66_say-1,,Kauixana,66_say,ma,m_a,m a,,,21586,,^ m _ a $,default
 Kauixana-66_say-2,,Kauixana,66_say,?,l_a,l a,,,21612,,^ l _ a $,default
-Passe-66_say-1,,Passe,66_say,eme[?],e_m_e_[_ʔ_],e m e ![ ʔ !],,,21586,,^ e _ m _ e _ [ _ ʔ _ ] $,default
+Passe-66_say-1,,Passe,66_say,eme[?],e_m_e_[_ʔ_],e m e ʔ,,,21586,,^ e _ m _ e _ [ _ ʔ _ ] $,default
 Baniwa_Waliperidakenai-67_see-1,,Baniwa_Waliperidakenai,67_see,nuːtʰi,n_uː_tʰ_i,n uː tʰ i,,,159,,^ n _ uː _ tʰ _ i $,default
 Baniwa_Hohoodene-67_see-1,,Baniwa_Hohoodene,67_see,wakapa,w_a_k_a_p_a,w a k a p a,,,695,,^ w _ a _ k _ a _ p _ a $,default
 Baniwa_Dzurema-67_see-1,,Baniwa_Dzurema,67_see,nukápa,n_u_k_a_p_a,n u k a p a,,,695,,^ n _ u _ k _ a _ p _ a $,default
@@ -1040,16 +1040,16 @@ Baniwa-67_see-1,,Baniwa,67_see,-kápa,k_á_p_a,k á p a,,,695,,^ k _ á _ p _ a 
 Bare-67_see-1,,Bare,67_see,?,j_a,j a,,,693,,^ j _ a $,default
 Kabiyari-67_see-1,,Kabiyari,67_see,ikhá,i_kh_á,i kʰ á,,,162,,^ i _ kh _ á $,default
 Piapoco-67_see-1,,Piapoco,67_see,icáca,i_k_á_k_a,i k á k a,,,162,,^ i _ k _ á _ k _ a $,default
-Resigaro-67_see-1,,Resigaro,67_see,-tshení,tsh_e_n_í,!tsh e n í,,,71,,^ tsh _ e _ n _ í $,default
+Resigaro-67_see-1,,Resigaro,67_see,-tshení,tsh_e_n_í,tsʰ e n í,,,71,,^ tsh _ e _ n _ í $,default
 Tariana-67_see-1,,Tariana,67_see,?,d_i_k_á,d i k á,,,162,,^ d _ i _ k _ á $,default
 Yukuna-67_see-1,,Yukuna,67_see,amákaje,a_m_á_k_a_h_e,a m á k a h e,,,699,,^ a _ m _ á _ k _ a _ h _ e $,default
 Warekena-67_see-1,,Warekena,67_see,?,e_d_a,e d a,,,21588,,^ e _ d _ a $,default
-Kauixana-67_see-1,,Kauixana,67_see,awɨ́ta,a_w_ɨ́_t_a,a w ɨ́ t a,,,21588,,^ a _ w _ ɨ́ _ t _ a $,default
-Kauixana-67_see-2,,Kauixana,67_see,(i)ká,[_i_]_k_á,![ i !] k á,,,162,,^ [ _ i _ ] _ k _ á $,default
-Yumana-67_see-1,,Yumana,67_see,iŋka[-kuá],i_ŋ_k_a_[-_k_uá_],i ŋ k a ![- k uá !],,,162,,^ i _ ŋ _ k _ a _ [- _ k _ uá _ ] $,default
+Kauixana-67_see-1,,Kauixana,67_see,awɨ́ta,a_w_ɨ́_t_a,a w ɨ́/ɨ t a,,,21588,,^ a _ w _ ɨ́ _ t _ a $,default
+Kauixana-67_see-2,,Kauixana,67_see,(i)ká,[_i_]_k_á,i k á,,,162,,^ [ _ i _ ] _ k _ á $,default
+Yumana-67_see-1,,Yumana,67_see,iŋka[-kuá],i_ŋ_k_a_[-_k_uá_],i ŋ k a + k u/w á/a,,,162,,^ i _ ŋ _ k _ a _ [- _ k _ uá _ ] $,default
 Achagua-14_come-1,,Achagua,14_come,íinueri,i:_n_u_e_r_i,iː n u e r i,,,4,,^ i: _ n _ u _ e _ r _ i $,default
 Baniwa-14_come-1,,Baniwa,14_come,-no,n_o,n o,,,4,,^ n _ o $,default
-Kabiyari-14_come-1,,Kabiyari,14_come,mira(a)ni,m_i_r_a_(_a_)_n_i,m i r a !( a !) n i,,,7,,^ m _ i _ r _ a _ ( _ a _ ) _ n _ i $,default
+Kabiyari-14_come-1,,Kabiyari,14_come,mira(a)ni,m_i_r_a_(_a_)_n_i,m i r a a n i,,,7,,^ m _ i _ r _ a _ ( _ a _ ) _ n _ i $,default
 Kabiyari-14_come-2,,Kabiyari,14_come,anaa,a_n_aa,a n aː,,,76,,^ a _ n _ aa $,default
 Piapoco-14_come-1,,Piapoco,14_come,nùacawanéese,n_ù_a_k_a_w_a_+_n_é_e_s_e,n ù a k a w a <<+>> n é e s e,,,4,,^ n _ ù _ a _ k _ a _ w _ a _ <+> _ n _ é _ e _ s _ e $,default
 Resigaro-14_come-1,,Resigaro,14_come,tsa?nú,ts_a_ʔ_n_ú,ts a ʔ n ú,,,76,,^ ts _ a _ ʔ _ n _ ú $,default
@@ -1070,9 +1070,9 @@ Koripako_name-14_come-1,,Koripako_name,14_come,rinoka,ɾ_i_n_o_k_a,ɾ i n o k a,
 Werekena_Baniva-14_come-1,,Werekena_Baniva,14_come,nɛda,n_ɛ_d_a,n ɛ d a,,,77,,^ n _ ɛ _ d _ a $,default
 Baniwa_Dzurema-14_come-1,,Baniwa_Dzurema,14_come,nunuka,n_u_n_u_k_a,n u n u k a,,,4,,^ n _ u _ n _ u _ k _ a $,default
 Baniwa_Mauliene-14_come-1,,Baniwa_Mauliene,14_come,nunuka,n_u_n_u_k_a,n u n u k a,,,4,,^ n _ u _ n _ u _ k _ a $,default
-Kauixana-14_come-1,,Kauixana,14_come,[na-pɨ]-tʃa,[_n_a-_p_ɨ_]-_tʃ_a,![ n !a- p ɨ !]- tʃ a,,,21512,,^ [ _ n _ a- _ p _ ɨ _ ]- _ tʃ _ a $,default
-Yumana-14_come-1,,Yumana,14_come,auoɨ,auoɨ,!auoɨ,,,0,,^ auoɨ $,default
-Yumana-14_come-2,,Yumana,14_come,auɨ,auɨ,!auɨ,,,0,,^ auɨ $,default
+Kauixana-14_come-1,,Kauixana,14_come,[na-pɨ]-tʃa,[_n_a-_p_ɨ_]-_tʃ_a,n a + p ɨ + tʃ a,,,21512,,^ [ _ n _ a- _ p _ ɨ _ ]- _ tʃ _ a $,default
+Yumana-14_come-1,,Yumana,14_come,auoɨ,auoɨ,au oɨ,,,0,,^ auoɨ $,default
+Yumana-14_come-2,,Yumana,14_come,auɨ,auɨ,au ɨ,,,0,,^ auɨ $,default
 Baniwa_Hohoodene-68_seed-1,,Baniwa_Hohoodene,68_seed,ɽiːnaka,ɽ_iː_n_a_k_a,ɽ iː n a k a,,,1381,,^ ɽ _ iː _ n _ a _ k _ a $,default
 Baniwa_Dzurema-68_seed-1,,Baniwa_Dzurema,68_seed,ɽiʐi,ɽ_i_ʐ_i,ɽ i ʐ i,,,707,,^ ɽ _ i _ ʐ _ i $,default
 Baniwa_Mauliene-68_seed-1,,Baniwa_Mauliene,68_seed,ɽiʐi,ɽ_i_ʐ_i,ɽ i ʐ i,,,707,,^ ɽ _ i _ ʐ _ i $,default
@@ -1088,14 +1088,14 @@ Werekena_Baniva-68_seed-1,,Werekena_Baniva,68_seed,ĩj̃aha,ĩ_j̃_a_h_a,ĩ j̃ 
 Achagua-68_seed-1,,Achagua,68_seed,íimiʃi,í_i_m_i_ʃ_i,í i m i ʃ i,,,21591,,^ í _ i _ m _ i _ ʃ _ i $,default
 Baniwa-68_seed-1,,Baniwa,68_seed,-éekhe,é_e_kh_e,é e kʰ e,,,701,,^ é _ e _ kh _ e $,default
 Bare-68_seed-1,,Bare,68_seed,?,i_t_i,i t i,,,707,,^ i _ t _ i $,default
-Kabiyari-68_seed-1,,Kabiyari,68_seed,(kaka)kitjihe,(_k_a_+_k_a_)_k_i_t_j_i_h_e,!( k a <<+>> k a !) k i t j i h e,,,707,,^ ( _ k _ a _ <+> _ k _ a _ ) _ k _ i _ t _ j _ i _ h _ e $,default
+Kabiyari-68_seed-1,,Kabiyari,68_seed,(kaka)kitjihe,(_k_a_+_k_a_)_k_i_t_j_i_h_e,k a <<+>> k a k i t j i h e,,,707,,^ ( _ k _ a _ <+> _ k _ a _ ) _ k _ i _ t _ j _ i _ h _ e $,default
 Piapoco-68_seed-1,,Piapoco,68_seed,?,í_i_m_i,í i m i,,,21591,,^ í _ i _ m _ i $,default
 Resigaro-68_seed-1,,Resigaro,68_seed,hímiú,h_í_m_i_ú,h í m i ú,,,21591,,^ h _ í _ m _ i _ ú $,default
 Tariana-68_seed-1,,Tariana,68_seed,?,d_i_d_ú_p_e,d i d ú p e,,,706,,^ d _ i _ d _ ú _ p _ e $,default
 Yukuna-68_seed-1,,Yukuna,68_seed,ijiji,i_h_i_h_i,i h i h i,,,707,,^ i _ h _ i _ h _ i $,default
 Warekena-68_seed-1,,Warekena,68_seed,-ihina,i_h_i_n_a,i h i n a,,,707,,^ i _ h _ i _ n _ a $,default
-Kauixana-68_seed-1,,Kauixana,68_seed,ts-ɨ́-mi,ts-_ɨ́-_m_i,!ts- !ɨ́- m i,,,21591,,^ ts- _ ɨ́- _ m _ i $,default
-Kauixana-68_seed-2,,Kauixana,68_seed,ɨ-ja-mi,ɨ-_j_a-_m_i,!ɨ- j !a- m i,,,21591,,^ ɨ- _ j _ a- _ m _ i $,default
+Kauixana-68_seed-1,,Kauixana,68_seed,ts-ɨ́-mi,ts-_ɨ́-_m_i,ts + ɨ́/ɨ + m i,,,21591,,^ ts- _ ɨ́- _ m _ i $,default
+Kauixana-68_seed-2,,Kauixana,68_seed,ɨ-ja-mi,ɨ-_j_a-_m_i,ɨ + j a + m i,,,21591,,^ ɨ- _ j _ a- _ m _ i $,default
 Baniwa_Waliperidakenai-69_sit-1,,Baniwa_Waliperidakenai,69_sit,ɽiũhĩɐ̃kawa,ɽ_i_ũ_h_ĩ_ɐ̃_k_a_w_a,ɽ i ũ h ĩ ɐ̃ k a w a,,,710,,^ ɽ _ i _ ũ _ h _ ĩ _ ɐ̃ _ k _ a _ w _ a $,default
 Baniwa_Hohoodene-69_sit-1,,Baniwa_Hohoodene,69_sit,wahoakawa,w_a_h_o_a_k_a_w_a,w a h o a k a w a,,,710,,^ w _ a _ h _ o _ a _ k _ a _ w _ a $,default
 Baniwa_Dzurema-69_sit-1,,Baniwa_Dzurema,69_sit,nũhuákawa,n_ũ_h_u_a_k_a_w_a,n ũ h u a k a w a,,,710,,^ n _ ũ _ h _ u _ a _ k _ a _ w _ a $,default
@@ -1110,16 +1110,16 @@ Koripako_ehe-69_sit-1,,Koripako_ehe,69_sit,ofaketi,o_f_a_k_e_t_i,o f a k e t i,,
 Koripako_oho-69_sit-1,,Koripako_oho,69_sit,johaːketi,j_o_h_aː_k_e_t_i,j o h aː k e t i,,,710,,^ j _ o _ h _ aː _ k _ e _ t _ i $,default
 Werekena_Baniva-69_sit-1,,Werekena_Baniva,69_sit,pisiawa,p_i_s_i_a_w_a,p i s i a w a,,,1426,,^ p _ i _ s _ i _ a _ w _ a $,default
 Achagua-69_sit-1,,Achagua,69_sit,wáairiu,w_á_a_i_r_i_u,w á a i r i u,,,710,,^ w _ á _ a _ i _ r _ i _ u $,default
-Baniwa-69_sit-1,,Baniwa,69_sit,-oówhaa,o_ó_wh_aa,o ó !wh aː,,,710,,^ o _ ó _ wh _ aa $,default
-Bare-69_sit-1,,Bare,69_sit,?,ʰj_a_rr_u_m_a,ʰj a !rr u m a,,,718,,^ ʰj _ a _ rr _ u _ m _ a $,default
+Baniwa-69_sit-1,,Baniwa,69_sit,-oówhaa,o_ó_wh_aa,o ó wʰ aː,,,710,,^ o _ ó _ wh _ aa $,default
+Bare-69_sit-1,,Bare,69_sit,?,ʰj_a_rr_u_m_a,ʰj/jʰ a rː u m a,,,718,,^ ʰj _ a _ rr _ u _ m _ a $,default
 Kabiyari-69_sit-1,,Kabiyari,69_sit,tu(')na,t_u_n_a,t u n a,,,714,,^ t _ u _ n _ a $,default
 Piapoco-69_sit-1,,Piapoco,69_sit,awinacawa,a_w_i_n_a_k_a_w_a,a w i n a k a w a,,,710,,^ a _ w _ i _ n _ a _ k _ a _ w _ a $,default
 Resigaro-69_sit-1,,Resigaro,69_sit,ítshú,í_tsʰ_ú,í tsʰ ú,,,84,,^ í _ tsʰ _ ú $,default
 Resigaro-69_sit-2,,Resigaro,69_sit,i?tsháká,i_ʔ_tsʰ_á_k_á,i ʔ tsʰ á k á,,,84,,^ i _ ʔ _ tsʰ _ á _ k _ á $,default
-Tariana-69_sit-1,,Tariana,69_sit,?,d_i_wh_a,d i !wh a,,,710,,^ d _ i _ wh _ a $,default
+Tariana-69_sit-1,,Tariana,69_sit,?,d_i_wh_a,d i wʰ a,,,710,,^ d _ i _ wh _ a $,default
 Yukuna-69_sit-1,,Yukuna,69_sit,já'akajo,h_á_ʔ_a_k_a_h_o,h á ʔ a k a h o,,,84,,^ h _ á _ ʔ _ a _ k _ a _ h _ o $,default
 Yukuna-69_sit-2,,Yukuna,69_sit,já'akaje,h_á_ʔ_a_k_a_h_e,h á ʔ a k a h e,,,84,,^ h _ á _ ʔ _ a _ k _ a _ h _ e $,default
-Kauixana-69_sit-1,,Kauixana,69_sit,tawi(a),t_a_w_i_[_a_],t a w i ![ a !],,,21592,,^ t _ a _ w _ i _ [ _ a _ ] $,default
+Kauixana-69_sit-1,,Kauixana,69_sit,tawi(a),t_a_w_i_[_a_],t a w i a,,,21592,,^ t _ a _ w _ i _ [ _ a _ ] $,default
 Baniwa_Waliperidakenai-70_skin-1,,Baniwa_Waliperidakenai,70_skin,ɽija,ɽ_i_j_a,ɽ i j a,,,725,,^ ɽ _ i _ j _ a $,default
 Baniwa_Hohoodene-70_skin-1,,Baniwa_Hohoodene,70_skin,ɽija,ɽ_i_j_a,ɽ i j a,,,725,,^ ɽ _ i _ j _ a $,default
 Baniwa_Dzurema-70_skin-1,,Baniwa_Dzurema,70_skin,ɽitsótà,ɽ_i_ts_o_t_a,ɽ i ts o t a,,,2020,,^ ɽ _ i _ ts _ o _ t _ a $,default
@@ -1134,16 +1134,16 @@ Koripako_name-70_skin-1,,Koripako_name,70_skin,liːa,l_iː_a,l iː a,,,725,,^ l 
 Werekena_Baniva-70_skin-1,,Werekena_Baniva,70_skin,maːta,m_aː_t_a,m aː t a,,,726,,^ m _ aː _ t _ a $,default
 Achagua-70_skin-1,,Achagua,70_skin,íimanaʃi,í_i_m_a_n_a_ʃ_i,í i m a n a ʃ i,,,725,,^ í _ i _ m _ a _ n _ a _ ʃ _ i $,default
 Baniwa-70_skin-1,,Baniwa,70_skin,-ja,j_a,j a,,,725,,^ j _ a $,default
-Bare-70_skin-1,,Bare,70_skin,?,i_'i_d_a,i i d a,,,725,,^ i _ 'i _ d _ a $,default
+Bare-70_skin-1,,Bare,70_skin,?,i_'i_d_a,i ʔ i d a,,,725,,^ i _ 'i _ d _ a $,default
 Kabiyari-70_skin-1,,Kabiyari,70_skin,íʔa-mi,í_ʔ_a_m_i,í ʔ a m i,,,725,,^ í _ ʔ _ a _ m _ i $,default
 Piapoco-70_skin-1,,Piapoco,70_skin,ímami,í_m_a_m_i,í m a m i,,,725,,^ í _ m _ a _ m _ i $,default
-Resigaro-70_skin-1,,Resigaro,70_skin,?,+_(_p_e_l_e_)_+,<<+>> !( p e l e !) <<+>>,,,724,,^ <+> _ ( _ p _ e _ l _ e _ ) _ <+> $,default
+Resigaro-70_skin-1,,Resigaro,70_skin,?,+_(_p_e_l_e_)_+,<<+>> p e l e <<+>>,,,724,,^ <+> _ ( _ p _ e _ l _ e _ ) _ <+> $,default
 Resigaro-70_skin-2,,Resigaro,70_skin,eémú,e_é_m_ú,e é m ú,,,725,,^ e _ é _ m _ ú $,default
 Tariana-70_skin-1,,Tariana,70_skin,?,d_í_j_a,d í j a,,,725,,^ d _ í _ j _ a $,default
 Yukuna-70_skin-1,,Yukuna,70_skin,ímaji,í_m_a_h_i,í m a h i,,,725,,^ í _ m _ a _ h _ i $,default
 Warekena-70_skin-1,,Warekena,70_skin,?,n_u_m_a_t_a,n u m a t a,,,726,,^ n _ u _ m _ a _ t _ a $,default
 Warekena-70_skin-2,,Warekena,70_skin,?,w_i_t_u,w i t u,,,729,,^ w _ i _ t _ u $,default
-Kauixana-70_skin-1,,Kauixana,70_skin,aʔl(h)a,a_ʔ_l_[_h_]_a,a ʔ l ![ h !] a,,,21593,,^ a _ ʔ _ l _ [ _ h _ ] _ a $,default
+Kauixana-70_skin-1,,Kauixana,70_skin,aʔl(h)a,a_ʔ_l_[_h_]_a,a ʔ l h a,,,21593,,^ a _ ʔ _ l _ [ _ h _ ] _ a $,default
 Yumana-70_skin-1,,Yumana,70_skin,mátʃe,m_á_tʃ_e,m á tʃ e,,,726,,^ m _ á _ tʃ _ e $,default
 Baniwa_Waliperidakenai-71_sleep-1,,Baniwa_Waliperidakenai,71_sleep,numaka,n_u_m_a_k_a,n u m a k a,,,21594,,^ n _ u _ m _ a _ k _ a $,default
 Baniwa_Hohoodene-71_sleep-1,,Baniwa_Hohoodene,71_sleep,wemaːka,w_e_m_aː_k_a,w e m aː k a,,,21594,,^ w _ e _ m _ aː _ k _ a $,default
@@ -1165,13 +1165,13 @@ Bare-71_sleep-1,,Bare,71_sleep,?,d_u_m_a,d u m a,,,21594,,^ d _ u _ m _ a $,defa
 Kabiyari-71_sleep-1,,Kabiyari,71_sleep,imáa,i_m_á_a,i m á a,,,21594,,^ i _ m _ á _ a $,default
 Piapoco-71_sleep-1,,Piapoco,71_sleep,imáca,i_m_á_k_a,i m á k a,,,21594,,^ i _ m _ á _ k _ a $,default
 Resigaro-71_sleep-1,,Resigaro,71_sleep,ímú,í_m_ú,í m ú,,,21594,,^ í _ m _ ú $,default
-Tariana-71_sleep-1,,Tariana,71_sleep,?,d_í:_m_a,d íː m a,,,21594,,^ d _ í: _ m _ a $,default
+Tariana-71_sleep-1,,Tariana,71_sleep,?,d_í:_m_a,d íː/iː m a,,,21594,,^ d _ í: _ m _ a $,default
 Yukuna-71_sleep-1,,Yukuna,71_sleep,kamátakajo,k_a_m_á_t_a_k_a_h_o,k a m á t a k a h o,,,21594,,^ k _ a _ m _ á _ t _ a _ k _ a _ h _ o $,default
 Warekena-71_sleep-1,,Warekena,71_sleep,?,tʃ_i_m_a,tʃ i m a,,,21594,,^ tʃ _ i _ m _ a $,default
 Warekena-71_sleep-2,,Warekena,71_sleep,?,ts_e_m_a,ts e m a,,,21594,,^ ts _ e _ m _ a $,default
 Kauixana-71_sleep-1,,Kauixana,71_sleep,ímaka,í_m_a_k_a,í m a k a,,,21594,,^ í _ m _ a _ k _ a $,default
-Yumana-71_sleep-1,,Yumana,71_sleep,ima-ka,i_m_a-_k_a,i m !a- k a,,,21594,,^ i _ m _ a- _ k _ a $,default
-Passe-71_sleep-1,,Passe,71_sleep,ima-ta,i_m_a-_t_a,i m !a- t a,,,21594,,^ i _ m _ a- _ t _ a $,default
+Yumana-71_sleep-1,,Yumana,71_sleep,ima-ka,i_m_a-_k_a,i m a + k a,,,21594,,^ i _ m _ a- _ k _ a $,default
+Passe-71_sleep-1,,Passe,71_sleep,ima-ta,i_m_a-_t_a,i m a + t a,,,21594,,^ i _ m _ a- _ t _ a $,default
 Baniwa_Waliperidakenai-72_small-1,,Baniwa_Waliperidakenai,72_small,tsuːdaɽi,ts_uː_d_a_ɽ_i,ts uː d a ɽ i,,,746,,^ ts _ uː _ d _ a _ ɽ _ i $,default
 Baniwa_Hohoodene-72_small-1,,Baniwa_Hohoodene,72_small,tsoːdaɽi,ts_oː_d_a_ɽ_i,ts oː d a ɽ i,,,746,,^ ts _ oː _ d _ a _ ɽ _ i $,default
 Baniwa_Dzurema-72_small-1,,Baniwa_Dzurema,72_small,tsoːdaɽi,ts_oː_d_a_ɽ_i,ts oː d a ɽ i,,,746,,^ ts _ oː _ d _ a _ ɽ _ i $,default
@@ -1184,8 +1184,8 @@ Werekena_Baniva-72_small-1,,Werekena_Baniva,72_small,tsuiteɾi,ts_u_i_t_e_ɾ_i,t
 Achagua-72_small-1,,Achagua,72_small,píituituu,p_i:_t_u_i_t_u:,p iː t u i t uː,,,167,,^ p _ i: _ t _ u _ i _ t _ u: $,default
 Baniwa-72_small-1,,Baniwa,72_small,tsúu,ts_ú_u,ts ú u,,,746,,^ ts _ ú _ u $,default
 Bare-72_small-1,,Bare,72_small,?,a_w_e_h_e_t_i,a w e h e t i,,,741,,^ a _ w _ e _ h _ e _ t _ i $,default
-Kabiyari-72_small-1,,Kabiyari,72_small,karitʃhũĩ,k_a_r_i_tʃh_ũ_ĩ,k a r i !tʃh ũ ĩ,,,166,,^ k _ a _ r _ i _ tʃh _ ũ _ ĩ $,default
-Piapoco-72_small-1,,Piapoco,72_small,achúméeri,a_tʃ_ú_m_é:_ɾ_i,a tʃ ú m éː ɾ i,,,165,,^ a _ tʃ _ ú _ m _ é: _ ɾ _ i $,default
+Kabiyari-72_small-1,,Kabiyari,72_small,karitʃhũĩ,k_a_r_i_tʃh_ũ_ĩ,k a r i tʃʰ ũ ĩ,,,166,,^ k _ a _ r _ i _ tʃh _ ũ _ ĩ $,default
+Piapoco-72_small-1,,Piapoco,72_small,achúméeri,a_tʃ_ú_m_é:_ɾ_i,a tʃ ú m éː/eː ɾ i,,,165,,^ a _ tʃ _ ú _ m _ é: _ ɾ _ i $,default
 Tariana-72_small-1,,Tariana,72_small,?,ts_ú_i_t_e,ts ú i t e,,,746,,^ ts _ ú _ i _ t _ e $,default
 Yukuna-72_small-1,,Yukuna,72_small,kamuʔuhini,k_a_m_u_ʔ_u_h_i_n_i,k a m u ʔ u h i n i,,,747,,^ k _ a _ m _ u _ ʔ _ u _ h _ i _ n _ i $,default
 Warekena-72_small-1,,Warekena,72_small,?,ts_u_i_t_u_i_ɾ_i,ts u i t u i ɾ i,,,746,,^ ts _ u _ i _ t _ u _ i _ ɾ _ i $,default
@@ -1213,13 +1213,13 @@ Koripako_ehe-15_die-1,,Koripako_ehe,15_die,dzaːmikhethi,dz_aː_m_i_kʰ_e_tʰ_i,
 Koripako_oho-15_die-1,,Koripako_oho,15_die,idzaːmiketi,i_dz_aː_m_i_k_e_t_i,i dz aː m i k e t i,,,28,,^ i _ dz _ aː _ m _ i _ k _ e _ t _ i $,default
 Koripako_name-15_die-1,,Koripako_name,15_die,majaonka,m_a_j_a_o_n_k_a,m a j a o n k a,,,28,,^ m _ a _ j _ a _ o _ n _ k _ a $,default
 Werekena_Baniva-15_die-1,,Werekena_Baniva,15_die,nuiwa,n_u_i_w_a,n u i w a,,,321,,^ n _ u _ i _ w _ a $,default
-Kauixana-15_die-1,,Kauixana,15_die,tho(o)ma,t_h_o_[_o_]_m_a_,t h o ![ o !] m a !,,,21514,,^ t _ h _ o _ [ _ o _ ] _ m _ a _  $,default
-Kauixana-15_die-2,,Kauixana,15_die,t(h)aoma,t_[_h_]_ao_m_a,t ![ h !] ao m a,,,21514,,^ t _ [ _ h _ ] _ ao _ m _ a $,default
+Kauixana-15_die-1,,Kauixana,15_die,tho(o)ma,t_h_o_[_o_]_m_a_,t h o o m a,,,21514,,^ t _ h _ o _ [ _ o _ ] _ m _ a _  $,default
+Kauixana-15_die-2,,Kauixana,15_die,t(h)aoma,t_[_h_]_ao_m_a,t h ao m a,,,21514,,^ t _ [ _ h _ ] _ ao _ m _ a $,default
 Yumana-15_die-1,,Yumana,15_die,sjavakami,s_j_a_v_a_k_a_m_i,s j a v a k a m i,,,242,,^ s _ j _ a _ v _ a _ k _ a _ m _ i $,default
-Yumana-15_die-2,,Yumana,15_die,niapumí,n_ia_p_u_m_í,n ia p u m í,,,240,,^ n _ ia _ p _ u _ m _ í $,default
+Yumana-15_die-2,,Yumana,15_die,niapumí,n_ia_p_u_m_í,n i/j a p u m í,,,240,,^ n _ ia _ p _ u _ m _ í $,default
 Yumana-15_die-3,,Yumana,15_die,japumi,j_a_p_u_m_i,j a p u m i,,,240,,^ j _ a _ p _ u _ m _ i $,default
-Yumana-15_die-4,,Yumana,15_die,neapa,n_ea_p_a,n ea p a,,,241,,^ n _ ea _ p _ a $,default
-Passe-15_die-1,,Passe,15_die,ekiapanu,e_k_ia_p_a_n_u,e k ia p a n u,,,241,,^ e _ k _ ia _ p _ a _ n _ u $,default
+Yumana-15_die-4,,Yumana,15_die,neapa,n_ea_p_a,n e/j a p a,,,241,,^ n _ ea _ p _ a $,default
+Passe-15_die-1,,Passe,15_die,ekiapanu,e_k_ia_p_a_n_u,e k i/j a p a n u,,,241,,^ e _ k _ ia _ p _ a _ n _ u $,default
 Baniwa_Hohoodene-5_big-1,,Baniwa_Hohoodene,5_big,makadaɽi,m_a_k_a_d_a_ɽ_i,m a k a d a ɽ i,,,21500,,^ m _ a _ k _ a _ d _ a _ ɽ _ i $,default
 Baniwa_Dzurema-5_big-1,,Baniwa_Dzurema,5_big,makadaɽi,m_a_k_a_d_a_ɽ_i,m a k a d a ɽ i,,,21500,,^ m _ a _ k _ a _ d _ a _ ɽ _ i $,default
 Baniwa_Mauliene-5_big-1,,Baniwa_Mauliene,5_big,makádaɽi,m_a_k_a_d_a_ɽ_i,m a k a d a ɽ i,,,21500,,^ m _ a _ k _ a _ d _ a _ ɽ _ i $,default
@@ -1242,16 +1242,16 @@ Tariana-5_big-1,,Tariana,5_big,?,h_a_n_ú_i_t_e,h a n ú i t e,,,44,,^ h _ a _ n
 Yukuna-5_big-1,,Yukuna,5_big,ñópo'ojlo,ɲ_ó_p_o_ʔ_o_h_l_o,ɲ ó p o ʔ o h l o,,,21498,,^ ɲ _ ó _ p _ o _ ʔ _ o _ h _ l _ o $,default
 Warekena-5_big-1,,Warekena,5_big,?,i_ɾ_u_a_m_i,i ɾ u a m i,,,56,,^ i _ ɾ _ u _ a _ m _ i $,default
 Warekena-5_big-2,,Warekena,5_big,?,j_a_ɾ_u_t_e,j a ɾ u t e,,,39,,^ j _ a _ ɾ _ u _ t _ e $,default
-Kauixana-5_big-1,,Kauixana,5_big,dɨɾɨɾɨ-ma-si,d_ɨ_ɾ_ɨ_ɾ_ɨ_-_ma_-_si,d ɨ ɾ ɨ ɾ ɨ !- !ma !- !si,,,21501,,^ d _ ɨ _ ɾ _ ɨ _ ɾ _ ɨ _ - _ ma _ - _ si $,default
+Kauixana-5_big-1,,Kauixana,5_big,dɨɾɨɾɨ-ma-si,d_ɨ_ɾ_ɨ_ɾ_ɨ_-_ma_-_si,d ɨ ɾ ɨ ɾ ɨ + m a + s i,,,21501,,^ d _ ɨ _ ɾ _ ɨ _ ɾ _ ɨ _ - _ ma _ - _ si $,default
 Kauixana-5_big-2,,Kauixana,5_big,poʔɾí,p_o_ʔ_ɾ_í,p o ʔ ɾ í,,,21498,,^ p _ o _ ʔ _ ɾ _ í $,default
 Kauixana-5_big-3,,Kauixana,5_big,maɾé,m_a_ɾ_é,m a ɾ é,,,183,,^ m _ a _ ɾ _ é $,default
-Kauixana-5_big-4,,Kauixana,5_big,ka-maka-hɨ,k_a-_m_a_k_a-_h_ɨ,k !a- m a k !a- h ɨ,,,21500,,^ k _ a- _ m _ a _ k _ a- _ h _ ɨ $,default
-Yumana-5_big-1,,Yumana,5_big,katʃu[juju],k_a_tʃ_u_[_j_u_j_u_],k a tʃ u ![ j u j u !],,,0,,^ k _ a _ tʃ _ u _ [ _ j _ u _ j _ u _ ] $,default
+Kauixana-5_big-4,,Kauixana,5_big,ka-maka-hɨ,k_a-_m_a_k_a-_h_ɨ,k a + m a k a + h ɨ,,,21500,,^ k _ a- _ m _ a _ k _ a- _ h _ ɨ $,default
+Yumana-5_big-1,,Yumana,5_big,katʃu[juju],k_a_tʃ_u_[_j_u_j_u_],k a tʃ u j u j u,,,0,,^ k _ a _ tʃ _ u _ [ _ j _ u _ j _ u _ ] $,default
 Yumana-5_big-2,,Yumana,5_big,mare,m_a_r_e,m a r e,,,183,,^ m _ a _ r _ e $,default
-Passe-5_big-1,,Passe,5_big,mo[o]ré,m_o_[_o_]_r_é,m o ![ o !] r é,,,183,,^ m _ o _ [ _ o _ ] _ r _ é $,default
+Passe-5_big-1,,Passe,5_big,mo[o]ré,m_o_[_o_]_r_é,m o o r é,,,183,,^ m _ o _ [ _ o _ ] _ r _ é $,default
 Baniwa_Waliperidakenai-73_smokeexhaust-1,,Baniwa_Waliperidakenai,73_smokeexhaust,itamɐna,i_t_a_m_ɐ_n_a,i t a m ɐ n a,,,168,,^ i _ t _ a _ m _ ɐ _ n _ a $,default
 Baniwa_Hohoodene-73_smokeexhaust-1,,Baniwa_Hohoodene,73_smokeexhaust,iːta,iː_t_a,iː t a,,,168,,^ iː _ t _ a $,default
-Baniwa_Dzurema-73_smokeexhaust-1,,Baniwa_Dzurema,73_smokeexhaust,tidzɛetaka,t_i_dz_ɛ_#_e_t_a_k_a,t i dz ɛ <<#>> e t a k a,,,168,,^ t _ i _ dz _ ɛ _ <#> _ e _ t _ a _ k _ a $,default
+Baniwa_Dzurema-73_smokeexhaust-1,,Baniwa_Dzurema,73_smokeexhaust,tidzɛetaka,t_i_dz_ɛ_+_e_t_a_k_a,t i dz ɛ <<+>> e t a k a,,,168,,^ t _ i _ dz _ ɛ _ <+> _ e _ t _ a _ k _ a $,default
 Baniwa_Mauliene-73_smokeexhaust-1,,Baniwa_Mauliene,73_smokeexhaust,itha,i_tʰ_a,i tʰ a,,,168,,^ i _ tʰ _ a $,default
 Koripako_Kumadene-73_smokeexhaust-1,,Koripako_Kumadene,73_smokeexhaust,ɽipaːka,ɽ_i_p_aː_k_a,ɽ i p aː k a,,,168,,^ ɽ _ i _ p _ aː _ k _ a $,default
 Baniwa_Kowaidakenai-73_smokeexhaust-1,,Baniwa_Kowaidakenai,73_smokeexhaust,ɽitaːka,ɽ_i_t_aː_k_a,ɽ i t aː k a,,,168,,^ ɽ _ i _ t _ aː _ k _ a $,default
@@ -1263,7 +1263,7 @@ Koripako_oho-73_smokeexhaust-1,,Koripako_oho,73_smokeexhaust,litaːka,l_i_t_aː_
 Koripako_name-73_smokeexhaust-1,,Koripako_name,73_smokeexhaust,liːtaka,l_iː_t_a_k_a,l iː t a k a,,,168,,^ l _ iː _ t _ a _ k _ a $,default
 Werekena_Baniva-73_smokeexhaust-1,,Werekena_Baniva,73_smokeexhaust,sjaɾiɾi,s_j_a_ɾ_i_ɾ_i,s j a ɾ i ɾ i,,,168,,^ s _ j _ a _ ɾ _ i _ ɾ _ i $,default
 Achagua-73_smokeexhaust-1,,Achagua,73_smokeexhaust,íisaninaa,í_i_s_a_n_i_n_aa,í i s a n i n aː,,,168,,^ í _ i _ s _ a _ n _ i _ n _ aa $,default
-Baniwa-73_smokeexhaust-1,,Baniwa,73_smokeexhaust,íitta,í_i_tt_a,í i tt a,,,168,,^ í _ i _ tt _ a $,default
+Baniwa-73_smokeexhaust-1,,Baniwa,73_smokeexhaust,íitta,í_i_tt_a,í i tː a,,,168,,^ í _ i _ tt _ a $,default
 Bare-73_smokeexhaust-1,,Bare,73_smokeexhaust,?,pʰ_u_k_u_k_u,pʰ u k u k u,,,750,,^ pʰ _ u _ k _ u _ k _ u $,default
 Kabiyari-73_smokeexhaust-1,,Kabiyari,73_smokeexhaust,ít̪a-ri,í_t̪_a_r_i,í t̪ a r i,,,168,,^ í _ t̪ _ a _ r _ i $,default
 Piapoco-73_smokeexhaust-1,,Piapoco,73_smokeexhaust,?,s_a_m_à_n_a,s a m à n a,,,168,,^ s _ a _ m _ à _ n _ a $,default
@@ -1288,7 +1288,7 @@ Werekena_Baniva-74_stand-1,,Werekena_Baniva,74_stand,teatʃia,t_e_a_tʃ_i_a,t e 
 Achagua-74_stand-1,,Achagua,74_stand,bárueriu,b_a_r_u_e_r_i_u,b a r u e r i u,,,762,,^ b _ a _ r _ u _ e _ r _ i _ u $,default
 Baniwa-74_stand-1,,Baniwa,74_stand,-éema,é_e_m_a,é e m a,,,1539,,^ é _ e _ m _ a $,default
 Bare-74_stand-1,,Bare,74_stand,?,k_a_d_u_m_a,k a d u m a,,,763,,^ k _ a _ d _ u _ m _ a $,default
-Kabiyari-74_stand-1,,Kabiyari,74_stand,patʃha,p_a_tʃh_a,p a !tʃh a,,,761,,^ p _ a _ tʃh _ a $,default
+Kabiyari-74_stand-1,,Kabiyari,74_stand,patʃha,p_a_tʃh_a,p a tʃʰ a,,,761,,^ p _ a _ tʃh _ a $,default
 Piapoco-74_stand-1,,Piapoco,74_stand,bàlùanícawa,b_à_l_ù_a_n_í_c_a_w_a,b à l ù a n í c a w a,,,762,,^ b _ à _ l _ ù _ a _ n _ í _ c _ a _ w _ a $,default
 Resigaro-74_stand-1,,Resigaro,74_stand,-i?tóṇú,i_ʔ_t_ó_ṇ_ú,i ʔ t ó n̩ ú,,,51,,^ i _ ʔ _ t _ ó _ ṇ _ ú $,default
 Tariana-74_stand-1,,Tariana,74_stand,?,d_i_é_m_a,d i é m a,,,1539,,^ d _ i _ é _ m _ a $,default
@@ -1296,7 +1296,7 @@ Yukuna-74_stand-1,,Yukuna,74_stand,táraʔakaho,t_á_r_a_ʔ_a_k_a_h_o,t á r a �
 Warekena-74_stand-1,,Warekena,74_stand,?,a_tʃ_i_a,a tʃ i a,,,761,,^ a _ tʃ _ i _ a $,default
 Warekena-74_stand-2,,Warekena,74_stand,?,n_a_k_a,n a k a,,,767,,^ n _ a _ k _ a $,default
 Kauixana-74_stand-1,,Kauixana,74_stand,tawana,t_a_w_a_n_a,t a w a n a,,,21597,,^ t _ a _ w _ a _ n _ a $,default
-Kauixana-74_stand-2,,Kauixana,74_stand,?,t_o_lh_ae_m_a,t o !lh ae m a,,,51,,^ t _ o _ lh _ ae _ m _ a $,default
+Kauixana-74_stand-2,,Kauixana,74_stand,?,t_o_lh_ae_m_a,t o lʰ ae m a,,,51,,^ t _ o _ lh _ ae _ m _ a $,default
 Baniwa_Waliperidakenai-75_star-1,,Baniwa_Waliperidakenai,75_star,hiwiʃi,h_i_w_i_ʃ_i,h i w i ʃ i,,,775,,^ h _ i _ w _ i _ ʃ _ i $,default
 Baniwa_Hohoodene-75_star-1,,Baniwa_Hohoodene,75_star,hiwiʃi,h_i_w_i_ʃ_i,h i w i ʃ i,,,775,,^ h _ i _ w _ i _ ʃ _ i $,default
 Baniwa_Dzurema-75_star-1,,Baniwa_Dzurema,75_star,hiwiʃída,h_i_w_i_ʃ_í_d_a,h i w i ʃ í d a,,,775,,^ h _ i _ w _ i _ ʃ _ í _ d _ a $,default
@@ -1312,7 +1312,7 @@ Koripako_oho-75_star-1,,Koripako_oho,75_star,hivisrida,h_i_v_i_s_ɾ_i_d_a,h i v 
 Koripako_name-75_star-1,,Koripako_name,75_star,hivisrida,h_i_v_i_s_ɾ_i_d_a,h i v i s ɾ i d a,,,775,,^ h _ i _ v _ i _ s _ ɾ _ i _ d _ a $,default
 Werekena_Baniva-75_star-1,,Werekena_Baniva,75_star,wiminaɽi,w_i_m_i_n_a_ɽ_i,w i m i n a ɽ i,,,1556,,^ w _ i _ m _ i _ n _ a _ ɽ _ i $,default
 Achagua-75_star-1,,Achagua,75_star,sáalii,s_á_a_l_ii,s á a l iː,,,16,,^ s _ á _ a _ l _ ii $,default
-Baniwa-75_star-1,,Baniwa,75_star,hiwírhi,h_i_w_í_rh_i,h i w í !rh i,,,775,,^ h _ i _ w _ í _ rh _ i $,default
+Baniwa-75_star-1,,Baniwa,75_star,hiwírhi,h_i_w_í_rh_i,h i w í rʰ i,,,775,,^ h _ i _ w _ í _ rh _ i $,default
 Bare-75_star-1,,Bare,75_star,?,ʰw_i_n_a_d_i,ʰw i n a d i,,,775,,^ ʰw _ i _ n _ a _ d _ i $,default
 Kabiyari-75_star-1,,Kabiyari,75_star,wirínhu,w_i_r_í_nʰ_u,w i r í nʰ u,,,775,,^ w _ i _ r _ í _ nʰ _ u $,default
 Piapoco-75_star-1,,Piapoco,75_star,dùlupùta,d_ù_l_u_p_ù_t_a,d ù l u p ù t a,,,772,,^ d _ ù _ l _ u _ p _ ù _ t _ a $,default
@@ -1326,7 +1326,7 @@ Passe-75_star-1,,Passe,75_star,kethé,k_e_tʰ_é,k e tʰ é,,,42,,^ k _ e _ tʰ 
 Achagua-16_dog-1,,Achagua,16_dog,auli,a_u_l_i,a u l i,,,190,,^ a _ u _ l _ i $,default
 Baniwa-16_dog-1,,Baniwa,16_dog,tsiino,ts_ii_n_o,ts iː n o,,,187,,^ ts _ ii _ n _ o $,default
 Bare-16_dog-1,,Bare,16_dog,?,tʃ_i_n_u,tʃ i n u,,,187,,^ tʃ _ i _ n _ u $,default
-Kabiyari-16_dog-1,,Kabiyari,16_dog,t∫aawi,t∫_aa_w_i,!t∫ aː w i,,,189,,^ t∫ _ aa _ w _ i $,default
+Kabiyari-16_dog-1,,Kabiyari,16_dog,t∫aawi,t∫_aa_w_i,t∫ aː w i,,,189,,^ t∫ _ aa _ w _ i $,default
 Piapoco-16_dog-1,,Piapoco,16_dog,jàlidu,j_à_l_i_d_u,j à l i d u,,,190,,^ j _ à _ l _ i _ d _ u $,default
 Resigaro-16_dog-1,,Resigaro,16_dog,íiní,í_i_n_í,í i n í,,,26,,^ í _ i _ n _ í $,default
 Tariana-16_dog-1,,Tariana,16_dog,čínu,tʃ_í_n_u,tʃ í n u,,,187,,^ tʃ _ í _ n _ u $,default
@@ -1370,10 +1370,10 @@ Yukuna-76_sun-1,,Yukuna,76_sun,kamú,k_a_m_ú,k a m ú,,,790,,^ k _ a _ m _ ú $
 Warekena-76_sun-1,,Warekena,76_sun,?,a_m_u_s_i,a m u s i,,,790,,^ a _ m _ u _ s _ i $,default
 Kauixana-76_sun-1,,Kauixana,76_sun,maʔaɾí,m_a_ʔ_a_ɾ_í,m a ʔ a ɾ í,,,21600,,^ m _ a _ ʔ _ a _ ɾ _ í $,default
 Kauixana-76_sun-2,,Kauixana,76_sun,móaka,m_ó_a_k_a,m ó a k a,,,21601,,^ m _ ó _ a _ k _ a $,default
-Yumana-76_sun-1,,Yumana,76_sun,sima-lu,s_i_m_a-_l_u,s i m !a- l u,,,169,,^ s _ i _ m _ a- _ l _ u $,default
-Yumana-76_sun-2,,Yumana,76_sun,seman-lu,s_e_m_a_n-_l_u,s e m a !n- l u,,,169,,^ s _ e _ m _ a _ n- _ l _ u $,default
+Yumana-76_sun-1,,Yumana,76_sun,sima-lu,s_i_m_a-_l_u,s i m a + l u,,,169,,^ s _ i _ m _ a- _ l _ u $,default
+Yumana-76_sun-2,,Yumana,76_sun,seman-lu,s_e_m_a_n-_l_u,s e m a n + l u,,,169,,^ s _ e _ m _ a _ n- _ l _ u $,default
 Passe-76_sun-1,,Passe,76_sun,eɨmãã,eɨ_m_ãã,eɨ m ãː,,,57,,^ eɨ _ m _ ãã $,default
-Passe-76_sun-2,,Passe,76_sun,aiumaa,aiu_m_aa,!aiu m aː,,,57,,^ aiu _ m _ aa $,default
+Passe-76_sun-2,,Passe,76_sun,aiumaa,aiu_m_aa,a i/j u m aː,,,57,,^ aiu _ m _ aa $,default
 Baniwa_Waliperidakenai-6_bird-1,,Baniwa_Waliperidakenai,6_bird,kepiʐeːni,k_e_p_i_ʐ_eː_n_i,k e p i ʐ eː n i,,,126,,^ k _ e _ p _ i _ ʐ _ eː _ n _ i $,default
 Baniwa_Hohoodene-6_bird-1,,Baniwa_Hohoodene,6_bird,kepiʐeni,k_e_p_i_ʐ_e_n_i,k e p i ʐ e n i,,,126,,^ k _ e _ p _ i _ ʐ _ e _ n _ i $,default
 Baniwa_Dzurema-6_bird-1,,Baniwa_Dzurema,6_bird,kepiʐeni,k_e_p_i_ʐ_e_n_i,k e p i ʐ e n i,,,126,,^ k _ e _ p _ i _ ʐ _ e _ n _ i $,default
@@ -1401,8 +1401,8 @@ Tariana-6_bird-1,,Tariana,6_bird,?,k_é_p_i_ɾ_a,k é p i ɾ a,,,126,,^ k _ é _
 Yukuna-6_bird-1,,Yukuna,6_bird,kupira'aphá,k_u_p_i_r_a_ʔ_a_pʰ_á,k u p i r a ʔ a pʰ á,,,50,,^ k _ u _ p _ i _ r _ a _ ʔ _ a _ pʰ _ á $,default
 Warekena-6_bird-1,,Warekena,6_bird,?,u_tʃ_i_p_i_e,u tʃ i p i e,,,49,,^ u _ tʃ _ i _ p _ i _ e $,default
 Kauixana-6_bird-1,,Kauixana,6_bird,paɾe(ʔ)na,p_a_ɾ_e_ʔ_n_a,p a ɾ e ʔ n a,,,21502,,^ p _ a _ ɾ _ e _ ʔ _ n _ a $,default
-Yumana-6_bird-1,,Yumana,6_bird,juapâe,j_ua_p_â_e,j ua p â e,,,244,,^ j _ ua _ p _ â _ e $,default
-Yumana-6_bird-2,,Yumana,6_bird,onɨakphɨ,o_n_ɨa_k_pʰ_ɨ,o n ɨa k pʰ ɨ,,,243,,^ o _ n _ ɨa _ k _ pʰ _ ɨ $,default
+Yumana-6_bird-1,,Yumana,6_bird,juapâe,j_ua_p_â_e,j u/w a p â e,,,244,,^ j _ ua _ p _ â _ e $,default
+Yumana-6_bird-2,,Yumana,6_bird,onɨakphɨ,o_n_ɨa_k_pʰ_ɨ,o n ɨ/j a k pʰ ɨ,,,243,,^ o _ n _ ɨa _ k _ pʰ _ ɨ $,default
 Passe-6_bird-1,,Passe,6_bird,mikerapi,m_i_k_e_r_a_p_i,m i k e r a p i,,,245,,^ m _ i _ k _ e _ r _ a _ p _ i $,default
 Baniwa_Hohoodene-77_swim-1,,Baniwa_Hohoodene,77_swim,waʂiakawa,w_a_ʂ_i_a_k_a_w_a,w a ʂ i a k a w a,,,170,,^ w _ a _ ʂ _ i _ a _ k _ a _ w _ a $,default
 Baniwa_Dzurema-77_swim-1,,Baniwa_Dzurema,77_swim,wáʂiaka,w_a_ʂ_i_a_k_a,w a ʂ i a k a,,,170,,^ w _ a _ ʂ _ i _ a _ k _ a $,default
@@ -1423,11 +1423,11 @@ Bare-77_swim-1,,Bare,77_swim,?,k_u_m_i,k u m i,,,793,,^ k _ u _ m _ i $,default
 Kabiyari-77_swim-1,,Kabiyari,77_swim,awápa,a_w_á_p_a,a w á p a,,,799,,^ a _ w _ á _ p _ a $,default
 Piapoco-77_swim-1,,Piapoco,77_swim,màlacawa,m_à_l_a_k_a_w_a,m à l a k a w a,,,795,,^ m _ à _ l _ a _ k _ a _ w _ a $,default
 Resigaro-77_swim-1,,Resigaro,77_swim,o?vápú,o_ʔ_v_á_p_ú,o ʔ v á p ú,,,799,,^ o _ ʔ _ v _ á _ p _ ú $,default
-Tariana-77_swim-1,,Tariana,77_swim,?,d_i_á_hj_a,d i á !hj a,,,170,,^ d _ i _ á _ hj _ a $,default
+Tariana-77_swim-1,,Tariana,77_swim,?,d_i_á_hj_a,d i á hʲ a,,,170,,^ d _ i _ á _ hj _ a $,default
 Yukuna-77_swim-1,,Yukuna,77_swim,i'iwapakaje,i_ʔ_i_w_a_p_a_k_a_h_e,i ʔ i w a p a k a h e,,,799,,^ i _ ʔ _ i _ w _ a _ p _ a _ k _ a _ h _ e $,default
 Warekena-77_swim-1,,Warekena,77_swim,?,n_i_t_a,n i t a,,,103,,^ n _ i _ t _ a $,default
 Warekena-77_swim-2,,Warekena,77_swim,?,u_ɾ_u_t_a,u ɾ u t a,,,801,,^ u _ ɾ _ u _ t _ a $,default
-Kauixana-77_swim-1,,Kauixana,77_swim,ana-poko,a_n_a-_p_o_k_o,a n !a- p o k o,,,21603,,^ a _ n _ a- _ p _ o _ k _ o $,default
+Kauixana-77_swim-1,,Kauixana,77_swim,ana-poko,a_n_a-_p_o_k_o,a n a + p o k o,,,21603,,^ a _ n _ a- _ p _ o _ k _ o $,default
 Kauixana-77_swim-2,,Kauixana,77_swim,ina,i_n_a,i n a,,,21603,,^ i _ n _ a $,default
 Baniwa_Hohoodene-78_tail-1,,Baniwa_Hohoodene,78_tail,ɽiepipe,ɽ_i_e_p_i_p_e,ɽ i e p i p e,,,21605,,^ ɽ _ i _ e _ p _ i _ p _ e $,default
 Baniwa_Dzurema-78_tail-1,,Baniwa_Dzurema,78_tail,ɾitíʈi,ɾ_i_t_í_t_i,ɾ i t í t i,,,21605,,^ ɾ _ i _ t _ í _ t _ i $,default
@@ -1442,7 +1442,7 @@ Koripako_oho-78_tail-1,,Koripako_oho,78_tail,liːtipi,l_iː_t_i_p_i,l iː t i p 
 Koripako_name-78_tail-1,,Koripako_name,78_tail,liːtipi,l_iː_t_i_p_i,l iː t i p i,,,21605,,^ l _ iː _ t _ i _ p _ i $,default
 Werekena_Baniva-78_tail-1,,Werekena_Baniva,78_tail,risi,ɾ_i_s_i,ɾ i s i,,,246,,^ ɾ _ i _ s _ i $,default
 Achagua-78_tail-1,,Achagua,78_tail,íiʃiʃi,í_i_ʃ_i_ʃ_i,í i ʃ i ʃ i,,,246,,^ í _ i _ ʃ _ i _ ʃ _ i $,default
-Baniwa-78_tail-1,,Baniwa,78_tail,-iittípi,ii_tt_í_p_i,iː tt í p i,,,21605,,^ ii _ tt _ í _ p _ i $,default
+Baniwa-78_tail-1,,Baniwa,78_tail,-iittípi,ii_tt_í_p_i,iː tː í p i,,,21605,,^ ii _ tt _ í _ p _ i $,default
 Bare-78_tail-1,,Bare,78_tail,?,h_i_b_i,h i b i,,,21605,,^ h _ i _ b _ i $,default
 Kabiyari-78_tail-1,,Kabiyari,78_tail,t̪ipi,t̪_i_p_i,t̪ i p i,,,21605,,^ t̪ _ i _ p _ i $,default
 Kabiyari-78_tail-2,,Kabiyari,78_tail,muuku,m_uu_k_u,m uː k u,,,811,,^ m _ uu _ k _ u $,default
@@ -1452,8 +1452,8 @@ Tariana-78_tail-1,,Tariana,78_tail,di-číma,d_i_tʃ_í_m_a,d i tʃ í m a,,,216
 Tariana-78_tail-2,,Tariana,78_tail,di-sipí,d_i_s_i_p_í,d i s i p í,,,21605,,^ d _ i _ s _ i _ p _ í $,default
 Yukuna-78_tail-1,,Yukuna,78_tail,jipiji,h_i_p_i_h_i,h i p i h i,,,21605,,^ h _ i _ p _ i _ h _ i $,default
 Warekena-78_tail-1,,Warekena,78_tail,?,p_i_ʃ_i,p i ʃ i,,,21605,,^ p _ i _ ʃ _ i $,default
-Kauixana-78_tail-1,,Kauixana,78_tail,ts-ɨxɨ,ts-_ɨ_ʃ_ɨ,!ts- ɨ ʃ ɨ,,,246,,^ ts- _ ɨ _ ʃ _ ɨ $,default
-Kauixana-78_tail-2,,Kauixana,78_tail,(xe)pɨ,[_ʃ_e_]_p_ɨ,![ ʃ e !] p ɨ,,,21605,,^ [ _ ʃ _ e _ ] _ p _ ɨ $,default
+Kauixana-78_tail-1,,Kauixana,78_tail,ts-ɨxɨ,ts-_ɨ_ʃ_ɨ,ts + ɨ ʃ ɨ,,,246,,^ ts- _ ɨ _ ʃ _ ɨ $,default
+Kauixana-78_tail-2,,Kauixana,78_tail,(xe)pɨ,[_ʃ_e_]_p_ɨ,ʃ e p ɨ,,,21605,,^ [ _ ʃ _ e _ ] _ p _ ɨ $,default
 Baniwa_Waliperidakenai-79_that-1,,Baniwa_Waliperidakenai,79_that,ʰɾiẽnahã,ɾʰ_i_ẽ_n_a_h_ã,ɾʰ i ẽ n a h ã,,,181,,^ ɾʰ _ i _ ẽ _ n _ a _ h _ ã $,default
 Baniwa_Hohoodene-79_that-1,,Baniwa_Hohoodene,79_that,hia,h_i_a,h i a,,,181,,^ h _ i _ a $,default
 Baniwa_Dzurema-79_that-1,,Baniwa_Dzurema,79_that,hietahɐ̃,h_i_e_t_a_h_ɐ̃,h i e t a h ɐ̃,,,181,,^ h _ i _ e _ t _ a _ h _ ɐ̃ $,default
@@ -1468,11 +1468,11 @@ Koripako_name-79_that-1,,Koripako_name,79_that,tiːa,t_iː_a,t iː a,,,172,,^ t 
 Werekena_Baniva-79_that-1,,Werekena_Baniva,79_that,ɛtahɐ̃,ɛ_t_a_h_ɐ̃,ɛ t a h ɐ̃,,,181,,^ ɛ _ t _ a _ h _ ɐ̃ $,default
 Achagua-79_that-1,,Achagua,79_that,liára,l_i_á_r_a,l i á r a,,,181,,^ l _ i _ á _ r _ a $,default
 Achagua-79_that-2,,Achagua,79_that,ruára,r_u_á_r_a,r u á r a,,,185,,^ r _ u _ á _ r _ a $,default
-Baniwa-79_that-1,,Baniwa,79_that,lhiera(ha),lh_i_e_r_a_h_a,!lh i e r a h a,,,181,,^ lh _ i _ e _ r _ a _ h _ a $,default
+Baniwa-79_that-1,,Baniwa,79_that,lhiera(ha),lh_i_e_r_a_h_a,lʰ i e r a h a,,,181,,^ lh _ i _ e _ r _ a _ h _ a $,default
 Bare-79_that-1,,Bare,79_that,?,a_s_ã_h_a,a s ã h a,,,814,,^ a _ s _ ã _ h _ a $,default
 Kabiyari-79_that-1,,Kabiyari,79_that,ja-ta,j_a_t_a,j a t a,,,181,,^ j _ a _ t _ a $,default
 Kabiyari-79_that-2,,Kabiyari,79_that,ja-ra,j_a_r_a,j a r a,,,181,,^ j _ a _ r _ a $,default
-Piapoco-79_that-1,,Piapoco,79_that,jáara,j_á:_ɾ_a,j áː ɾ a,,,181,,^ j _ á: _ ɾ _ a $,default
+Piapoco-79_that-1,,Piapoco,79_that,jáara,j_á:_ɾ_a,j áː/aː ɾ a,,,181,,^ j _ á: _ ɾ _ a $,default
 Resigaro-79_that-1,,Resigaro,79_that,aí,a_í,a í,,,178,,^ a _ í $,default
 Tariana-79_that-1,,Tariana,79_that,?,h_a_n_e,h a n e,,,818,,^ h _ a _ n _ e $,default
 Yukuna-79_that-1,,Yukuna,79_that,marí,m_a_ɾ_í,m a ɾ í,,,820,,^ m _ a _ ɾ _ í $,default
@@ -1504,7 +1504,7 @@ Koripako_name-17_drink-1,,Koripako_name,17_drink,iːraketi,iː_ɾ_a_k_e_t_i,iː 
 Werekena_Baniva-17_drink-1,,Werekena_Baniva,17_drink,namihɐ,n_a_m_i_h_ɐ,n a m i h ɐ,,,355,,^ n _ a _ m _ i _ h _ ɐ $,default
 Kauixana-17_drink-1,,Kauixana,17_drink,íʔsa,í_ʔ_s_a,í ʔ s a,,,79,,^ í _ ʔ _ s _ a $,default
 Yumana-17_drink-1,,Yumana,17_drink,ita,i_t_a,i t a,,,79,,^ i _ t _ a $,default
-Passe-17_drink-1,,Passe,17_drink,ikte-nau,i_kt_e-_n_au,i kt !e- n au,,,79,,^ i _ kt _ e- _ n _ au $,default
+Passe-17_drink-1,,Passe,17_drink,ikte-nau,i_kt_e-_n_au,i k t e + n au,,,79,,^ i _ kt _ e- _ n _ au $,default
 Passe-17_drink-2,,Passe,17_drink,itá,i_t_á,i t á,,,79,,^ i _ t _ á $,default
 Baniwa_Waliperidakenai-80_this-1,,Baniwa_Waliperidakenai,80_this,ʰɾiẽhẽ,ɾʰ_i_ẽ_h_ẽ,ɾʰ i ẽ h ẽ,,,179,,^ ɾʰ _ i _ ẽ _ h _ ẽ $,default
 Baniwa_Dzurema-80_this-1,,Baniwa_Dzurema,80_this,hiẽhẽ,h_i_ẽ_h_ẽ,h i ẽ h ẽ,,,179,,^ h _ i _ ẽ _ h _ ẽ $,default
@@ -1519,7 +1519,7 @@ Koripako_name-80_this-1,,Koripako_name,80_this,tiːra,t_iː_ɾ_a,t iː ɾ a,,,17
 Achagua-80_this-1,,Achagua,80_this,liáni,l_i_á_n_i,l i á n i,,,179,,^ l _ i _ á _ n _ i $,default
 Achagua-80_this-2,,Achagua,80_this,ruani,r_u_a_n_i,r u a n i,,,835,,^ r _ u _ a _ n _ i $,default
 Achagua-80_this-3,,Achagua,80_this,náani,n_á_a_n_i,n á a n i,,,837,,^ n _ á _ a _ n _ i $,default
-Baniwa-80_this-1,,Baniwa,80_this,Ihíehe,Ih_í_e_h_e,!Ih í e h e,,,179,,^ Ih _ í _ e _ h _ e $,default
+Baniwa-80_this-1,,Baniwa,80_this,Ihíehe,Ih_í_e_h_e,I/ɪ h í e h e,,,179,,^ Ih _ í _ e _ h _ e $,default
 Bare-80_this-1,,Bare,80_this,?,a_r_i_h_i,a r i h i,,,179,,^ a _ r _ i _ h _ i $,default
 Kabiyari-80_this-1,,Kabiyari,80_this,do?ó,d_o_ʔ_ó,d o ʔ ó,,,835,,^ d _ o _ ʔ _ ó $,default
 Piapoco-80_this-1,,Piapoco,80_this,jái,j_á_i,j á i,,,174,,^ j _ á _ i $,default
@@ -1560,10 +1560,10 @@ Warekena-81_thou-2,,Warekena,81_thou,?,n_i_j_a,n i j a,,,845,,^ n _ i _ j _ a $,
 Achagua-81_thou-2,,Achagua,81_thou,hija,h_i_j_a,h i j a,,,844,,^ h _ i _ j _ a $,default
 Piapoco-81_thou-2,,Piapoco,81_thou,piakué,p_i_a_k_u_é,p i a k u é,,,1959,,^ p _ i _ a _ k _ u _ é $,default
 Kauixana-81_thou-1,,Kauixana,81_thou,pɨwá,p_ɨ_w_á,p ɨ w á,,,21606,,^ p _ ɨ _ w _ á $,default
-Yumana-81_thou-1,,Yumana,81_thou,tɨju-háing,t_ɨ_j_u-_h_ái_n_g,t ɨ j !u- h ái n g,,,247,,^ t _ ɨ _ j _ u- _ h _ ái _ n _ g $,default
+Yumana-81_thou-1,,Yumana,81_thou,tɨju-háing,t_ɨ_j_u-_h_ái_n_g,t ɨ j u + h ái n g,,,247,,^ t _ ɨ _ j _ u- _ h _ ái _ n _ g $,default
 Yumana-81_thou-2,,Yumana,81_thou,pɨlatutahôe,p_ɨ_l_a_t_u_t_a_h_ô_e,p ɨ l a t u t a h ô e,,,80,,^ p _ ɨ _ l _ a _ t _ u _ t _ a _ h _ ô _ e $,default
 Passe-81_thou-1,,Passe,81_thou,pɨeɨ,p_ɨ_e_ɨ,p ɨ e ɨ,,,80,,^ p _ ɨ _ e _ ɨ $,default
-Baniwa_Hohoodene-7_bite-1,,Baniwa_Hohoodene,7_bite,pihuɐ̃nⁱ,p_i_h_u_ɐ̃_nⁱ,p i h u ɐ̃ !nⁱ,,,62,,^ p _ i _ h _ u _ ɐ̃ _ nⁱ $,default
+Baniwa_Hohoodene-7_bite-1,,Baniwa_Hohoodene,7_bite,pihuɐ̃nⁱ,p_i_h_u_ɐ̃_nⁱ,p i h u ɐ̃ nʲ,,,62,,^ p _ i _ h _ u _ ɐ̃ _ nⁱ $,default
 Baniwa_Dzurema-7_bite-1,,Baniwa_Dzurema,7_bite,tipatekani,t_i_p_a_t_e_k_a_n_i,t i p a t e k a n i,,,139,,^ t _ i _ p _ a _ t _ e _ k _ a _ n _ i $,default
 Baniwa_Mauliene-7_bite-1,,Baniwa_Mauliene,7_bite,nuhuaka,n_u_h_u_a_k_a,n u h u a k a,,,62,,^ n _ u _ h _ u _ a _ k _ a $,default
 Koripako_Kumadene-7_bite-1,,Koripako_Kumadene,7_bite,ɽiuhaːka,ɽ_i_u_h_aː_k_a,ɽ i u h aː k a,,,62,,^ ɽ _ i _ u _ h _ aː _ k _ a $,default
@@ -1585,13 +1585,13 @@ Piapoco-7_bite-3,,Piapoco,7_bite,nuamíadaca,n_u_a_m_í_a_d_a_k_a,n u a m í a d
 Piapoco-7_bite-4,,Piapoco,7_bite,jaamíaca,j_aa_m_í_a_k_a,j aː m í a k a,,,58,,^ j _ aa _ m _ í _ a _ k _ a $,default
 Piapoco-7_bite-5,,Piapoco,7_bite,júucaca,j_ú_u_k_a_k_a,j ú u k a k a,,,83,,^ j _ ú _ u _ k _ a _ k _ a $,default
 Resigaro-7_bite-1,,Resigaro,7_bite,-emú,e_m_ú,e m ú,,,58,,^ e _ m _ ú $,default
-Tariana-7_bite-1,,Tariana,7_bite,?,d_i_wh_á,d i !wh á,,,62,,^ d _ i _ wh _ á $,default
-Yukuna-7_bite-1,,Yukuna,7_bite,ajma'akaje,a_hm_a_ʔ_a_k_a_h_e,a !hm a ʔ a k a h e,,,58,,^ a _ hm _ a _ ʔ _ a _ k _ a _ h _ e $,default
+Tariana-7_bite-1,,Tariana,7_bite,?,d_i_wh_á,d i wʰ á,,,62,,^ d _ i _ wh _ á $,default
+Yukuna-7_bite-1,,Yukuna,7_bite,ajma'akaje,a_hm_a_ʔ_a_k_a_h_e,a ʰm a ʔ a k a h e,,,58,,^ a _ hm _ a _ ʔ _ a _ k _ a _ h _ e $,default
 Warekena-7_bite-1,,Warekena,7_bite,?,m_u_tʃ_i_t_a,m u tʃ i t a,,,148,,^ m _ u _ tʃ _ i _ t _ a $,default
 Kauixana-7_bite-1,,Kauixana,7_bite,ámha,á_mʰ_a,á mʰ a,,,58,,^ á _ mʰ _ a $,default
 Yumana-7_bite-1,,Yumana,7_bite,ametsa,a_m_e_ts_a,a m e ts a,,,58,,^ a _ m _ e _ ts _ a $,default
 Yumana-7_bite-2,,Yumana,7_bite,ametsa,a_m_e_ts_a,a m e ts a,,,58,,^ a _ m _ e _ ts _ a $,default
-Baniwa-18_dry-1,,Baniwa,18_dry,-meettáta,m_ee_tt_á_t_a,m eː tt á t a,,,86,,^ m _ ee _ tt _ á _ t _ a $,default
+Baniwa-18_dry-1,,Baniwa,18_dry,-meettáta,m_ee_tt_á_t_a,m eː tː á t a,,,86,,^ m _ ee _ tt _ á _ t _ a $,default
 Bare-18_dry-1,,Bare,18_dry,?,h_e_r_u_d_a,h e r u d a,,,209,,^ h _ e _ r _ u _ d _ a $,default
 Kabiyari-18_dry-1,,Kabiyari,18_dry,iwá,i_w_á,i w á,,,21517,,^ i _ w _ á $,default
 Piapoco-18_dry-1,,Piapoco,18_dry,chuìri,tʃ_u_ì_ɾ_i,tʃ u ì ɾ i,,,206,,^ tʃ _ u _ ì _ ɾ _ i $,default
@@ -1612,7 +1612,7 @@ Koripako_ehe-18_dry-1,,Koripako_ehe,18_dry,meːtadali,m_eː_t_a_d_a_l_i,m eː t 
 Koripako_oho-18_dry-1,,Koripako_oho,18_dry,meːtadale,m_eː_t_a_d_a_l_e,m eː t a d a l e,,,86,,^ m _ eː _ t _ a _ d _ a _ l _ e $,default
 Koripako_name-18_dry-1,,Koripako_name,18_dry,meːtadali,m_eː_t_a_d_a_l_i,m eː t a d a l i,,,86,,^ m _ eː _ t _ a _ d _ a _ l _ i $,default
 Werekena_Baniva-18_dry-1,,Werekena_Baniva,18_dry,sɛsɛɽi,s_ɛ_s_ɛ_ɽ_i,s ɛ s ɛ ɽ i,,,85,,^ s _ ɛ _ s _ ɛ _ ɽ _ i $,default
-Kauixana-18_dry-1,,Kauixana,18_dry,whatsaã-hɨ̃,wh_a_ts_aã-_h_ɨ̃,!wh a ts !aã- h ɨ̃,,,21516,,^ wh _ a _ ts _ aã- _ h _ ɨ̃ $,default
+Kauixana-18_dry-1,,Kauixana,18_dry,whatsaã-hɨ̃,wh_a_ts_aã-_h_ɨ̃,wʰ a ts ãː + h ɨ̃,,,21516,,^ wh _ a _ ts _ aã- _ h _ ɨ̃ $,default
 Kauixana-18_dry-2,,Kauixana,18_dry,ewaa,e_w_aa,e w aː,,,21517,,^ e _ w _ aa $,default
 Baniwa_Waliperidakenai-82_tongue-1,,Baniwa_Waliperidakenai,82_tongue,ɽienene,ɽ_i_e_n_e_n_e,ɽ i e n e n e,,,21607,,^ ɽ _ i _ e _ n _ e _ n _ e $,default
 Baniwa_Hohoodene-82_tongue-1,,Baniwa_Hohoodene,82_tongue,pɛːnɛnɛ,p_ɛː_n_ɛ_n_ɛ,p ɛː n ɛ n ɛ,,,21607,,^ p _ ɛː _ n _ ɛ _ n _ ɛ $,default
@@ -1631,15 +1631,15 @@ Baniwa-82_tongue-1,,Baniwa,82_tongue,-eenene,ee_n_e_n_e,eː n e n e,,,21607,,^ e
 Bare-82_tongue-1,,Bare,82_tongue,?,n_e_n_e,n e n e,,,21607,,^ n _ e _ n _ e $,default
 Kabiyari-82_tongue-1,,Kabiyari,82_tongue,nenipá,n_e_n_i_p_á,n e n i p á,,,21607,,^ n _ e _ n _ i _ p _ á $,default
 Piapoco-82_tongue-1,,Piapoco,82_tongue,nène,n_è_n_e,n è n e,,,21607,,^ n _ è _ n _ e $,default
-Resigaro-82_tongue-1,,Resigaro,82_tongue,e?héepé,e_ʔh_é_e_p_é,e ʔh é e p é,,,854,,^ e _ ʔh _ é _ e _ p _ é $,default
+Resigaro-82_tongue-1,,Resigaro,82_tongue,e?héepé,e_ʔh_é_e_p_é,e ʔʰ é e p é,,,854,,^ e _ ʔh _ é _ e _ p _ é $,default
 Tariana-82_tongue-1,,Tariana,82_tongue,?,d_i_é_n_e_n_e,d i é n e n e,,,21607,,^ d _ i _ é _ n _ e _ n _ e $,default
 Yukuna-82_tongue-1,,Yukuna,82_tongue,lenaji,l_e_n_a_h_i,l e n a h i,,,21607,,^ l _ e _ n _ a _ h _ i $,default
 Warekena-82_tongue-1,,Warekena,82_tongue,?,n_u_t_á_ɾ_e,n u t á ɾ e,,,856,,^ n _ u _ t _ á _ ɾ _ e $,default
 Warekena-82_tongue-2,,Warekena,82_tongue,?,j_u_ʃ_a_n_a,j u ʃ a n a,,,858,,^ j _ u _ ʃ _ a _ n _ a $,default
 Kauixana-82_tongue-1,,Kauixana,82_tongue,néne,n_é_n_e,n é n e,,,21607,,^ n _ é _ n _ e $,default
-Yumana-82_tongue-1,,Yumana,82_tongue,n-e[h]na,n-_e_[_h_]_n_a,!n- e ![ h !] n a,,,21607,,^ n- _ e _ [ _ h _ ] _ n _ a $,default
+Yumana-82_tongue-1,,Yumana,82_tongue,n-e[h]na,n-_e_[_h_]_n_a,n + e h n a,,,21607,,^ n- _ e _ [ _ h _ ] _ n _ a $,default
 Yumana-82_tongue-2,,Yumana,82_tongue,nena,n_e_n_a,n e n a,,,21607,,^ n _ e _ n _ a $,default
-Passe-82_tongue-1,,Passe,82_tongue,[i]nene,[_i_]_n_e_n_e,![ i !] n e n e,,,21607,,^ [ _ i _ ] _ n _ e _ n _ e $,default
+Passe-82_tongue-1,,Passe,82_tongue,[i]nene,[_i_]_n_e_n_e,i n e n e,,,21607,,^ [ _ i _ ] _ n _ e _ n _ e $,default
 Baniwa_Waliperidakenai-83_tooth-1,,Baniwa_Waliperidakenai,83_tooth,ɽietsʰa,ɽ_i_e_tsʰ_a,ɽ i e tsʰ a,,,48,,^ ɽ _ i _ e _ tsʰ _ a $,default
 Baniwa_Hohoodene-83_tooth-1,,Baniwa_Hohoodene,83_tooth,peːtsʰa,p_eː_tsʰ_a,p eː tsʰ a,,,48,,^ p _ eː _ tsʰ _ a $,default
 Baniwa_Dzurema-83_tooth-1,,Baniwa_Dzurema,83_tooth,ɽiɛtsʰa,ɽ_i_ɛ_tsʰ_a,ɽ i ɛ tsʰ a,,,48,,^ ɽ _ i _ ɛ _ tsʰ _ a $,default
@@ -1654,7 +1654,7 @@ Koripako_oho-83_tooth-1,,Koripako_oho,83_tooth,lieːtsa,l_i_eː_ts_a,l i eː ts 
 Koripako_name-83_tooth-1,,Koripako_name,83_tooth,lieːtsa,l_i_eː_ts_a,l i eː ts a,,,48,,^ l _ i _ eː _ ts _ a $,default
 Werekena_Baniva-83_tooth-1,,Werekena_Baniva,83_tooth,naːtsi,n_aː_ts_i,n aː ts i,,,48,,^ n _ aː _ ts _ i $,default
 Achagua-83_tooth-1,,Achagua,83_tooth,éeʃi,é_e_ʃ_i,é e ʃ i,,,48,,^ é _ e _ ʃ _ i $,default
-Baniwa-83_tooth-1,,Baniwa,83_tooth,-eetsha,ee_tsh_a,eː !tsh a,,,48,,^ ee _ tsh _ a $,default
+Baniwa-83_tooth-1,,Baniwa,83_tooth,-eetsha,ee_tsh_a,eː tsʰ a,,,48,,^ ee _ tsh _ a $,default
 Baniwa-83_tooth-2,,Baniwa,83_tooth,-dzawiere,dz_a_w_i_e_r_e,dz a w i e r e,,,868,,^ dz _ a _ w _ i _ e _ r _ e $,default
 Baniwa-83_tooth-3,,Baniwa,83_tooth,-ee,ee,eː,,,48,,^ ee $,default
 Baniwa-83_tooth-4,,Baniwa,83_tooth,-kako,k_a_k_o,k a k o,,,871,,^ k _ a _ k _ o $,default
@@ -1667,8 +1667,8 @@ Tariana-83_tooth-1,,Tariana,83_tooth,?,d_i_é,d i é,,,48,,^ d _ i _ é $,defaul
 Tariana-83_tooth-2,,Tariana,83_tooth,?,d_i_é_d_a,d i é d a,,,48,,^ d _ i _ é _ d _ a $,default
 Yukuna-83_tooth-1,,Yukuna,83_tooth,aijí,a_i_h_í,a i h í,,,48,,^ a _ i _ h _ í $,default
 Warekena-83_tooth-1,,Warekena,83_tooth,?,n_a_ʃ_i,n a ʃ i,,,48,,^ n _ a _ ʃ _ i $,default
-Kauixana-83_tooth-1,,Kauixana,83_tooth,(o)wé,̆o͡wé,!̆o͡wé,,,21608,,^ ̆o͡wé $,default
-Yumana-83_tooth-1,,Yumana,83_tooth,i[h]í,i_[_h_]_í,i ![ h !] í,,,48,,^ i _ [ _ h _ ] _ í $,default
+Kauixana-83_tooth-1,,Kauixana,83_tooth,(o)wé,̆o͡wé,o w é/e,,,21608,,^ ̆o͡wé $,default
+Yumana-83_tooth-1,,Yumana,83_tooth,i[h]í,i_[_h_]_í,i h í,,,48,,^ i _ [ _ h _ ] _ í $,default
 Passe-83_tooth-1,,Passe,83_tooth,ée,é_e,é e,,,48,,^ é _ e $,default
 Baniwa_Waliperidakenai-85_two-1,,Baniwa_Waliperidakenai,85_two,dzamada,dz_a_m_a_d_a,dz a m a d a,,,887,,^ dz _ a _ m _ a _ d _ a $,default
 Baniwa_Hohoodene-85_two-1,,Baniwa_Hohoodene,85_two,dzamada,dz_a_m_a_d_a,dz a m a d a,,,887,,^ dz _ a _ m _ a _ d _ a $,default
@@ -1694,8 +1694,8 @@ Tariana-85_two-1,,Tariana,85_two,?,ñ_a_m_á_d_a,ɲ a m á d a,,,887,,^ ñ _ a _
 Tariana-85_two-2,,Tariana,85_two,?,j_a_m_á_d_a,j a m á d a,,,887,,^ j _ a _ m _ á _ d _ a $,default
 Yukuna-85_two-1,,Yukuna,85_two,ihamá,i_h_a_m_á,i h a m á,,,887,,^ i _ h _ a _ m _ á $,default
 Warekena-85_two-1,,Warekena,85_two,dama-,d_a_m_a,d a m a,,,887,,^ d _ a _ m _ a $,default
-Kauixana-85_two-1,,Kauixana,85_two,peʔto-,p_e_ʔ_t_o-,p e ʔ t !o-,,,21611,,^ p _ e _ ʔ _ t _ o- $,default
-Kauixana-85_two-2,,Kauixana,85_two,peta-,p_e_t_a-,p e t !a-,,,21611,,^ p _ e _ t _ a- $,default
+Kauixana-85_two-1,,Kauixana,85_two,peʔto-,p_e_ʔ_t_o-,p e ʔ t o,,,21611,,^ p _ e _ ʔ _ t _ o-$,default
+Kauixana-85_two-2,,Kauixana,85_two,peta-,p_e_t_a-,p e t a,,,21611,,^ p _ e _ t _ a-$,default
 Yumana-85_two-1,,Yumana,85_two,piákma,p_i_á_k_m_a,p i á k m a,,,21,,^ p _ i _ á _ k _ m _ a $,default
 Passe-85_two-1,,Passe,85_two,pekiamu,p_e_k_i_a_m_u,p e k i a m u,,,21,,^ p _ e _ k _ i _ a _ m _ u $,default
 Passe-85_two-2,,Passe,85_two,pakéama,p_a_k_é_a_m_a,p a k é a m a,,,21,,^ p _ a _ k _ é _ a _ m _ a $,default
@@ -1706,8 +1706,8 @@ Bare-19_ear-1,,Bare,19_ear,?,n_u_d_a_t_i_n_i,n u d a t i n i,,,400,,^ n _ u _ d 
 Kabiyari-19_ear-1,,Kabiyari,19_ear,u'uwi,u_ʔ_u_w_i,u ʔ u w i,,,21518,,^ u _ ʔ _ u _ w _ i $,default
 Piapoco-19_ear-1,,Piapoco,19_ear,uwi,u_w_i,u w i,,,21518,,^ u _ w _ i $,default
 Resigaro-19_ear-1,,Resigaro,19_ear,henákó,h_e_n_á_k_ó,h e n á k ó,,,21604,,^ h _ e _ n _ á _ k _ ó $,default
-Tariana-19_ear-1,,Tariana,19_ear,?,d_i_wh_é_n_i,d i !wh é n i,,,8,,^ d _ i _ wh _ é _ n _ i $,default
-Yukuna-19_ear-1,,Yukuna,19_ear,i'ijwijí,i_ʔ_i_hw_i_h_í,i ʔ i !hw i h í,,,21518,,^ i _ ʔ _ i _ hw _ i _ h _ í $,default
+Tariana-19_ear-1,,Tariana,19_ear,?,d_i_wh_é_n_i,d i wʰ é n i,,,8,,^ d _ i _ wh _ é _ n _ i $,default
+Yukuna-19_ear-1,,Yukuna,19_ear,i'ijwijí,i_ʔ_i_hw_i_h_í,i ʔ i hʷ i h í,,,21518,,^ i _ ʔ _ i _ hw _ i _ h _ í $,default
 Warekena-19_ear-1,,Warekena,19_ear,?,n_u_t_a_n_i_p_a_ɾ_a,n u t a n i p a ɾ a,,,400,,^ n _ u _ t _ a _ n _ i _ p _ a _ ɾ _ a $,default
 Baniwa_Waliperidakenai-19_ear-1,,Baniwa_Waliperidakenai,19_ear,pʰieːni,pʰ_i_eː_n_i,pʰ i eː n i,,,8,,^ pʰ _ i _ eː _ n _ i $,default
 Baniwa_Hohoodene-19_ear-1,,Baniwa_Hohoodene,19_ear,hieːni,h_i_eː_n_i,h i eː n i,,,8,,^ h _ i _ eː _ n _ i $,default
@@ -1724,7 +1724,7 @@ Koripako_oho-19_ear-1,,Koripako_oho,19_ear,lieni,l_i_e_n_i,l i e n i,,,8,,^ l _ 
 Koripako_name-19_ear-1,,Koripako_name,19_ear,linakoliko,l_i_n_a_k_o_l_i_k_o,l i n a k o l i k o,,,21604,,^ l _ i _ n _ a _ k _ o _ l _ i _ k _ o $,default
 Werekena_Baniva-19_ear-1,,Werekena_Baniva,19_ear,nutɐnipaɽa,n_u_t_ɐ_n_i_p_a_ɽ_a,n u t ɐ n i p a ɽ a,,,400,,^ n _ u _ t _ ɐ _ n _ i _ p _ a _ ɽ _ a $,default
 Kauixana-19_ear-1,,Kauixana,19_ear,oʔotá,o_ʔ_o_t_á,o ʔ o t á,,,21518,,^ o _ ʔ _ o _ t _ á $,default
-Kauixana-19_ear-2,,Kauixana,19_ear,?,h_e-_n_o_k_o,h !e- n o k o,,,21604,,^ h _ e- _ n _ o _ k _ o $,default
+Kauixana-19_ear-2,,Kauixana,19_ear,?,h_e-_n_o_k_o,h e + n o k o,,,21604,,^ h _ e- _ n _ o _ k _ o $,default
 Yumana-19_ear-1,,Yumana,19_ear,oɨ,oɨ,oɨ,,,21518,,^ oɨ $,default
 Yumana-19_ear-2,,Yumana,19_ear,uhɨ,u_h_ɨ,u h ɨ,,,21518,,^ u _ h _ ɨ $,default
 Yumana-19_ear-3,,Yumana,19_ear,hoe,h_oe,h oe,,,21518,,^ h _ oe $,default
@@ -1768,22 +1768,22 @@ Koripako_oho-8_black-1,,Koripako_oho,8_black,iːtadale,iː_t_a_d_a_l_e,iː t a d
 Koripako_name-8_black-1,,Koripako_name,8_black,iːtadali,iː_t_a_d_a_l_i,iː t a d a l i,,,160,,^ iː _ t _ a _ d _ a _ l _ i $,default
 Werekena_Baniva-8_black-1,,Werekena_Baniva,8_black,sɛɾeɾi,s_ɛ_ɾ_e_ɾ_i,s ɛ ɾ e ɾ i,,,161,,^ s _ ɛ _ ɾ _ e _ ɾ _ i $,default
 Achagua-8_black-1,,Achagua,8_black,katʃáhulailau,k_a_tʃ_a_h_u_l_a_i_l_a_u,k a tʃ a h u l a i l a u,,,154,,^ k _ a _ tʃ _ a _ h _ u _ l _ a _ i _ l _ a _ u $,default
-Baniwa-8_black-1,,Baniwa,8_black,íitta,í_i_tt_a,í i tt a,,,160,,^ í _ i _ tt _ a $,default
+Baniwa-8_black-1,,Baniwa,8_black,íitta,í_i_tt_a,í i tː a,,,160,,^ í _ i _ tt _ a $,default
 Bare-8_black-1,,Bare,8_black,?,t_a_i,t a i,,,160,,^ t _ a _ i $,default
 Kabiyari-8_black-1,,Kabiyari,8_black,kewere-ri,k_e_w_e_r_e_r_i,k e w e r e r i,,,53,,^ k _ e _ w _ e _ r _ e _ r _ i $,default
-Piapoco-8_black-1,,Piapoco,8_black,cúulíiri,k_ú:_l_í:_ɾ_i,k úː l íː ɾ i,,,53,,^ k _ ú: _ l _ í: _ ɾ _ i $,default
+Piapoco-8_black-1,,Piapoco,8_black,cúulíiri,k_ú:_l_í:_ɾ_i,k úː/uː l íː/iː ɾ i,,,53,,^ k _ ú: _ l _ í: _ ɾ _ i $,default
 Resigaro-8_black-1,,Resigaro,8_black,tsaphó?,ts_a_pʰ_ó_ʔ,ts a pʰ ó ʔ,,,154,,^ ts _ a _ pʰ _ ó _ ʔ $,default
 Yukuna-8_black-1,,Yukuna,8_black,kameni,k_a_m_e_n_i,k a m e n i,,,2013,,^ k _ a _ m _ e _ n _ i $,default
 Warekena-8_black-1,,Warekena,8_black,?,ʃ_e_ʃ_e_ɾ_i,ʃ e ʃ e ɾ i,,,161,,^ ʃ _ e _ ʃ _ e _ ɾ _ i $,default
-Kauixana-8_black-1,,Kauixana,8_black,(a)powi-,[_a_]_p_o_w_i-,![ a !] p o w !i-,,,191,,^ [ _ a _ ] _ p _ o _ w _ i- $,default
-Kauixana-8_black-2,,Kauixana,8_black,(a)pawi-,[_a_]_p_a_w_i-,![ a !] p a w !i-,,,191,,^ [ _ a _ ] _ p _ a _ w _ i- $,default
-Yumana-8_black-1,,Yumana,8_black,tʃíka-ju,tʃ_í_k_a-_j_u,tʃ í k !a- j u,,,0,,^ tʃ _ í _ k _ a- _ j _ u $,default
+Kauixana-8_black-1,,Kauixana,8_black,(a)powi-,[_a_]_p_o_w_i-,a p o w i,,,191,,^ [ _ a _ ] _ p _ o _ w _ i-$,default
+Kauixana-8_black-2,,Kauixana,8_black,(a)pawi-,[_a_]_p_a_w_i-,a p a w i,,,191,,^ [ _ a _ ] _ p _ a _ w _ i-$,default
+Yumana-8_black-1,,Yumana,8_black,tʃíka-ju,tʃ_í_k_a-_j_u,tʃ í k a + j u,,,0,,^ tʃ _ í _ k _ a- _ j _ u $,default
 Yumana-8_black-2,,Yumana,8_black,poheh,p_o_h_e_h,p o h e h,,,191,,^ p _ o _ h _ e _ h $,default
 Passe-8_black-1,,Passe,8_black,kese,k_e_s_e,k e s e,,,0,,^ k _ e _ s _ e $,default
-Passe-8_black-2,,Passe,8_black,kesi-[j]u,k_e_s_i-_[_j_]_u,k e s !i- ![ j !] u,,,0,,^ k _ e _ s _ i- _ [ _ j _ ] _ u $,default
+Passe-8_black-2,,Passe,8_black,kesi-[j]u,k_e_s_i-_[_j_]_u,k e s i + j u,,,0,,^ k _ e _ s _ i- _ [ _ j _ ] _ u $,default
 Baniwa_Waliperidakenai-87_water-1,,Baniwa_Waliperidakenai,87_water,oːni,oː_n_i,oː n i,,,910,,^ oː _ n _ i $,default
 Baniwa_Hohoodene-87_water-1,,Baniwa_Hohoodene,87_water,oːni,oː_n_i,oː n i,,,910,,^ oː _ n _ i $,default
-Baniwa_Dzurema-87_water-1,,Baniwa_Dzurema,87_water,óːnì,óː_n_i,óː n i,,,910,,^ óː _ n _ i $,default
+Baniwa_Dzurema-87_water-1,,Baniwa_Dzurema,87_water,óːnì,óː_n_i,óː/oː n i,,,910,,^ óː _ n _ i $,default
 Baniwa_Mauliene-87_water-1,,Baniwa_Mauliene,87_water,uni,u_n_i,u n i,,,910,,^ u _ n _ i $,default
 Koripako_Kumadene-87_water-1,,Koripako_Kumadene,87_water,oːni,oː_n_i,oː n i,,,910,,^ oː _ n _ i $,default
 Tariana_Kumadene-87_water-1,,Tariana_Kumadene,87_water,uːnĩ,uː_n_ĩ,uː n ĩ,,,910,,^ uː _ n _ ĩ $,default
@@ -1799,7 +1799,7 @@ Achagua-87_water-1,,Achagua,87_water,ʃiátai,ʃ_i_á_t_a_i,ʃ i á t a i,,,909,
 Baniwa-87_water-1,,Baniwa,87_water,óoni,ó_o_n_i,ó o n i,,,910,,^ ó _ o _ n _ i $,default
 Bare-87_water-1,,Bare,87_water,?,u_n_i,u n i,,,910,,^ u _ n _ i $,default
 Kabiyari-87_water-1,,Kabiyari,87_water,úuni,ú_u_n_i,ú u n i,,,910,,^ ú _ u _ n _ i $,default
-Piapoco-87_water-1,,Piapoco,87_water,ú(u)ni,ú_(_u_)_n_i,ú !( u !) n i,,,910,,^ ú _ ( _ u _ ) _ n _ i $,default
+Piapoco-87_water-1,,Piapoco,87_water,ú(u)ni,ú_(_u_)_n_i,ú u n i,,,910,,^ ú _ ( _ u _ ) _ n _ i $,default
 Resigaro-87_water-1,,Resigaro,87_water,hooní,h_oo_n_í,h oː n í,,,910,,^ h _ oo _ n _ í $,default
 Tariana-87_water-1,,Tariana,87_water,?,j_a_n_á_k_a,j a n á k a,,,205,,^ j _ a _ n _ á _ k _ a $,default
 Yukuna-87_water-1,,Yukuna,87_water,juni,h_ú_n_i,h ú n i,,,910,,^ h _ ú _ n _ i $,default
@@ -1819,10 +1819,10 @@ Koripako_ehe-88_we-1,,Koripako_ehe,88_we,faː,f_aː,f aː,,,21613,,^ f _ aː $,d
 Koripako_oho-88_we-1,,Koripako_oho,88_we,paːna,p_aː_n_a,p aː n a,,,1796,,^ p _ aː _ n _ a $,default
 Koripako_name-88_we-1,,Koripako_name,88_we,faː,f_aː,f aː,,,21613,,^ f _ aː $,default
 Achagua-88_we-1,,Achagua,88_we,wajá,w_a_j_á,w a j á,,,21613,,^ w _ a _ j _ á $,default
-Baniwa-88_we-1,,Baniwa,88_we,whía,wh_í_a,!wh í a,,,21613,,^ wh _ í _ a $,default
+Baniwa-88_we-1,,Baniwa,88_we,whía,wh_í_a,wʰ í a,,,21613,,^ wh _ í _ a $,default
 Baniwa-88_we-2,,Baniwa,88_we,wa-,w_a,w a,,,21613,,^ w _ a $,default
 Bare-88_we-1,,Bare,88_we,?,w_i,w i,,,21613,,^ w _ i $,default
-Kabiyari-88_we-1,,Kabiyari,88_we,whé,wh_é,!wh é,,,21613,,^ wh _ é $,default
+Kabiyari-88_we-1,,Kabiyari,88_we,whé,wh_é,wʰ é,,,21613,,^ wh _ é $,default
 Kabiyari-88_we-2,,Kabiyari,88_we,wa-,w_a,w a,,,21613,,^ w _ a $,default
 Piapoco-88_we-1,,Piapoco,88_we,wía,w_í_a,w í a,,,21613,,^ w _ í _ a $,default
 Resigaro-88_we-1,,Resigaro,88_we,muu?á,m_uu_ʔ_á,m uː ʔ á,,,219,,^ m _ uu _ ʔ _ á $,default
@@ -1832,10 +1832,10 @@ Yukuna-88_we-1,,Yukuna,88_we,weká,w_e_k_á,w e k á,,,21613,,^ w _ e _ k _ á $
 Yukuna-88_we-2,,Yukuna,88_we,weká,w_e_k_á,w e k á,,,21613,,^ w _ e _ k _ á $,default
 Warekena-88_we-1,,Warekena,88_we,wa-,w_a,w a,,,21613,,^ w _ a $,default
 Warekena-88_we-2,,Warekena,88_we,-wi,w_i,w i,,,21613,,^ w _ i $,default
-Kauixana-88_we-1,,Kauixana,88_we,(w)ɨwá,[_w_]_ɨ_w_á,![ w !] ɨ w á,,,21613,,^ [ _ w _ ] _ ɨ _ w _ á $,default
+Kauixana-88_we-1,,Kauixana,88_we,(w)ɨwá,[_w_]_ɨ_w_á,w ɨ w á,,,21613,,^ [ _ w _ ] _ ɨ _ w _ á $,default
 Yumana-88_we-1,,Yumana,88_we,telamnhôe,t_e_l_a_m_nʰ_ô_e,t e l a m nʰ ô e,,,219,,^ t _ e _ l _ a _ m _ nʰ _ ô _ e $,default
-Passe-88_we-1,,Passe,88_we,wo-êla,w_o-_ê_l_a,w !o- ê l a,,,21613,,^ w _ o- _ ê _ l _ a $,default
-Baniwa_Waliperidakenai-89_what-1,,Baniwa_Waliperidakenai,89_what,koakapáːhĩa,k_o_a_k_a_#_p_áː_h_ĩ_a,k o a k a <<#>> p áː h ĩ a,,,196,,^ k _ o _ a _ k _ a _ <#> _ p _ áː _ h _ ĩ _ a $,default
+Passe-88_we-1,,Passe,88_we,wo-êla,w_o-_ê_l_a,w o + ê l a,,,21613,,^ w _ o- _ ê _ l _ a $,default
+Baniwa_Waliperidakenai-89_what-1,,Baniwa_Waliperidakenai,89_what,koakapáːhĩa,k_o_a_k_a_+_p_áː_h_ĩ_a,k o a k a <<+>> p áː/aː h ĩ a,,,196,,^ k _ o _ a _ k _ a _ <+> _ p _ áː _ h _ ĩ _ a $,default
 Baniwa_Hohoodene-89_what-1,,Baniwa_Hohoodene,89_what,koakɐni,k_o_a_k_ɐ_n_i,k o a k ɐ n i,,,196,,^ k _ o _ a _ k _ ɐ _ n _ i $,default
 Baniwa_Dzurema-89_what-1,,Baniwa_Dzurema,89_what,koakɛhe,k_o_a_k_ɛ_h_e,k o a k ɛ h e,,,196,,^ k _ o _ a _ k _ ɛ _ h _ e $,default
 Baniwa_Mauliene-89_what-1,,Baniwa_Mauliene,89_what,koakena,k_o_a_k_e_n_a,k o a k e n a,,,196,,^ k _ o _ a _ k _ e _ n _ a $,default
@@ -1852,7 +1852,7 @@ Achagua-89_what-1,,Achagua,89_what,tána,t_á_n_a,t á n a,,,116,,^ t _ á _ n _
 Baniwa-89_what-1,,Baniwa,89_what,kôaka?,k_ô_a_k_a_ʔ,k ô a k a ʔ,,,196,,^ k _ ô _ a _ k _ a _ ʔ $,default
 Bare-89_what-1,,Bare,89_what,?,n_e,n e,,,925,,^ n _ e $,default
 Kabiyari-89_what-1,,Kabiyari,89_what,mikha,m_i_kh_a,m i kʰ a,,,950,,^ m _ i _ kh _ a $,default
-Kabiyari-89_what-2,,Kabiyari,89_what,arhi,a_rh_i,a !rh i,,,960,,^ a _ rh _ i $,default
+Kabiyari-89_what-2,,Kabiyari,89_what,arhi,a_rh_i,a rʰ i,,,960,,^ a _ rh _ i $,default
 Kabiyari-89_what-3,,Kabiyari,89_what,umha,u_mʰ_a,u mʰ a,,,959,,^ u _ mʰ _ a $,default
 Piapoco-89_what-1,,Piapoco,89_what,càiná,k_à_i_n_á,k à i n á,,,195,,^ k _ à _ i _ n _ á $,default
 Piapoco-89_what-2,,Piapoco,89_what,cawiná,k_a_w_i_n_á,k a w i n á,,,195,,^ k _ a _ w _ i _ n _ á $,default
@@ -1864,7 +1864,7 @@ Warekena-89_what-1,,Warekena,89_what,?,w_a_j_a,w a j a,,,930,,^ w _ a _ j _ a $,
 Achagua-20_earthsoil-1,,Achagua,20_earthsoil,káinabi,k_a_i_n_a_b_i,k a i n a b i,,,87,,^ k _ a _ i _ n _ a _ b _ i $,default
 Baniwa-20_earthsoil-1,,Baniwa,20_earthsoil,híipai,h_í_i_p_a_i,h í i p a i,,,21520,,^ h _ í _ i _ p _ a _ i $,default
 Bare-20_earthsoil-1,,Bare,20_earthsoil,?,kʰ_a_d_i,kʰ a d i,,,87,,^ kʰ _ a _ d _ i $,default
-Kabiyari-20_earthsoil-1,,Kabiyari,20_earthsoil,ta'ka(a)ri,t_a_ʔ_k_a_(_a_)_r_i,t a ʔ k a !( a !) r i,,,229,,^ t _ a _ ʔ _ k _ a _ ( _ a _ ) _ r _ i $,default
+Kabiyari-20_earthsoil-1,,Kabiyari,20_earthsoil,ta'ka(a)ri,t_a_ʔ_k_a_(_a_)_r_i,t a ʔ k a a r i,,,229,,^ t _ a _ ʔ _ k _ a _ ( _ a _ ) _ r _ i $,default
 Piapoco-20_earthsoil-1,,Piapoco,20_earthsoil,cáli,k_á_l_i,k á l i,,,87,,^ k _ á _ l _ i $,default
 Resigaro-20_earthsoil-1,,Resigaro,20_earthsoil,hihi,h_i_h_i,h i h i,,,226,,^ h _ i _ h _ i $,default
 Tariana-20_earthsoil-1,,Tariana,20_earthsoil,?,h_e_l_e_m_é_w_a_n_i,h e l e m é w a n i,,,227,,^ h _ e _ l _ e _ m _ é _ w _ a _ n _ i $,default
@@ -1883,11 +1883,11 @@ Koripako_ehe-20_earthsoil-1,,Koripako_ehe,20_earthsoil,hiːpai,h_iː_p_a_i,h iː
 Koripako_oho-20_earthsoil-1,,Koripako_oho,20_earthsoil,hiːpai,h_iː_p_a_i,h iː p a i,,,21520,,^ h _ iː _ p _ a _ i $,default
 Koripako_name-20_earthsoil-1,,Koripako_name,20_earthsoil,hiːpai,h_iː_p_a_i,h iː p a i,,,21520,,^ h _ iː _ p _ a _ i $,default
 Werekena_Baniva-20_earthsoil-1,,Werekena_Baniva,20_earthsoil,jatʃipɛ,j_a_tʃ_i_p_ɛ,j a tʃ i p ɛ,,,21520,,^ j _ a _ tʃ _ i _ p _ ɛ $,default
-Kauixana-20_earthsoil-1,,Kauixana,20_earthsoil,(h)ip,[_h_]_i_p,![ h !] i p,,,21520,,^ [ _ h _ ] _ i _ p $,default
+Kauixana-20_earthsoil-1,,Kauixana,20_earthsoil,(h)ip,[_h_]_i_p,h i p,,,21520,,^ [ _ h _ ] _ i _ p $,default
 Kauixana-20_earthsoil-2,,Kauixana,20_earthsoil,híwa,h_í_w_a,h í w a,,,21521,,^ h _ í _ w _ a $,default
 Yumana-20_earthsoil-1,,Yumana,20_earthsoil,teké,t_e_k_é,t e k é,,,229,,^ t _ e _ k _ é $,default
 Yumana-20_earthsoil-2,,Yumana,20_earthsoil,leké,l_e_k_é,l e k é,,,229,,^ l _ e _ k _ é $,default
-Passe-20_earthsoil-1,,Passe,20_earthsoil,papuaka[?],p_a_p_ua_k_a_[_ʔ_],p a p ua k a ![ ʔ !],,,0,,^ p _ a _ p _ ua _ k _ a _ [ _ ʔ _ ] $,default
+Passe-20_earthsoil-1,,Passe,20_earthsoil,papuaka[?],p_a_p_ua_k_a_[_ʔ_],p a p u/w a k a ʔ,,,0,,^ p _ a _ p _ ua _ k _ a _ [ _ ʔ _ ] $,default
 Baniwa_Waliperidakenai-9_blood-1,,Baniwa_Waliperidakenai,9_blood,ɽiɽɐnɐ,ɽ_i_ɽ_ɐ_n_ɐ,ɽ i ɽ ɐ n ɐ,,,173,,^ ɽ _ i _ ɽ _ ɐ _ n _ ɐ $,default
 Baniwa_Hohoodene-9_blood-1,,Baniwa_Hohoodene,9_blood,ɽiːɽɐna,ɽ_iː_ɽ_ɐ_n_a,ɽ iː ɽ ɐ n a,,,173,,^ ɽ _ iː _ ɽ _ ɐ _ n _ a $,default
 Baniwa_Dzurema-9_blood-1,,Baniwa_Dzurema,9_blood,ɽiʐɐna,ɽ_i_ʐ_ɐ_n_a,ɽ i ʐ ɐ n a,,,173,,^ ɽ _ i _ ʐ _ ɐ _ n _ a $,default
@@ -1910,18 +1910,18 @@ Tariana-9_blood-1,,Tariana,9_blood,?,d_í_ɾ_i,d í ɾ i,,,21507,,^ d _ í _ ɾ 
 Yukuna-9_blood-1,,Yukuna,9_blood,íraji,í_ɾ_a_h_i,í ɾ a h i,,,173,,^ í _ ɾ _ a _ h _ i $,default
 Yukuna-9_blood-2,,Yukuna,9_blood,jirá,h_i_ɾ_á,h i ɾ á,,,173,,^ h _ i _ ɾ _ á $,default
 Warekena-9_blood-1,,Warekena,9_blood,?,m_j_a_ʃ_i,m j a ʃ i,,,173,,^ m _ j _ a _ ʃ _ i $,default
-Kauixana-9_blood-1,,Kauixana,9_blood,tsa-ká,ts_a-_k_á,ts !a- k á,,,173,,^ ts _ a- _ k _ á $,default
-Kauixana-9_blood-2,,Kauixana,9_blood,i-tsɨ́,i-_ts_ɨ́,!i- ts ɨ́,,,90,,^ i- _ ts _ ɨ́ $,default
-Yumana-9_blood-1,,Yumana,9_blood,ittá,i_tt_á,i tt á,,,173,,^ i _ tt _ á $,default
+Kauixana-9_blood-1,,Kauixana,9_blood,tsa-ká,ts_a-_k_á,ts a + k á,,,173,,^ ts _ a- _ k _ á $,default
+Kauixana-9_blood-2,,Kauixana,9_blood,i-tsɨ́,i-_ts_ɨ́,i + ts ɨ́/ɨ,,,90,,^ i- _ ts _ ɨ́ $,default
+Yumana-9_blood-1,,Yumana,9_blood,ittá,i_tt_á,i tː á,,,173,,^ i _ tt _ á $,default
 Passe-9_blood-1,,Passe,9_blood,ita,i_t_a,i t a,,,173,,^ i _ t _ a $,default
 Achagua-21_eat-1,,Achagua,21_eat,íijeri,i:_j_e_r_i,iː j e r i,,,92,,^ i: _ j _ e _ r _ i $,default
-Baniwa-21_eat-1,,Baniwa,21_eat,-íiñha,í_i_ñh_a,í i !ñh a,,,92,,^ í _ i _ ñh _ a $,default
+Baniwa-21_eat-1,,Baniwa,21_eat,-íiñha,í_i_ñh_a,í i ñh/nʲʰ a,,,92,,^ í _ i _ ñh _ a $,default
 Bare-21_eat-1,,Bare,21_eat,?,n_i_k_a,n i k a,,,93,,^ n _ i _ k _ a $,default
-Kabiyari-21_eat-1,,Kabiyari,21_eat,tʃha,tʃh_a,!tʃh a,,,92,,^ tʃh _ a $,default
-Piapoco-21_eat-1,,Piapoco,21_eat,jáaca,j_á:_k_a,j áː k a,,,92,,^ j _ á: _ k _ a $,default
+Kabiyari-21_eat-1,,Kabiyari,21_eat,tʃha,tʃh_a,tʃʰ a,,,92,,^ tʃh _ a $,default
+Piapoco-21_eat-1,,Piapoco,21_eat,jáaca,j_á:_k_a,j áː/aː k a,,,92,,^ j _ á: _ k _ a $,default
 Resigaro-21_eat-1,,Resigaro,21_eat,a?mitú,a_ʔ_m_i_t_ú,a ʔ m i t ú,,,235,,^ a _ ʔ _ m _ i _ t _ ú $,default
-Tariana-21_eat-1,,Tariana,21_eat,?,d_i_ñh_á,d i !ñh á,,,92,,^ d _ i _ ñh _ á $,default
-Yukuna-21_eat-1,,Yukuna,21_eat,ajñakaje,a_hɲ_a_k_a_h_e,a !hɲ a k a h e,,,92,,^ a _ hɲ _ a _ k _ a _ h _ e $,default
+Tariana-21_eat-1,,Tariana,21_eat,?,d_i_ñh_á,d i ñh/nʲʰ á,,,92,,^ d _ i _ ñh _ á $,default
+Yukuna-21_eat-1,,Yukuna,21_eat,ajñakaje,a_hɲ_a_k_a_h_e,a ʰɲ a k a h e,,,92,,^ a _ hɲ _ a _ k _ a _ h _ e $,default
 Warekena-21_eat-1,,Warekena,21_eat,?,e,e,,,89,,^ e $,default
 Baniwa_Waliperidakenai-21_eat-1,,Baniwa_Waliperidakenai,21_eat,nũĩhj̃ɐ̃ka,n_ũ_ĩ_j̃ʰ_ɐ̃_k_a,n ũ ĩ j̃ʰ ɐ̃ k a,,,92,,^ n _ ũ _ ĩ _ j̃ʰ _ ɐ̃ _ k _ a $,default
 Baniwa_Hohoodene-21_eat-1,,Baniwa_Hohoodene,21_eat,piːj̃ʰãĩ,p_iː_j̃ʰ_ã_ĩ,p iː j̃ʰ ã ĩ,,,92,,^ p _ iː _ j̃ʰ _ ã _ ĩ $,default
@@ -1929,19 +1929,19 @@ Baniwa_Dzurema-21_eat-1,,Baniwa_Dzurema,21_eat,wajnʰĩaka,w_a_j_nʰ_ĩ_a_k_a,w 
 Baniwa_Mauliene-21_eat-1,,Baniwa_Mauliene,21_eat,nuinʰaka,n_u_i_nʰ_a_k_a,n u i nʰ a k a,,,92,,^ n _ u _ i _ nʰ _ a _ k _ a $,default
 Koripako_Kumadene-21_eat-1,,Koripako_Kumadene,21_eat,nuiheaka,n_u_i_h_e_a_k_a,n u i h e a k a,,,92,,^ n _ u _ i _ h _ e _ a _ k _ a $,default
 Tariana_Kumadene-21_eat-1,,Tariana_Kumadene,21_eat,weanĩpɛ,w_e_a_n_ĩ_p_ɛ,w e a n ĩ p ɛ,,,418,,^ w _ e _ a _ n _ ĩ _ p _ ɛ $,default
-Baniwa_Kowaidakenai-21_eat-1,,Baniwa_Kowaidakenai,21_eat,nuĩj̃haka,n_u_ĩ_jʰh_a_k_a,n u ĩ !jʰh a k a,,,92,,^ n _ u _ ĩ _ jʰh _ a _ k _ a $,default
+Baniwa_Kowaidakenai-21_eat-1,,Baniwa_Kowaidakenai,21_eat,nuĩj̃haka,n_u_ĩ_jʰh_a_k_a,n u ĩ jʰ a k a,,,92,,^ n _ u _ ĩ _ jʰh _ a _ k _ a $,default
 Baniwa_Dzawinai-21_eat-1,,Baniwa_Dzawinai,21_eat,nuĩj̃haka,n_u_ĩ_jʰ_a_k_a,n u ĩ jʰ a k a,,,92,,^ n _ u _ ĩ _ jʰ _ a _ k _ a $,default
-Tariana_Bruzzi-21_eat-1,,Tariana_Bruzzi,21_eat,ɲãkasipaĩnʰãnipɛ,ɲ_ã_k_a_s_i_#_p_a_ĩ_nʰ_ã_n_i_p_ɛ,ɲ ã k a s i <<#>> p a ĩ nʰ ã n i p ɛ,,,92,,^ ɲ _ ã _ k _ a _ s _ i _ <#> _ p _ a _ ĩ _ nʰ _ ã _ n _ i _ p _ ɛ $,default
+Tariana_Bruzzi-21_eat-1,,Tariana_Bruzzi,21_eat,ɲãkasipaĩnʰãnipɛ,ɲ_ã_k_a_s_i_+_p_a_ĩ_nʰ_ã_n_i_p_ɛ,ɲ ã k a s i <<+>> p a ĩ nʰ ã n i p ɛ,,,92,,^ ɲ _ ã _ k _ a _ s _ i _ <+> _ p _ a _ ĩ _ nʰ _ ã _ n _ i _ p _ ɛ $,default
 Koripako_aha-21_eat-1,,Koripako_aha,21_eat,ihñaketi,i_ɲʰ_a_k_e_t_i,i ɲʰ a k e t i,,,92,,^ i _ ɲʰ _ a _ k _ e _ t _ i $,default
 Koripako_ehe-21_eat-1,,Koripako_ehe,21_eat,inʰiakheti,i_nʰ_i_a_kʰ_e_t_i,i nʰ i a kʰ e t i,,,92,,^ i _ nʰ _ i _ a _ kʰ _ e _ t _ i $,default
 Koripako_oho-21_eat-1,,Koripako_oho,21_eat,inʰaketi,i_nʰ_a_k_e_t_i,i nʰ a k e t i,,,92,,^ i _ nʰ _ a _ k _ e _ t _ i $,default
 Koripako_name-21_eat-1,,Koripako_name,21_eat,inʰiaketi,i_nʰ_i_a_k_e_t_i,i nʰ i a k e t i,,,92,,^ i _ nʰ _ i _ a _ k _ e _ t _ i $,default
 Werekena_Baniva-21_eat-1,,Werekena_Baniva,21_eat,nukuɽuamihɐ̃,n_u_k_u_ɽ_u_a_m_i_h_ɐ̃,n u k u ɽ u a m i h ɐ̃,,,425,,^ n _ u _ k _ u _ ɽ _ u _ a _ m _ i _ h _ ɐ̃ $,default
-Kauixana-21_eat-1,,Kauixana,21_eat,íɲha,í_ɲh_a,í !ɲh a,,,92,,^ í _ ɲh _ a $,default
+Kauixana-21_eat-1,,Kauixana,21_eat,íɲha,í_ɲh_a,í ɲʰ a,,,92,,^ í _ ɲh _ a $,default
 Kauixana-21_eat-2,,Kauixana,21_eat,hilikoe,h_i_l_i_k_oe,h i l i k oe,,,21523,,^ h _ i _ l _ i _ k _ oe $,default
-Yumana-21_eat-1,,Yumana,21_eat,Isá-nawá,i_s_á-_n_a_w_á,i s !á- n a w á,,,92,,^ i _ s _ á- _ n _ a _ w _ á $,default
-Yumana-21_eat-2,,Yumana,21_eat,[i]sa-waha,[_i_]_s_a-_w_a_h_a,![ i !] s !a- w a h a,,,92,,^ [ _ i _ ] _ s _ a- _ w _ a _ h _ a $,default
-Passe-21_eat-1,,Passe,21_eat,su-nau,s_u-_n_au,s !u- n au,,,0,,^ s _ u- _ n _ au $,default
+Yumana-21_eat-1,,Yumana,21_eat,Isá-nawá,i_s_á-_n_a_w_á,i s á/a + n a w á,,,92,,^ i _ s _ á- _ n _ a _ w _ á $,default
+Yumana-21_eat-2,,Yumana,21_eat,[i]sa-waha,[_i_]_s_a-_w_a_h_a,i s a + w a h a,,,92,,^ [ _ i _ ] _ s _ a- _ w _ a _ h _ a $,default
+Passe-21_eat-1,,Passe,21_eat,su-nau,s_u-_n_au,s u + n au,,,0,,^ s _ u- _ n _ au $,default
 Passe-21_eat-2,,Passe,21_eat,as,a_s,a s,,,0,,^ a _ s $,default
 Baniwa_Waliperidakenai-94_you-1,,Baniwa_Waliperidakenai,94_you,ʃaː,ʃ_aː,ʃ aː,,,1957,,^ ʃ _ aː $,default
 Baniwa_Hohoodene-94_you-1,,Baniwa_Hohoodene,94_you,pʰia,pʰ_i_a,pʰ i a,,,1959,,^ pʰ _ i _ a $,default
@@ -1953,12 +1953,12 @@ Koripako_ehe-94_you-1,,Koripako_ehe,94_you,sraː,s_ɾ_aː,s ɾ aː,,,1957,,^ s _
 Koripako_oho-94_you-1,,Koripako_oho,94_you,sraː,s_ɾ_aː,s ɾ aː,,,1957,,^ s _ ɾ _ aː $,default
 Koripako_name-94_you-1,,Koripako_name,94_you,sraː,s_ɾ_aː,s ɾ aː,,,1957,,^ s _ ɾ _ aː $,default
 Achagua-22_egg-1,,Achagua,22_egg,éewiʃi,ee_w_i_ʃ_i,eː w i ʃ i,,,98,,^ ee _ w _ i _ ʃ _ i $,default
-Baniwa-22_egg-1,,Baniwa,22_egg,-éewhe,é_e_wh_e,é e !wh e,,,98,,^ é _ e _ wh _ e $,default
-Kabiyari-22_egg-1,,Kabiyari,22_egg,éewhé,é_e_wh_é,é e !wh é,,,98,,^ é _ e _ wh _ é $,default
-Piapoco-22_egg-1,,Piapoco,22_egg,jéewési,j_é:_w_és_i,j éː w !és i,,,98,,^ j _ é: _ w _ és _ i $,default
-Resigaro-22_egg-1,,Resigaro,22_egg,eévé(ú),e_é_v_é_(_ú_),e é v é !( ú !),,,98,,^ e _ é _ v _ é _ ( _ ú _ ) $,default
-Tariana-22_egg-1,,Tariana,22_egg,?,d_i_é_wh_e,d i é !wh e,,,98,,^ d _ i _ é _ wh _ e $,default
-Yukuna-22_egg-1,,Yukuna,22_egg,ejweji,e_hw_e_h_i,e !hw e h i,,,98,,^ e _ hw _ e _ h _ i $,default
+Baniwa-22_egg-1,,Baniwa,22_egg,-éewhe,é_e_wh_e,é e wʰ e,,,98,,^ é _ e _ wh _ e $,default
+Kabiyari-22_egg-1,,Kabiyari,22_egg,éewhé,é_e_wh_é,é e wʰ é,,,98,,^ é _ e _ wh _ é $,default
+Piapoco-22_egg-1,,Piapoco,22_egg,jéewési,j_é:_w_és_i,j éː/eː w é/e s i,,,98,,^ j _ é: _ w _ és _ i $,default
+Resigaro-22_egg-1,,Resigaro,22_egg,eévé(ú),e_é_v_é_(_ú_),e é v é ú,,,98,,^ e _ é _ v _ é _ ( _ ú _ ) $,default
+Tariana-22_egg-1,,Tariana,22_egg,?,d_i_é_wh_e,d i é wʰ e,,,98,,^ d _ i _ é _ wh _ e $,default
+Yukuna-22_egg-1,,Yukuna,22_egg,ejweji,e_hw_e_h_i,e hʷ e h i,,,98,,^ e _ hw _ e _ h _ i $,default
 Warekena-22_egg-1,,Warekena,22_egg,?,i_n_e_m_a,i n e m a,,,35,,^ i _ n _ e _ m _ a $,default
 Baniwa_Waliperidakenai-22_egg-1,,Baniwa_Waliperidakenai,22_egg,ɽiɛhɛ,ɽ_i_ɛ_h_ɛ,ɽ i ɛ h ɛ,,,98,,^ ɽ _ i _ ɛ _ h _ ɛ $,default
 Baniwa_Hohoodene-22_egg-1,,Baniwa_Hohoodene,22_egg,ɽiewʰɛ,ɽ_i_e_wʰ_ɛ,ɽ i e wʰ ɛ,,,98,,^ ɽ _ i _ e _ wʰ _ ɛ $,default
@@ -1975,18 +1975,18 @@ Koripako_name-22_egg-1,,Koripako_name,22_egg,liefe,l_i_e_f_e,l i e f e,,,98,,^ l
 Werekena_Baniva-22_egg-1,,Werekena_Baniva,22_egg,ij̃ena,i_j̃_e_n_a,i j̃ e n a,,,35,,^ i _ j̃ _ e _ n _ a $,default
 Kauixana-22_egg-1,,Kauixana,22_egg,supiá,s_u_p_i_á,s u p i á,,,21524,,^ s _ u _ p _ i _ á $,default
 Kauixana-22_egg-2,,Kauixana,22_egg,ai,ai,ai,,,98,,^ ai $,default
-Yumana-22_egg-1,,Yumana,22_egg,iohé,io_h_é,io h é,,,98,,^ io _ h _ é $,default
-Yumana-22_egg-2,,Yumana,22_egg,tʃ-i-é,tʃ_-_i-_é,tʃ !- !i- é,,,94,,^ tʃ _ - _ i- _ é $,default
+Yumana-22_egg-1,,Yumana,22_egg,iohé,io_h_é,i/j o h é,,,98,,^ io _ h _ é $,default
+Yumana-22_egg-2,,Yumana,22_egg,tʃ-i-é,tʃ_-_i-_é,tʃ + i + é,,,94,,^ tʃ _ - _ i- _ é $,default
 Passe-22_egg-1,,Passe,22_egg,awi,a_w_i,a w i,,,98,,^ a _ w _ i $,default
 Passe-22_egg-2,,Passe,22_egg,oéé,o_é_é,o é é,,,98,,^ o _ é _ é $,default
 Achagua-24_flymovethroughair-1,,Achagua,24_flymovethroughair,jáareriu,j_a:_r_e_r_i_u,j aː r e r i u,,,21528,,^ j _ a: _ r _ e _ r _ i _ u $,default
 Baniwa-24_flymovethroughair-1,,Baniwa,24_flymovethroughair,-áara,á_a_r_a,á a r a,,,21528,,^ á _ a _ r _ a $,default
-Bare-24_flymovethroughair-1,,Bare,24_flymovethroughair,?,ʰj_a,ʰj a,,,21528,,^ ʰj _ a $,default
+Bare-24_flymovethroughair-1,,Bare,24_flymovethroughair,?,ʰj_a,ʰj/jʰ a,,,21528,,^ ʰj _ a $,default
 Kabiyari-24_flymovethroughair-1,,Kabiyari,24_flymovethroughair,áara,á_a_r_a,á a r a,,,21528,,^ á _ a _ r _ a $,default
 Piapoco-24_flymovethroughair-1,,Piapoco,24_flymovethroughair,jálacawa,j_á_l_a_k_a_w_a,j á l a k a w a,,,21528,,^ j _ á _ l _ a _ k _ a _ w _ a $,default
 Resigaro-24_flymovethroughair-1,,Resigaro,24_flymovethroughair,adú,a_d_ú,a d ú,,,21528,,^ a _ d _ ú $,default
 Tariana-24_flymovethroughair-1,,Tariana,24_flymovethroughair,?,d_i_a_ɾ_a,d i a ɾ a,,,21528,,^ d _ i _ a _ ɾ _ a $,default
-Yukuna-24_flymovethroughair-1,,Yukuna,24_flymovethroughair,ajrakaje,a_hɾ_a_k_a_h_e,a !hɾ a k a h e,,,21528,,^ a _ hɾ _ a _ k _ a _ h _ e $,default
+Yukuna-24_flymovethroughair-1,,Yukuna,24_flymovethroughair,ajrakaje,a_hɾ_a_k_a_h_e,a ʰɾ a k a h e,,,21528,,^ a _ hɾ _ a _ k _ a _ h _ e $,default
 Warekena-24_flymovethroughair-1,,Warekena,24_flymovethroughair,?,m_i_t_a,m i t a,,,21528,,^ m _ i _ t _ a $,default
 Baniwa_Hohoodene-24_flymovethroughair-1,,Baniwa_Hohoodene,24_flymovethroughair,waːlakawa,w_aː_l_a_k_a_w_a,w aː l a k a w a,,,21528,,^ w _ aː _ l _ a _ k _ a _ w _ a $,default
 Baniwa_Dzurema-24_flymovethroughair-1,,Baniwa_Dzurema,24_flymovethroughair,ɽiaʐakawa,ɽ_i_a_ʐ_a_k_a_w_a,ɽ i a ʐ a k a w a,,,21528,,^ ɽ _ i _ a _ ʐ _ a _ k _ a _ w _ a $,default
@@ -2006,7 +2006,7 @@ Baniwa-25_foot-1,,Baniwa,25_foot,-híipa,h_í_i_p_a,h í i p a,,,566,,^ h _ í _
 Bare-25_foot-1,,Bare,25_foot,?,i_s_i,i s i,,,301,,^ i _ s _ i $,default
 Piapoco-25_foot-1,,Piapoco,25_foot,abàli,a_b_à_l_i,a b à l i,,,566,,^ a _ b _ à _ l _ i $,default
 Resigaro-25_foot-1,,Resigaro,25_foot,hii?pú,h_ii_ʔ_p_ú,h iː ʔ p ú,,,566,,^ h _ ii _ ʔ _ p _ ú $,default
-Tariana-25_foot-1,,Tariana,25_foot,?,dh_i_p_á_m_a,!dh i p á m a,,,566,,^ dh _ i _ p _ á _ m _ a $,default
+Tariana-25_foot-1,,Tariana,25_foot,?,dh_i_p_á_m_a,dʰ i p á m a,,,566,,^ dh _ i _ p _ á _ m _ a $,default
 Yukuna-25_foot-1,,Yukuna,25_foot,ji'imaji,h_i_ʔ_i_m_a_h_i,h i ʔ i m a h i,,,566,,^ h _ i _ ʔ _ i _ m _ a _ h _ i $,default
 Warekena-25_foot-1,,Warekena,25_foot,?,n_u_tʃ_i_p_a_ɾ_a,n u tʃ i p a ɾ a,,,566,,^ n _ u _ tʃ _ i _ p _ a _ ɾ _ a $,default
 Baniwa_Waliperidakenai-25_foot-1,,Baniwa_Waliperidakenai,25_foot,ɽikawa,ɽ_i_k_a_w_a,ɽ i k a w a,,,570,,^ ɽ _ i _ k _ a _ w _ a $,default
@@ -2024,15 +2024,15 @@ Koripako_oho-25_foot-1,,Koripako_oho,25_foot,liːpa,l_iː_p_a,l iː p a,,,566,,^
 Koripako_name-25_foot-1,,Koripako_name,25_foot,liːpa,l_iː_p_a,l iː p a,,,566,,^ l _ iː _ p _ a $,default
 Werekena_Baniva-25_foot-1,,Werekena_Baniva,25_foot,nutʃipaɽa,n_u_tʃ_i_p_a_ɽ_a,n u tʃ i p a ɽ a,,,566,,^ n _ u _ tʃ _ i _ p _ a _ ɽ _ a $,default
 Kabiyari-25_foot-1,,Kabiyari,25_foot,híipa,h_í_i_p_a,h í i p a,,,566,,^ h _ í _ i _ p _ a $,default
-Kauixana-25_foot-1,,Kauixana,25_foot,aʔ(w)ɨ́-la,a_ʔ_[_w_]_ɨ́-_l_a,a ʔ ![ w !] !ɨ́- l a,,,21529,,^ a _ ʔ _ [ _ w _ ] _ ɨ́- _ l _ a $,default
+Kauixana-25_foot-1,,Kauixana,25_foot,aʔ(w)ɨ́-la,a_ʔ_[_w_]_ɨ́-_l_a,a ʔ w ɨ́/ɨ + l a,,,21529,,^ a _ ʔ _ [ _ w _ ] _ ɨ́- _ l _ a $,default
 Yumana-25_foot-1,,Yumana,25_foot,eɨ,eɨ,eɨ,,,0,,^ eɨ $,default
-Passe-25_foot-1,,Passe,25_foot,e[k]-pa-ta,e_[_k_]-_p_a-_t_a,e ![ k !]- p !a- t a,,,566,,^ e _ [ _ k _ ]- _ p _ a- _ t _ a $,default
-Passe-25_foot-2,,Passe,25_foot,i[k]-pa-ta,i_[_k_]-_p_a-_t_a,i ![ k !]- p !a- t a,,,566,,^ i _ [ _ k _ ]- _ p _ a- _ t _ a $,default
+Passe-25_foot-1,,Passe,25_foot,e[k]-pa-ta,e_[_k_]-_p_a-_t_a,e k + p a + t a,,,566,,^ e _ [ _ k _ ]- _ p _ a- _ t _ a $,default
+Passe-25_foot-2,,Passe,25_foot,i[k]-pa-ta,i_[_k_]-_p_a-_t_a,i k + p a + t a,,,566,,^ i _ [ _ k _ ]- _ p _ a- _ t _ a $,default
 Achagua-26_full-1,,Achagua,26_full,káawai,k_a:_w_a_i,k aː w a i,,,317,,^ k _ a: _ w _ a _ i $,default
-Baniwa-26_full-1,,Baniwa,26_full,pákhame(i),p_á_kh_a_m_e_(_i_),p á kʰ a m e !( i !),,,590,,^ p _ á _ kh _ a _ m _ e _ ( _ i _ ) $,default
+Baniwa-26_full-1,,Baniwa,26_full,pákhame(i),p_á_kh_a_m_e_(_i_),p á kʰ a m e i,,,590,,^ p _ á _ kh _ a _ m _ e _ ( _ i _ ) $,default
 Bare-26_full-1,,Bare,26_full,?,b_i_u,b i u,,,96,,^ b _ i _ u $,default
 Bare-26_full-2,,Bare,26_full,?,k_a_w_i,k a w i,,,317,,^ k _ a _ w _ i $,default
-Kabiyari-26_full-1,,Kabiyari,26_full,manu',m_a_n_u_',m a n u !',,,316,,^ m _ a _ n _ u _ ' $,default
+Kabiyari-26_full-1,,Kabiyari,26_full,manu',m_a_n_u_',m a n u ʔ,,,316,,^ m _ a _ n _ u _ ' $,default
 Kabiyari-26_full-2,,Kabiyari,26_full,mijana,m_i_j_a_n_a,m i j a n a,,,12,,^ m _ i _ j _ a _ n _ a $,default
 Piapoco-26_full-1,,Piapoco,26_full,?,n_a_p_u_n_í_a_d_é_e_r_i,n a p u n í a d é e r i,,,312,,^ n _ a _ p _ u _ n _ í _ a _ d _ é _ e _ r _ i $,default
 Resigaro-26_full-1,,Resigaro,26_full,potsʰí?mó,p_o_tsʰ_í_ʔ_m_ó,p o tsʰ í ʔ m ó,,,99,,^ p _ o _ tsʰ _ í _ ʔ _ m _ ó $,default
@@ -2049,7 +2049,7 @@ Baniwa_Kowaidakenai-26_full-1,,Baniwa_Kowaidakenai,26_full,biukani,b_i_u_k_a_n_i
 Baniwa_Dzawinai-26_full-1,,Baniwa_Dzawinai,26_full,pakhameka,p_a_kʰ_a_m_e_k_a,p a kʰ a m e k a,,,590,,^ p _ a _ kʰ _ a _ m _ e _ k _ a $,default
 Tariana_Bruzzi-26_full-1,,Tariana_Bruzzi,26_full,setsamanukaɾia,s_e_ts_a_m_a_n_u_k_a_ɾ_i_a,s e ts a m a n u k a ɾ i a,,,596,,^ s _ e _ ts _ a _ m _ a _ n _ u _ k _ a _ ɾ _ i _ a $,default
 Werekena_Baniva-26_full-1,,Werekena_Baniva,26_full,pɛɾumiaɾi,p_ɛ_ɾ_u_m_i_a_ɾ_i,p ɛ ɾ u m i a ɾ i,,,597,,^ p _ ɛ _ ɾ _ u _ m _ i _ a _ ɾ _ i $,default
-Kauixana-26_full-1,,Kauixana,26_full,lepɨa-ma-si,l_e_p_ɨa-_m_a-_s_i,l e p !ɨa- m !a- s i,,,21530,,^ l _ e _ p _ ɨa- _ m _ a- _ s _ i $,default
+Kauixana-26_full-1,,Kauixana,26_full,lepɨa-ma-si,l_e_p_ɨa-_m_a-_s_i,l e p ɨ/j a+ m a + s i,,,21530,,^ l _ e _ p _ ɨa- _ m _ a- _ s _ i $,default
 Kauixana-26_full-2,,Kauixana,26_full,kewɨ,k_e_w_ɨ,k e w ɨ,,,21531,,^ k _ e _ w _ ɨ $,default
 Achagua-27_give-1,,Achagua,27_give,jáairi,j_aa_i_r_i,j aː i r i,,,21532,,^ j _ aa _ i _ r _ i $,default
 Baniwa-27_give-1,,Baniwa,27_give,-áa,á_a,á a,,,21532,,^ á _ a $,default
@@ -2074,14 +2074,14 @@ Koripako_name-27_give-1,,Koripako_name,27_give,jandaketi,j_a_n_d_a_k_e_t_i,j a n
 Werekena_Baniva-27_give-1,,Werekena_Baniva,27_give,nutɐmiha,n_u_t_ɐ_m_i_h_a,n u t ɐ m i h a,,,615,,^ n _ u _ t _ ɐ _ m _ i _ h _ a $,default
 Kauixana-27_give-1,,Kauixana,27_give,aa,aa,aː,,,21532,,^ aa $,default
 Kauixana-27_give-2,,Kauixana,27_give,ino,i_n_o,i n o,,,21533,,^ i _ n _ o $,default
-Kauixana-27_give-3,,Kauixana,27_give,(i)jemɨ,[_i_]_j_e_m_ɨ,![ i !] j e m ɨ,,,21534,,^ [ _ i _ ] _ j _ e _ m _ ɨ $,default
+Kauixana-27_give-3,,Kauixana,27_give,(i)jemɨ,[_i_]_j_e_m_ɨ,i j e m ɨ,,,21534,,^ [ _ i _ ] _ j _ e _ m _ ɨ $,default
 Achagua-28_good-1,,Achagua,28_good,sáika,s_a_i_k_a,s a i k a,,,329,,^ s _ a _ i _ k _ a $,default
 Baniwa-28_good-1,,Baniwa,28_good,mátsia,m_á_ts_i_a,m á ts i a,,,627,,^ m _ á _ ts _ i _ a $,default
 Bare-28_good-1,,Bare,28_good,?,i_d_u_a_r_i,i d u a r i,,,331,,^ i _ d _ u _ a _ r _ i $,default
 Kabiyari-28_good-1,,Kabiyari,28_good,tʃuni-ka,tʃ_u_n_i_k_a,tʃ u n i k a,,,332,,^ tʃ _ u _ n _ i _ k _ a $,default
-Piapoco-28_good-1,,Piapoco,28_good,cajábéeri,k_a_j_á_b_é:_ɾ_i,k a j á b éː ɾ i,,,248,,^ k _ a _ j _ á _ b _ é: _ ɾ _ i $,default
+Piapoco-28_good-1,,Piapoco,28_good,cajábéeri,k_a_j_á_b_é:_ɾ_i,k a j á b éː/eː ɾ i,,,248,,^ k _ a _ j _ á _ b _ é: _ ɾ _ i $,default
 Resigaro-28_good-1,,Resigaro,28_good,kaŝó?,k_a_ʃ_ó_ʔ,k a ʃ ó ʔ,,,248,,^ k _ a _ ʃ _ ó _ ʔ $,default
-Tariana-28_good-1,,Tariana,28_good,?,m_a_c̃_í:_t_e,m a c̃ íː t e,,,627,,^ m _ a _ c̃ _ í: _ t _ e $,default
+Tariana-28_good-1,,Tariana,28_good,?,m_a_c̃_í:_t_e,m a c̃ íː/iː t e,,,627,,^ m _ a _ c̃ _ í: _ t _ e $,default
 Tariana-28_good-2,,Tariana,28_good,?,m_a_c̃_á_i_t_e,m a c̃ á i t e,,,627,,^ m _ a _ c̃ _ á _ i _ t _ e $,default
 Yukuna-28_good-1,,Yukuna,28_good,palani,p_a_l_a_n_i,p a l a n i,,,337,,^ p _ a _ l _ a _ n _ i $,default
 Warekena-28_good-1,,Warekena,28_good,?,a_n_e_t_u_a,a n e t u a,,,336,,^ a _ n _ e _ t _ u _ a $,default
@@ -2098,22 +2098,22 @@ Koripako_ehe-28_good-1,,Koripako_ehe,28_good,matsia,m_a_ts_i_a,m a ts i a,,,627,
 Koripako_oho-28_good-1,,Koripako_oho,28_good,matsiadale,m_a_ts_i_a_d_a_l_e,m a ts i a d a l e,,,627,,^ m _ a _ ts _ i _ a _ d _ a _ l _ e $,default
 Koripako_name-28_good-1,,Koripako_name,28_good,matsia,m_a_ts_i_a,m a ts i a,,,627,,^ m _ a _ ts _ i _ a $,default
 Werekena_Baniva-28_good-1,,Werekena_Baniva,28_good,wɛdɐnali,w_ɛ_d_ɐ_n_a_l_i,w ɛ d ɐ n a l i,,,628,,^ w _ ɛ _ d _ ɐ _ n _ a _ l _ i $,default
-Kauixana-28_good-1,,Kauixana,28_good,põʔme-hɨ̃,p_õ_ʔ_m_e-_h_ɨ̃,p õ ʔ m !e- h ɨ̃,,,249,,^ p _ õ _ ʔ _ m _ e- _ h _ ɨ̃ $,default
-Kauixana-28_good-2,,Kauixana,28_good,(p)oʔma,[_p_]_o_ʔ_m_a,![ p !] o ʔ m a,,,249,,^ [ _ p _ ] _ o _ ʔ _ m _ a $,default
-Kauixana-28_good-3,,Kauixana,28_good,popí-hɨ̃,p_o_p_í-_h_ɨ̃,p o p !í- h ɨ̃,,,249,,^ p _ o _ p _ í- _ h _ ɨ̃ $,default
+Kauixana-28_good-1,,Kauixana,28_good,põʔme-hɨ̃,p_õ_ʔ_m_e-_h_ɨ̃,p õ ʔ m e + h ɨ̃,,,249,,^ p _ õ _ ʔ _ m _ e- _ h _ ɨ̃ $,default
+Kauixana-28_good-2,,Kauixana,28_good,(p)oʔma,[_p_]_o_ʔ_m_a,p o ʔ m a,,,249,,^ [ _ p _ ] _ o _ ʔ _ m _ a $,default
+Kauixana-28_good-3,,Kauixana,28_good,popí-hɨ̃,p_o_p_í-_h_ɨ̃,p o p í/i + h ɨ̃,,,249,,^ p _ o _ p _ í- _ h _ ɨ̃ $,default
 Kauixana-28_good-4,,Kauixana,28_good,sipoɾe,s_i_p_o_ɾ_e,s i p o ɾ e,,,21538,,^ s _ i _ p _ o _ ɾ _ e $,default
-Yumana-28_good-1,,Yumana,28_good,jiatéja,j_ia_t_é_j_a,j ia t é j a,,,250,,^ j _ ia _ t _ é _ j _ a $,default
+Yumana-28_good-1,,Yumana,28_good,jiatéja,j_ia_t_é_j_a,j i/j a t é j a,,,250,,^ j _ ia _ t _ é _ j _ a $,default
 Yumana-28_good-2,,Yumana,28_good,patʃi,p_a_tʃ_i,p a tʃ i,,,252,,^ p _ a _ tʃ _ i $,default
 Yumana-28_good-3,,Yumana,28_good,jelo,j_e_l_o,j e l o,,,250,,^ j _ e _ l _ o $,default
 Yumana-28_good-4,,Yumana,28_good,jele,j_e_l_e,j e l e,,,250,,^ j _ e _ l _ e $,default
 Passe-28_good-1,,Passe,28_good,keihada,k_ei_h_a_d_a,k ei h a d a,,,248,,^ k _ ei _ h _ a _ d _ a $,default
-Passe-28_good-2,,Passe,28_good,kehiada,k_e_h_ia_d_a,k e h ia d a,,,248,,^ k _ e _ h _ ia _ d _ a $,default
-Passe-28_good-3,,Passe,28_good,khiakho,kh_ia_kh_o,kʰ ia kʰ o,,,253,,^ kh _ ia _ kh _ o $,default
+Passe-28_good-2,,Passe,28_good,kehiada,k_e_h_ia_d_a,k e h i/j a d a,,,248,,^ k _ e _ h _ ia _ d _ a $,default
+Passe-28_good-3,,Passe,28_good,khiakho,kh_ia_kh_o,kʰ i/j a kʰ o,,,253,,^ kh _ ia _ kh _ o $,default
 Achagua-23_fatorganicsubstance-1,,Achagua,23_fatorganicsubstance,júuwika,j_uu_w_i_k_a,j uː w i k a,,,338,,^ j _ uu _ w _ i _ k _ a $,default
-Baniwa-23_fatorganicsubstance-1,,Baniwa,23_fatorganicsubstance,íitti,í_i_tt_i,í i tt i,,,649,,^ í _ i _ tt _ i $,default
+Baniwa-23_fatorganicsubstance-1,,Baniwa,23_fatorganicsubstance,íitti,í_i_tt_i,í i tː i,,,649,,^ í _ i _ tt _ i $,default
 Bare-23_fatorganicsubstance-1,,Bare,23_fatorganicsubstance,?,w_i_tʃ_i_r_e,w i tʃ i r e,,,649,,^ w _ i _ tʃ _ i _ r _ e $,default
 Kabiyari-23_fatorganicsubstance-1,,Kabiyari,23_fatorganicsubstance,íʔit̪i,í_ʔ_i_t̪_i,í ʔ i t̪ i,,,649,,^ í _ ʔ _ i _ t̪ _ i $,default
-Piapoco-23_fatorganicsubstance-1,,Piapoco,23_fatorganicsubstance,iséená,i_s_é:_n_á,i s éː n á,,,649,,^ i _ s _ é: _ n _ á $,default
+Piapoco-23_fatorganicsubstance-1,,Piapoco,23_fatorganicsubstance,iséená,i_s_é:_n_á,i s éː/eː n á,,,649,,^ i _ s _ é: _ n _ á $,default
 Resigaro-23_fatorganicsubstance-1,,Resigaro,23_fatorganicsubstance,phedee?kátasí,pʰ_e_d_ee_ʔ_k_á_t_a_s_í,pʰ e d eː ʔ k á t a s í,,,109,,^ pʰ _ e _ d _ ee _ ʔ _ k _ á _ t _ a _ s _ í $,default
 Tariana-23_fatorganicsubstance-1,,Tariana,23_fatorganicsubstance,?,d_í_s_i,d í s i,,,649,,^ d _ í _ s _ i $,default
 Yukuna-23_fatorganicsubstance-1,,Yukuna,23_fatorganicsubstance,jilaji,h_i_l_a_h_i,h i l a h i,,,107,,^ h _ i _ l _ a _ h _ i $,default
@@ -2132,15 +2132,15 @@ Koripako_ehe-23_fatorganicsubstance-1,,Koripako_ehe,23_fatorganicsubstance,litav
 Koripako_oho-23_fatorganicsubstance-1,,Koripako_oho,23_fatorganicsubstance,liːti,l_iː_t_i,l iː t i,,,649,,^ l _ iː _ t _ i $,default
 Koripako_name-23_fatorganicsubstance-1,,Koripako_name,23_fatorganicsubstance,liːti,l_iː_t_i,l iː t i,,,649,,^ l _ iː _ t _ i $,default
 Werekena_Baniva-23_fatorganicsubstance-1,,Werekena_Baniva,23_fatorganicsubstance,asiːpa,a_s_iː_p_a,a s iː p a,,,106,,^ a _ s _ iː _ p _ a $,default
-Kauixana-23_fatorganicsubstance-1,,Kauixana,23_fatorganicsubstance,ts-imétsi,ts-_i_m_é_ts_i,!ts- i m é ts i,,,21526,,^ ts- _ i _ m _ é _ ts _ i $,default
-Kauixana-23_fatorganicsubstance-2,,Kauixana,23_fatorganicsubstance,(a)motse,[_a_]_m_o_ts_e,![ a !] m o ts e,,,21527,,^ [ _ a _ ] _ m _ o _ ts _ e $,default
+Kauixana-23_fatorganicsubstance-1,,Kauixana,23_fatorganicsubstance,ts-imétsi,ts-_i_m_é_ts_i,ts + i m é ts i,,,21526,,^ ts- _ i _ m _ é _ ts _ i $,default
+Kauixana-23_fatorganicsubstance-2,,Kauixana,23_fatorganicsubstance,(a)motse,[_a_]_m_o_ts_e,a m o ts e,,,21527,,^ [ _ a _ ] _ m _ o _ ts _ e $,default
 Yumana-23_fatorganicsubstance-1,,Yumana,23_fatorganicsubstance,muturejelha,m_u_t_u_r_e_j_e_l_h_a,m u t u r e j e l h a,,,254,,^ m _ u _ t _ u _ r _ e _ j _ e _ l _ h _ a $,default
-Passe-23_fatorganicsubstance-1,,Passe,23_fatorganicsubstance,[ekporu]-r-i,[_e_k_p_o_r_u_]-_r-_i,![ e k p o r u !]- !r- i,,,255,,^ [ _ e _ k _ p _ o _ r _ u _ ]- _ r- _ i $,default
+Passe-23_fatorganicsubstance-1,,Passe,23_fatorganicsubstance,[ekporu]-r-i,[_e_k_p_o_r_u_]-_r-_i,e k p o r u + r + i,,,255,,^ [ _ e _ k _ p _ o _ r _ u _ ]- _ r- _ i $,default
 Achagua-29_green-1,,Achagua,29_green,uléejii,u_l_e:_j_i,u l eː j i,,,663,,^ u _ l _ e: _ j _ i $,default
 Baniwa-29_green-1,,Baniwa,29_green,hípole,h_í_p_o_l_e,h í p o l e,,,663,,^ h _ í _ p _ o _ l _ e $,default
 Bare-29_green-1,,Bare,29_green,?,k_u_r_i_n_i,k u r i n i,,,114,,^ k _ u _ r _ i _ n _ i $,default
 Kabiyari-29_green-1,,Kabiyari,29_green,puré,p_u_r_é,p u r é,,,663,,^ p _ u _ r _ é $,default
-Piapoco-29_green-1,,Piapoco,29_green,ipùléeri,i_p_ù_l_é:_ɾ_i,i p ù l éː ɾ i,,,663,,^ i _ p _ ù _ l _ é: _ ɾ _ i $,default
+Piapoco-29_green-1,,Piapoco,29_green,ipùléeri,i_p_ù_l_é:_ɾ_i,i p ù l éː/eː ɾ i,,,663,,^ i _ p _ ù _ l _ é: _ ɾ _ i $,default
 Resigaro-29_green-1,,Resigaro,29_green,ipogí?,i_p_o_g_í_ʔ,i p o g í ʔ,,,663,,^ i _ p _ o _ g _ í _ ʔ $,default
 Tariana-29_green-1,,Tariana,29_green,?,h_i_p_o_l_í_t_e,h i p o l í t e,,,663,,^ h _ i _ p _ o _ l _ í _ t _ e $,default
 Yukuna-29_green-1,,Yukuna,29_green,ipureni,i_p_u_ɾ_e_n_i,i p u ɾ e n i,,,663,,^ i _ p _ u _ ɾ _ e _ n _ i $,default
@@ -2184,16 +2184,16 @@ Koripako_ehe-30_hairhead-1,,Koripako_ehe,30_hairhead,litsikule,l_i_ts_i_k_u_l_e,
 Koripako_oho-30_hairhead-1,,Koripako_oho,30_hairhead,litsikole,l_i_ts_i_k_o_l_e,l i ts i k o l e,,,118,,^ l _ i _ ts _ i _ k _ o _ l _ e $,default
 Koripako_name-30_hairhead-1,,Koripako_name,30_hairhead,litsikule,l_i_ts_i_k_u_l_e,l i ts i k u l e,,,118,,^ l _ i _ ts _ i _ k _ u _ l _ e $,default
 Werekena_Baniva-30_hairhead-1,,Werekena_Baniva,30_hairhead,nutʃipana,n_u_tʃ_i_p_a_n_a,n u tʃ i p a n a,,,122,,^ n _ u _ tʃ _ i _ p _ a _ n _ a $,default
-Kauixana-30_hairhead-1,,Kauixana,30_hairhead,pé-la,p_é-_l_a,p !é- l a,,,21539,,^ p _ é- _ l _ a $,default
-Yumana-30_hairhead-1,,Yumana,30_hairhead,[u]hlasá,[_u_]_h_l_a_s_á,![ u !] h l a s á,,,258,,^ [ _ u _ ] _ h _ l _ a _ s _ á $,default
+Kauixana-30_hairhead-1,,Kauixana,30_hairhead,pé-la,p_é-_l_a,p é/e + l a,,,21539,,^ p _ é- _ l _ a $,default
+Yumana-30_hairhead-1,,Yumana,30_hairhead,[u]hlasá,[_u_]_h_l_a_s_á,u h l a s á,,,258,,^ [ _ u _ ] _ h _ l _ a _ s _ á $,default
 Passe-30_hairhead-1,,Passe,30_hairhead,lesapa,l_e_s_a_p_a,l e s a p a,,,258,,^ l _ e _ s _ a _ p _ a $,default
-Passe-30_hairhead-2,,Passe,30_hairhead,iulesa,iu_l_e_s_a,iu l e s a,,,258,,^ iu _ l _ e _ s _ a $,default
+Passe-30_hairhead-2,,Passe,30_hairhead,iulesa,iu_l_e_s_a,i/j u l e s a,,,258,,^ iu _ l _ e _ s _ a $,default
 Passe-30_hairhead-3,,Passe,30_hairhead,ntʃoi,n_tʃ_oi,n tʃ oi,,,0,,^ n _ tʃ _ oi $,default
 Achagua-31_hand-1,,Achagua,31_hand,káhiʃi,k_a_h_i_ʃ_i,k a h i ʃ i,,,21540,,^ k _ a _ h _ i _ ʃ _ i $,default
 Baniwa-31_hand-1,,Baniwa,31_hand,-káapi,k_á_a_p_i,k á a p i,,,21540,,^ k _ á _ a _ p _ i $,default
 Bare-31_hand-1,,Bare,31_hand,?,kʰ_a_b_i,kʰ a b i,,,21540,,^ kʰ _ a _ b _ i $,default
 Kabiyari-31_hand-1,,Kabiyari,31_hand,kaapi,k_aa_p_i,k aː p i,,,21540,,^ k _ aa _ p _ i $,default
-Piapoco-31_hand-1,,Piapoco,31_hand,cáapi,k_á:_p_i,k áː p i,,,21540,,^ k _ á: _ p _ i $,default
+Piapoco-31_hand-1,,Piapoco,31_hand,cáapi,k_á:_p_i,k áː/aː p i,,,21540,,^ k _ á: _ p _ i $,default
 Resigaro-31_hand-1,,Resigaro,31_hand,-ké,k_é,k é,,,40,,^ k _ é $,default
 Tariana-31_hand-1,,Tariana,31_hand,?,k_a_p_í,k a p í,,,21540,,^ k _ a _ p _ í $,default
 Yukuna-31_hand-1,,Yukuna,31_hand,háte'elahi,h_á_t_e_ʔ_e_l_a_h_i,h á t e ʔ e l a h i,,,373,,^ h _ á _ t _ e _ ʔ _ e _ l _ a _ h _ i $,default
@@ -2212,19 +2212,19 @@ Koripako_ehe-31_hand-1,,Koripako_ehe,31_hand,likaːpi,l_i_k_aː_p_i,l i k aː p 
 Koripako_oho-31_hand-1,,Koripako_oho,31_hand,likaːpi,l_i_k_aː_p_i,l i k aː p i,,,21540,,^ l _ i _ k _ aː _ p _ i $,default
 Koripako_name-31_hand-1,,Koripako_name,31_hand,likaːpi,l_i_k_aː_p_i,l i k aː p i,,,21540,,^ l _ i _ k _ aː _ p _ i $,default
 Werekena_Baniva-31_hand-1,,Werekena_Baniva,31_hand,naːpi,n_aː_p_i,n aː p i,,,125,,^ n _ aː _ p _ i $,default
-Kauixana-31_hand-1,,Kauixana,31_hand,káapi,k_áa_p_i,k áa p i,,,21540,,^ k _ áa _ p _ i $,default
+Kauixana-31_hand-1,,Kauixana,31_hand,káapi,k_áa_p_i,k áː p i,,,21540,,^ k _ áa _ p _ i $,default
 Yumana-31_hand-1,,Yumana,31_hand,kapi,k_a_p_i,k a p i,,,21540,,^ k _ a _ p _ i $,default
 Yumana-31_hand-2,,Yumana,31_hand,kabi,k_a_b_i,k a b i,,,21540,,^ k _ a _ b _ i $,default
 Passe-31_hand-1,,Passe,31_hand,kapi,k_a_p_i,k a p i,,,21540,,^ k _ a _ p _ i $,default
-Passe-31_hand-2,,Passe,31_hand,kapolhe,k_a_p_o_lh_e,k a p o !lh e,,,21540,,^ k _ a _ p _ o _ lh _ e $,default
+Passe-31_hand-2,,Passe,31_hand,kapolhe,k_a_p_o_lh_e,k a p o lʰ e,,,21540,,^ k _ a _ p _ o _ lh _ e $,default
 Achagua-32_head-1,,Achagua,32_head,wítaʃi,w_i_t_a_ʃ_i,w i t a ʃ i,,,256,,^ w _ i _ t _ a _ ʃ _ i $,default
 Baniwa-32_head-1,,Baniwa,32_head,-hiwída,h_i_w_í_d_a,h i w í d a,,,256,,^ h _ i _ w _ í _ d _ a $,default
 Bare-32_head-1,,Bare,32_head,?,n_u_d_u_s_i_a,n u d u s i a,,,723,,^ n _ u _ d _ u _ s _ i _ a $,default
 Kabiyari-32_head-1,,Kabiyari,32_head,hiwíta,h_i_w_í_t_a,h i w í t a,,,256,,^ h _ i _ w _ í _ t _ a $,default
 Piapoco-32_head-1,,Piapoco,32_head,[nu]iwita,n_u_i_w_i_t_a,n u i w i t a,,,256,,^ n _ u _ i _ w _ i _ t _ a $,default
 Resigaro-32_head-1,,Resigaro,32_head,híveú,h_í_v_e_ú,h í v e ú,,,256,,^ h _ í _ v _ e _ ú $,default
-Tariana-32_head-1,,Tariana,32_head,?,dh_i_w_í_d_a,!dh i w í d a,,,256,,^ dh _ i _ w _ í _ d _ a $,default
-Tariana-32_head-2,,Tariana,32_head,?,d_i_wh_í_d_a,d i !wh í d a,,,256,,^ d _ i _ wh _ í _ d _ a $,default
+Tariana-32_head-1,,Tariana,32_head,?,dh_i_w_í_d_a,dʰ i w í d a,,,256,,^ dh _ i _ w _ í _ d _ a $,default
+Tariana-32_head-2,,Tariana,32_head,?,d_i_wh_í_d_a,d i wʰ í d a,,,256,,^ d _ i _ wh _ í _ d _ a $,default
 Yukuna-32_head-1,,Yukuna,32_head,wíla'aruji,w_í_l_a_ʔ_a_ɾ_u_h_i,w í l a ʔ a ɾ u h i,,,256,,^ w _ í _ l _ a _ ʔ _ a _ ɾ _ u _ h _ i $,default
 Warekena-32_head-1,,Warekena,32_head,?,n_ú_b_u_h_u,n ú b u h u,,,723,,^ n _ ú _ b _ u _ h _ u $,default
 Baniwa_Waliperidakenai-32_head-1,,Baniwa_Waliperidakenai,32_head,hiwida,h_i_w_i_d_a,h i w i d a,,,256,,^ h _ i _ w _ i _ d _ a $,default
@@ -2242,8 +2242,8 @@ Koripako_oho-32_head-1,,Koripako_oho,32_head,liwida,l_i_w_i_d_a,l i w i d a,,,25
 Koripako_name-32_head-1,,Koripako_name,32_head,liwida,l_i_w_i_d_a,l i w i d a,,,256,,^ l _ i _ w _ i _ d _ a $,default
 Werekena_Baniva-32_head-1,,Werekena_Baniva,32_head,nubuhɐ̃,n_u_b_u_h_ɐ̃,n u b u h ɐ̃,,,723,,^ n _ u _ b _ u _ h _ ɐ̃ $,default
 Kauixana-32_head-1,,Kauixana,32_head,hiwá,h_i_w_á,h i w á,,,256,,^ h _ i _ w _ á $,default
-Yumana-32_head-1,,Yumana,32_head,[u]hla,[_u_]_h_l_a,![ u !] h l a,,,256,,^ [ _ u _ ] _ h _ l _ a $,default
-Yumana-32_head-2,,Yumana,32_head,s-oma-ʃumi,s-_o_m_a-_ʃ_u_m_i,!s- o m !a- ʃ u m i,,,0,,^ s- _ o _ m _ a- _ ʃ _ u _ m _ i $,default
+Yumana-32_head-1,,Yumana,32_head,[u]hla,[_u_]_h_l_a,u h l a,,,256,,^ [ _ u _ ] _ h _ l _ a $,default
+Yumana-32_head-2,,Yumana,32_head,s-oma-ʃumi,s-_o_m_a-_ʃ_u_m_i,s + o m a + ʃ u m i,,,0,,^ s- _ o _ m _ a- _ ʃ _ u _ m _ i $,default
 Passe-32_head-1,,Passe,32_head,iuhla,i_u_h_l_a,i u h l a,,,256,,^ i _ u _ h _ l _ a $,default
 Passe-32_head-2,,Passe,32_head,oopá,oo_p_á,oː p á,,,0,,^ oo _ p _ á $,default
 Achagua-34_hear-1,,Achagua,34_hear,éemeri,e:_m_e_r_i,eː m e r i,,,21545,,^ e: _ m _ e _ r _ i $,default
@@ -2258,7 +2258,7 @@ Yukuna-34_hear-1,,Yukuna,34_hear,jema'akaje,h_e_m_a_ʔ_a_k_a_h_e,h e m a ʔ a k 
 Warekena-34_hear-1,,Warekena,34_hear,?,e_d_a,e d a,,,101,,^ e _ d _ a $,default
 Baniwa_Waliperidakenai-34_hear-1,,Baniwa_Waliperidakenai,34_hear,hjũmaka,h_j_ũ_m_a_k_a,h j ũ m a k a,,,21545,,^ h _ j _ ũ _ m _ a _ k _ a $,default
 Baniwa_Hohoodene-34_hear-1,,Baniwa_Hohoodene,34_hear,wʰeːma,wʰ_eː_m_a,wʰ eː m a,,,21545,,^ wʰ _ eː _ m _ a $,default
-Baniwa_Dzurema-34_hear-1,,Baniwa_Dzurema,34_hear,iʰmɛ̃tsɯ,iʰ_m_ɛ̃_ts_ɯ,!iʰ m ɛ̃ ts ɯ,,,21545,,^ iʰ _ m _ ɛ̃ _ ts _ ɯ $,default
+Baniwa_Dzurema-34_hear-1,,Baniwa_Dzurema,34_hear,iʰmɛ̃tsɯ,iʰ_m_ɛ̃_ts_ɯ,i <<ʰ>> m ɛ̃ ts ɯ,,,21545,,^ i <ʰ> _ m _ ɛ̃ _ ts _ ɯ $,default
 Baniwa_Mauliene-34_hear-1,,Baniwa_Mauliene,34_hear,whiːmaka,wʰ_iː_m_a_k_a,wʰ iː m a k a,,,21545,,^ wʰ _ iː _ m _ a _ k _ a $,default
 Koripako_Kumadene-34_hear-1,,Koripako_Kumadene,34_hear,hima,h_i_m_a,h i m a,,,21545,,^ h _ i _ m _ a $,default
 Baniwa_Kowaidakenai-34_hear-1,,Baniwa_Kowaidakenai,34_hear,himaka,h_i_m_a_k_a,h i m a k a,,,21545,,^ h _ i _ m _ a _ k _ a $,default
@@ -2277,10 +2277,10 @@ Baniwa-35_heart-1,,Baniwa,35_heart,-kaale,k_aa_l_e,k aː l e,,,735,,^ k _ aa _ l
 Bare-35_heart-1,,Bare,35_heart,?,h_a_k_a_n_i,h a k a n i,,,735,,^ h _ a _ k _ a _ n _ i $,default
 Kabiyari-35_heart-1,,Kabiyari,35_heart,kareta,k_a_r_e_t_a,k a r e t a,,,735,,^ k _ a _ r _ e _ t _ a $,default
 Piapoco-35_heart-1,,Piapoco,35_heart,nu-wàwa,n_u_w_à_w_a,n u w à w a,,,111,,^ n _ u _ w _ à _ w _ a $,default
-Piapoco-35_heart-2,,Piapoco,35_heart,íiricu,í:_ɾ_i_k_u,íː ɾ i k u,,,735,,^ í: _ ɾ _ i _ k _ u $,default
+Piapoco-35_heart-2,,Piapoco,35_heart,íiricu,í:_ɾ_i_k_u,íː/iː ɾ i k u,,,735,,^ í: _ ɾ _ i _ k _ u $,default
 Resigaro-35_heart-1,,Resigaro,35_heart,váfoú,v_á_f_o_ú,v á f o ú,,,111,,^ v _ á _ f _ o _ ú $,default
 Tariana-35_heart-1,,Tariana,35_heart,?,d_í_k_a_l_e,d í k a l e,,,735,,^ d _ í _ k _ a _ l _ e $,default
-Yukuna-35_heart-1,,Yukuna,35_heart,wajweji,w_a_hw_e_h_i,w a !hw e h i,,,111,,^ w _ a _ hw _ e _ h _ i $,default
+Yukuna-35_heart-1,,Yukuna,35_heart,wajweji,w_a_hw_e_h_i,w a hʷ e h i,,,111,,^ w _ a _ hw _ e _ h _ i $,default
 Warekena-35_heart-1,,Warekena,35_heart,?,n_u_n_e_n_í_t_o_a_n_a,n u n e n í t o a n a,,,110,,^ n _ u _ n _ e _ n _ í _ t _ o _ a _ n _ a $,default
 Baniwa_Hohoodene-35_heart-1,,Baniwa_Hohoodene,35_heart,nukaːɽɛ,n_u_k_aː_ɽ_ɛ,n u k aː ɽ ɛ,,,735,,^ n _ u _ k _ aː _ ɽ _ ɛ $,default
 Baniwa_Dzurema-35_heart-1,,Baniwa_Dzurema,35_heart,nukaɽɛ,n_u_k_a_ɽ_ɛ,n u k a ɽ ɛ,,,735,,^ n _ u _ k _ a _ ɽ _ ɛ $,default
@@ -2295,7 +2295,7 @@ Koripako_ehe-35_heart-1,,Koripako_ehe,35_heart,likaːle,l_i_k_aː_l_e,l i k aː 
 Koripako_oho-35_heart-1,,Koripako_oho,35_heart,likaːle,l_i_k_aː_l_e,l i k aː l e,,,735,,^ l _ i _ k _ aː _ l _ e $,default
 Koripako_name-35_heart-1,,Koripako_name,35_heart,likaole,l_i_k_a_o_l_e,l i k a o l e,,,735,,^ l _ i _ k _ a _ o _ l _ e $,default
 Werekena_Baniva-35_heart-1,,Werekena_Baniva,35_heart,numẽtuɐna,n_u_m_ẽ_t_u_ɐ_n_a,n u m ẽ t u ɐ n a,,,110,,^ n _ u _ m _ ẽ _ t _ u _ ɐ _ n _ a $,default
-Kauixana-35_heart-1,,Kauixana,35_heart,eja-xína,e_j_a-_ʃ_í_n_a,e j !a- ʃ í n a,,,21546,,^ e _ j _ a- _ ʃ _ í _ n _ a $,default
+Kauixana-35_heart-1,,Kauixana,35_heart,eja-xína,e_j_a-_ʃ_í_n_a,e j a + ʃ í n a,,,21546,,^ e _ j _ a- _ ʃ _ í _ n _ a $,default
 Yumana-35_heart-1,,Yumana,35_heart,eiká,ei_k_á,ei k á,,,21546,,^ ei _ k _ á $,default
 Passe-35_heart-1,,Passe,35_heart,awa,a_w_a,a w a,,,111,,^ a _ w _ a $,default
 Achagua-36_hornanatomy-1,,Achagua,36_hornanatomy,tʃáalaʃi,tʃ_a:_l_a_ʃ_i,tʃ aː l a ʃ i,,,406,,^ tʃ _ a: _ l _ a _ ʃ _ i $,default
@@ -2303,7 +2303,7 @@ Baniwa-36_hornanatomy-1,,Baniwa,36_hornanatomy,-tsówa,ts_ó_w_a,ts ó w a,,,808
 Bare-36_hornanatomy-1,,Bare,36_hornanatomy,?,k_a_tʃ_u,k a tʃ u,,,117,,^ k _ a _ tʃ _ u $,default
 Kabiyari-36_hornanatomy-1,,Kabiyari,36_hornanatomy,nuire,n_u_i_r_e,n u i r e,,,120,,^ n _ u _ i _ r _ e $,default
 Piapoco-36_hornanatomy-1,,Piapoco,36_hornanatomy,?,i_ʧ_à_l_e,i tʃ à l e,,,406,,^ i _ ʧ _ à _ l _ e $,default
-Resigaro-36_hornanatomy-1,,Resigaro,36_hornanatomy,-iijβií,ii_jβ_i_í,iː !jβ i í,,,408,,^ ii _ jβ _ i _ í $,default
+Resigaro-36_hornanatomy-1,,Resigaro,36_hornanatomy,-iijβií,ii_jβ_i_í,iː j β i í,,,408,,^ ii _ jβ _ i _ í $,default
 Yukuna-36_hornanatomy-1,,Yukuna,36_hornanatomy,iʔiwáwiji,r_i_ʔ_i_w_a_w_i,r i ʔ i w a w i,,,408,,^ r _ i _ ʔ _ i _ w _ a _ w _ i $,default
 Baniwa_Waliperidakenai-36_hornanatomy-1,,Baniwa_Waliperidakenai,36_hornanatomy,itua,i_t_u_a,i t u a,,,808,,^ i _ t _ u _ a $,default
 Baniwa_Hohoodene-36_hornanatomy-1,,Baniwa_Hohoodene,36_hornanatomy,ɽitsowa,ɽ_i_ts_o_w_a,ɽ i ts o w a,,,808,,^ ɽ _ i _ ts _ o _ w _ a $,default
@@ -2316,25 +2316,25 @@ Tariana_Bruzzi-36_hornanatomy-1,,Tariana_Bruzzi,36_hornanatomy,litsawi,l_i_ts_a_
 Werekena_Baniva-36_hornanatomy-1,,Werekena_Baniva,36_hornanatomy,tsowa,ts_o_w_a,ts o w a,,,808,,^ ts _ o _ w _ a $,default
 Achagua-43_liedown-1,,Achagua,43_liedown,kuániriu,k_u_a_n_i_r_i_u,k u a n i r i u,,,463,,^ k _ u _ a _ n _ i _ r _ i _ u $,default
 Baniwa-43_liedown-1,,Baniwa,43_liedown,-kua,k_u_a,k u a,,,463,,^ k _ u _ a $,default
-Baniwa-43_liedown-2,,Baniwa,43_liedown,-ɻhua,ɻh_u_a,!ɻh u a,,,21556,,^ ɻh _ u _ a $,default
+Baniwa-43_liedown-2,,Baniwa,43_liedown,-ɻhua,ɻh_u_a,ɻʰ u a,,,21556,,^ ɻh _ u _ a $,default
 Bare-43_liedown-1,,Bare,43_liedown,?,t_i_k_u_a,t i k u a,,,463,,^ t _ i _ k _ u _ a $,default
 Kabiyari-43_liedown-1,,Kabiyari,43_liedown,-ku'apu,k_u_'a_p_u,k u a p u,,,463,,^ k _ u _ 'a _ p _ u $,default
 Kabiyari-43_liedown-2,,Kabiyari,43_liedown,-huapuku,h_u_a_p_u_k_u,h u a p u k u,,,21556,,^ h _ u _ a _ p _ u _ k _ u $,default
 Piapoco-43_liedown-1,,Piapoco,43_liedown,?,w_a_k_ù_a_k_a_w_a,w a k ù a k a w a,,,463,,^ w _ a _ k _ ù _ a _ k _ a _ w _ a $,default
-Resigaro-43_liedown-1,,Resigaro,43_liedown,šoóné-ǰú,š_o_ó_n_é_ǰ_ú,!š o ó n é !ǰ ú,,,21556,,^ š _ o _ ó _ n _ é _ ǰ _ ú $,default
+Resigaro-43_liedown-1,,Resigaro,43_liedown,šoóné-ǰú,š_o_ó_n_é_ǰ_ú,š/ʃ o ó n é ǰ/dʒ ú,,,21556,,^ š _ o _ ó _ n _ é _ ǰ _ ú $,default
 Tariana-43_liedown-1,,Tariana,43_liedown,swá,s_w_á,s w á,,,21556,,^ s _ w _ á $,default
 Yukuna-43_liedown-1,,Yukuna,43_liedown,toʔokaho,t_o_ʔ_o_k_a_h_o,t o ʔ o k a h o,,,21557,,^ t _ o _ ʔ _ o _ k _ a _ h _ o $,default
 Warekena-43_liedown-1,,Warekena,43_liedown,?,j_u_ɾ_u_t_e,j u ɾ u t e,,,464,,^ j _ u _ ɾ _ u _ t _ e $,default
-Kauixana-43_liedown-1,,Kauixana,43_liedown,mhotioma,mʰ_o_t_io_m_a,mʰ o t io m a,,,21557,,^ mʰ _ o _ t _ io _ m _ a $,default
-Kauixana-43_liedown-2,,Kauixana,43_liedown,ɨsaá,ɨ_s_aá,ɨ s áː,,,21556,,^ ɨ _ s _ aá $,default
+Kauixana-43_liedown-1,,Kauixana,43_liedown,mhotioma,mʰ_o_t_io_m_a,mʰ o t i/j o m a,,,21557,,^ mʰ _ o _ t _ io _ m _ a $,default
+Kauixana-43_liedown-2,,Kauixana,43_liedown,ɨsaá,ɨ_s_aá,ɨ s áː/aː,,,21556,,^ ɨ _ s _ aá $,default
 Achagua-33_headlouse-1,,Achagua,33_headlouse,witéneʃi,w_i_t_e_n_e_ʃ_i,w i t e n e ʃ i,,,259,,^ w _ i _ t _ e _ n _ e _ ʃ _ i $,default
 Baniwa-33_headlouse-1,,Baniwa,33_headlouse,towída,t_o_w_í_d_a,t o w í d a,,,934,,^ t _ o _ w _ í _ d _ a $,default
 Bare-33_headlouse-1,,Bare,33_headlouse,?,t_u_w_i_d_a,t u w i d a,,,934,,^ t _ u _ w _ i _ d _ a $,default
 Kabiyari-33_headlouse-1,,Kabiyari,33_headlouse,nií,n_i_í,n i í,,,141,,^ n _ i _ í $,default
 Piapoco-33_headlouse-1,,Piapoco,33_headlouse,cùlibàu,k_ù_l_i_b_à_u,k ù l i b à u,,,491,,^ k _ ù _ l _ i _ b _ à _ u $,default
 Resigaro-33_headlouse-1,,Resigaro,33_headlouse,netetshí?ó,n_e_t_e_tsʰ_í_ʔ_ó,n e t e tsʰ í ʔ ó,,,260,,^ n _ e _ t _ e _ tsʰ _ í _ ʔ _ ó $,default
-Tariana-33_headlouse-1,,Tariana,33_headlouse,?,k_a_wh_á_n_e_ɾ_i,k a !wh á n e ɾ i,,,152,,^ k _ a _ wh _ á _ n _ e _ ɾ _ i $,default
-Tariana-33_headlouse-2,,Tariana,33_headlouse,?,k_a_wh_á_n_e_ɾ_e,k a !wh á n e ɾ e,,,152,,^ k _ a _ wh _ á _ n _ e _ ɾ _ e $,default
+Tariana-33_headlouse-1,,Tariana,33_headlouse,?,k_a_wh_á_n_e_ɾ_i,k a wʰ á n e ɾ i,,,152,,^ k _ a _ wh _ á _ n _ e _ ɾ _ i $,default
+Tariana-33_headlouse-2,,Tariana,33_headlouse,?,k_a_wh_á_n_e_ɾ_e,k a wʰ á n e ɾ e,,,152,,^ k _ a _ wh _ á _ n _ e _ ɾ _ e $,default
 Yukuna-33_headlouse-1,,Yukuna,33_headlouse,inejí,r_i_n_e,r i n e,,,141,,^ r _ i _ n _ e $,default
 Warekena-33_headlouse-1,,Warekena,33_headlouse,?,tʃ_u_w_í_d_a,tʃ u w í d a,,,934,,^ tʃ _ u _ w _ í _ d _ a $,default
 Baniwa_Waliperidakenai-33_headlouse-1,,Baniwa_Waliperidakenai,33_headlouse,tuida,t_u_i_d_a,t u i d a,,,934,,^ t _ u _ i _ d _ a $,default
@@ -2351,7 +2351,7 @@ Koripako_oho-33_headlouse-1,,Koripako_oho,33_headlouse,tuida,t_u_i_d_a,t u i d a
 Koripako_name-33_headlouse-1,,Koripako_name,33_headlouse,tuida,t_u_i_d_a,t u i d a,,,934,,^ t _ u _ i _ d _ a $,default
 Werekena_Baniva-33_headlouse-1,,Werekena_Baniva,33_headlouse,tsuita,ts_u_i_t_a,ts u i t a,,,934,,^ ts _ u _ i _ t _ a $,default
 Kauixana-33_headlouse-1,,Kauixana,33_headlouse,nápa,n_á_p_a,n á p a,,,257,,^ n _ á _ p _ a $,default
-Kauixana-33_headlouse-2,,Kauixana,33_headlouse,napɨ́,n_a_p_ɨ́,n a p ɨ́,,,257,,^ n _ a _ p _ ɨ́ $,default
+Kauixana-33_headlouse-2,,Kauixana,33_headlouse,napɨ́,n_a_p_ɨ́,n a p ɨ́/ɨ,,,257,,^ n _ a _ p _ ɨ́ $,default
 Achagua-56_not-1,,Achagua,56_not,ma-,m_a,m a,,,21570,,^ m _ a $,default
 Achagua-56_not-2,,Achagua,56_not,hookai,h_oo_k_a_i,h oː k a i,,,601,,^ h _ oo _ k _ a _ i $,default
 Baniwa-56_not-1,,Baniwa,56_not,ma-,m_a,m a,,,21570,,^ m _ a $,default
@@ -2365,14 +2365,14 @@ Tariana-56_not-1,,Tariana,56_not,ma-,m_a,m a,,,21570,,^ m _ a $,default
 Yukuna-56_not-1,,Yukuna,56_not,unká,u_n_k_á,u n k á,,,601,,^ u _ n _ k _ á $,default
 Warekena-56_not-1,,Warekena,56_not,ma-,m_a,m a,,,21570,,^ m _ a $,default
 Warekena-56_not-2,,Warekena,56_not,nalé,n_a_l_é,n a l é,,,598,,^ n _ a _ l _ é $,default
-Kauixana-56_not-1,,Kauixana,56_not,(e)nominɨ,[_e_]_n_o_m_i_n_ɨ,![ e !] n o m i n ɨ,,,21574,,^ [ _ e _ ] _ n _ o _ m _ i _ n _ ɨ $,default
-Kauixana-56_not-2,,Kauixana,56_not,ma-,m_a-,m !a-,,,21570,,^ m _ a- $,default
+Kauixana-56_not-1,,Kauixana,56_not,(e)nominɨ,[_e_]_n_o_m_i_n_ɨ,e n o m i n ɨ,,,21574,,^ [ _ e _ ] _ n _ o _ m _ i _ n _ ɨ $,default
+Kauixana-56_not-2,,Kauixana,56_not,ma-,m_a-,m a,,,21570,,^ m _ a-$,default
 Kauixana-56_not-3,,Kauixana,56_not,eneí,e_n_eí,e n eí,,,262,,^ e _ n _ eí $,default
-Kauixana-56_not-4,,Kauixana,56_not,(ai)nei(sa),[_ai_]_n_ei_[_s_a_],![ ai !] n ei ![ s a !],,,262,,^ [ _ ai _ ] _ n _ ei _ [ _ s _ a _ ] $,default
+Kauixana-56_not-4,,Kauixana,56_not,(ai)nei(sa),[_ai_]_n_ei_[_s_a_],ai n ei s a,,,262,,^ [ _ ai _ ] _ n _ ei _ [ _ s _ a _ ] $,default
 Kauixana-56_not-5,,Kauixana,56_not,ijó,i_j_ó,i j ó,,,261,,^ i _ j _ ó $,default
 Yumana-56_not-1,,Yumana,56_not,meiho,m_e_i_h_o,m e i h o,,,261,,^ m _ e _ i _ h _ o $,default
 Yumana-56_not-2,,Yumana,56_not,mejú,m_e_j_ú,m e j ú,,,261,,^ m _ e _ j _ ú $,default
-Passe-56_not-1,,Passe,56_not,ma[a]ri,m_a_[_a_]_r_i,m a ![ a !] r i,,,21570,,^ m _ a _ [ _ a _ ] _ r _ i $,default
+Passe-56_not-1,,Passe,56_not,ma[a]ri,m_a_[_a_]_r_i,m a a r i,,,21570,,^ m _ a _ [ _ a _ ] _ r _ i $,default
 Achagua-84_tree-1,,Achagua,84_tree,áikuba,á_i_k_u_b_a,á i k u b a,,,21609,,^ á _ i _ k _ u _ b _ a $,default
 Baniwa-84_tree-1,,Baniwa,84_tree,haiko,h_a_i_k_o,h a i k o,,,21609,,^ h _ a _ i _ k _ o $,default
 Bare-84_tree-1,,Bare,84_tree,?,a_d_a,a d a,,,877,,^ a _ d _ a $,default
@@ -2385,7 +2385,7 @@ Yukuna-84_tree-1,,Yukuna,84_tree,a'awaná,a_ʔ_a_w_a_n_á,a ʔ a w a n á,,,881,
 Warekena-84_tree-1,,Warekena,84_tree,?,a_t_a_p_i,a t a p i,,,877,,^ a _ t _ a _ p _ i $,default
 Warekena-84_tree-2,,Warekena,84_tree,?,a:_t_a_p_i,aː t a p i,,,877,,^ a: _ t _ a _ p _ i $,default
 Warekena-84_tree-3,,Warekena,84_tree,?,ts_a_p_e,ts a p e,,,877,,^ ts _ a _ p _ e $,default
-Kauixana-84_tree-1,,Kauixana,84_tree,(h)áʔko(o)-so,[_h_]_á_ʔ_k_o_[_o_]-_s_o,![ h !] á ʔ k o ![ o !]- s o,,,21609,,^ [ _ h _ ] _ á _ ʔ _ k _ o _ [ _ o _ ]- _ s _ o $,default
+Kauixana-84_tree-1,,Kauixana,84_tree,(h)áʔko(o)-so,[_h_]_á_ʔ_k_o_[_o_]-_s_o,h á ʔ k o o + s o,,,21609,,^ [ _ h _ ] _ á _ ʔ _ k _ o _ [ _ o _ ]- _ s _ o $,default
 Yumana-84_tree-1,,Yumana,84_tree,awána,a_w_á_n_a,a w á n a,,,881,,^ a _ w _ á _ n _ a $,default
-Yumana-84_tree-2,,Yumana,84_tree,auoena,a_uo_e_n_a,a uo e n a,,,881,,^ a _ uo _ e _ n _ a $,default
+Yumana-84_tree-2,,Yumana,84_tree,auoena,a_uo_e_n_a,a u/w o e n a,,,881,,^ a _ uo _ e _ n _ a $,default
 Passe-84_tree-1,,Passe,84_tree,kenoleka,k_e_n_o_l_e_k_a,k e n o l e k a,,,263,,^ k _ e _ n _ o _ l _ e _ k _ a $,default
