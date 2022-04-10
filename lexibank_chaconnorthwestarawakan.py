@@ -53,7 +53,7 @@ class Dataset(BaseDataset):
                     Form="_".join(
                         [{"_": "+", "#": '+'}.get(t, t) for t in wl[idx, "tokens"]]),
                     Cognacy=wl[idx, "cogid"],
-                    Source=sources.get(wl[idx, "sources"], "")
+                    Source=sources.get(wl[idx, "source"], "")
                     )
             args.writer.add_cognate(
                     lexeme=lex,
