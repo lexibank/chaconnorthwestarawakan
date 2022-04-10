@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset accompanying Chacon's \"Analysis of Tukanoan Dialects\" from 2022",
+    "title": "CLDF dataset accompanying Chacon's \"Annotated Swadesh Wordlists for Northwest Arawakan Languages\" from 2022",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -22,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2022): Annotated Swadesh wordlists for Northwest Arawakan languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

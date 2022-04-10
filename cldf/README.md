@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist CLDF dataset accompanying Chacon's "Analysis of Tukanoan Dialects" from 2022
+# Wordlist CLDF dataset accompanying Chacon's "Annotated Swadesh Wordlists for Northwest Arawakan Languages" from 2022
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -8,11 +8,11 @@
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | +++
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Chacon, Thiago C. (2022): Annotated Swadesh wordlists for Northwest Arawakan languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/chaconjcbancor
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/chaconjcbancor/tree/34ce7a8">lexibank/chaconjcbancor 34ce7a8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/b12a7df">CLTS v2.1.0-26-gb12a7df</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/chaconjcbancor/tree/34f67c9">lexibank/chaconjcbancor 34f67c9</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/b12a7df">CLTS v2.1.0-26-gb12a7df</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | chaconnorthwestarawakan
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

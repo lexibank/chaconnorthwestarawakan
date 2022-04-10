@@ -42,6 +42,7 @@ class Dataset(BaseDataset):
                 )
         languages = args.writer.add_languages(
                 lookup_factory='Name')
+        sources = {s["Name"]: s["ID"] for s in self.etc_dir.read_csv("sources.tsv", delimiter="\t", dicts=True)}
         args.writer.add_sources()
         wl = Wordlist(self.raw_dir.joinpath("jcbancor.tsv").as_posix())
         for idx in wl:
@@ -52,7 +53,7 @@ class Dataset(BaseDataset):
                     Form="_".join(
                         [{"_": "+", "#": '+'}.get(t, t) for t in wl[idx, "tokens"]]),
                     Cognacy=wl[idx, "cogid"],
-                    Source=""
+                    Source=sources.get(wl[idx, "sources"], "")
                     )
             args.writer.add_cognate(
                     lexeme=lex,
