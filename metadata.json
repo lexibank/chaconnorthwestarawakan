@@ -1,6 +1,7 @@
 {
     "title": "CLDF dataset accompanying Chacon's \"Annotated Swadesh Wordlists for Northwest Arawakan Languages\" from 2022",
     "url": "",
+    "conceptlist": "Chacon-2022-94",
     "license": "CC-BY-4.0",
     "citation": "Chacon, Thiago C. (2022): Annotated Swadesh wordlists for Northwest Arawakan languages. Leipzig: Max Planck Institute for Evolutionary Anthropology."
 }

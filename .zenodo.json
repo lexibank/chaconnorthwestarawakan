@@ -13,7 +13,11 @@
     "contributors": [
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
         }
     ],
     "communities": [

@@ -1,95 +1,95 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1_all,ALL,,
-2_ash,ASH,,
-3_bark,BARK,,
-4_belly,BELLY,,
-5_big,BIG,,
-6_bird,BIRD,,
-7_bite,BITE,,
-8_black,BLACK,,
-9_blood,BLOOD,,
-10_bone,BONE,,
-11_clawornail,CLAW OR NAIL,,
-12_cloud,CLOUD,,
-13_cold,COLD,,
-14_come,COME,,
-15_die,DIE,,
-16_dog,DOG,,
-17_drink,DRINK,,
-18_dry,DRY,,
-19_ear,EAR,,
-20_earthsoil,EARTH (SOIL),,
-21_eat,EAT,,
-22_egg,EGG,,
-23_fatorganicsubstance,FAT (ORGANIC SUBSTANCE),,
-24_flymovethroughair,FLY (MOVE THROUGH AIR),,
-25_foot,FOOT,,
-26_full,FULL,,
-27_give,GIVE,,
-28_good,GOOD,,
-29_green,GREEN,,
-30_hairhead,HAIR (HEAD),,
-31_hand,HAND,,
-32_head,HEAD,,
-33_headlouse,HEAD LOUSE,,
-34_hear,HEAR,,
-35_heart,HEART,,
-36_hornanatomy,HORN (ANATOMY),,
-37_hotorwarm,HOT OR WARM,,
-38_i,I,,
-39_kill,KILL,,
-40_knee,KNEE,,
-41_knowsomething,KNOW (SOMETHING),,
-42_leaf,LEAF,,
-43_liedown,LIE DOWN,,
-44_liver,LIVER,,
-45_long,LONG,,
-46_man,MAN,,
-47_many,MANY,,
-48_moon,MOON,,
-49_mountain,MOUNTAIN,,
-50_mouth,MOUTH,,
-51_name,NAME,,
-52_neck,NECK,,
-53_new,NEW,,
-54_night,NIGHT,,
-55_nose,NOSE,,
-56_not,NOT,,
-57_one,ONE,,
-58_path,PATH,,
-59_peopleorperson,PEOPLE OR PERSON,,
-60_rainprecipitation,RAIN (PRECIPITATION),,
-61_red,RED,,
-62_rock,ROCK,,
-63_root,ROOT,,
-64_round,ROUND,,
-65_sand,SAND,,
-66_say,SAY,,
-67_see,SEE,,
-68_seed,SEED,,
-69_sit,SIT,,
-70_skin,SKIN,,
-71_sleep,SLEEP,,
-72_small,SMALL,,
-73_smokeexhaust,SMOKE (EXHAUST),,
-74_stand,STAND,,
-75_star,STAR,,
-76_sun,SUN,,
-77_swim,SWIM,,
-78_tail,TAIL,,
-79_that,THAT,,
-80_this,THIS,,
-81_thou,THOU,,
-82_tongue,TONGUE,,
-83_tooth,TOOTH,,
-84_tree,TREE,,
-85_two,TWO,,
-86_walk,WALK,,
-87_water,WATER,,
-88_we,WE,,
-89_what,WHAT,,
-90_white,WHITE,,
-91_who,WHO,,
-92_woman,WOMAN,,
-93_yellow,YELLOW,,
-94_you,YOU,,
+1_all,ALL,98,ALL
+2_ash,ASH,646,ASH
+3_bark,BARK,3865,BARK OR SHELL
+4_belly,BELLY,1251,BELLY
+5_big,BIG,1202,BIG
+6_bird,BIRD,937,BIRD
+7_bite,BITE,1403,BITE
+8_black,BLACK,163,BLACK
+9_blood,BLOOD,946,BLOOD
+10_bone,BONE,1394,BONE
+11_clawornail,CLAW OR NAIL,2128,CLAW OR NAIL
+12_cloud,CLOUD,1489,CLOUD
+13_cold,COLD,1287,COLD
+14_come,COME,1446,COME
+15_die,DIE,1494,DIE
+16_dog,DOG,2009,DOG
+17_drink,DRINK,1401,DRINK
+18_dry,DRY,1398,DRY
+19_ear,EAR,1247,EAR
+20_earthsoil,EARTH (SOIL),1228,EARTH (SOIL)
+21_eat,EAT,1336,EAT
+22_egg,EGG,744,EGG
+23_fatorganicsubstance,FAT (ORGANIC SUBSTANCE),323,FAT (ORGANIC SUBSTANCE)
+24_flymovethroughair,FLY (MOVE THROUGH AIR),1441,FLY (MOVE THROUGH AIR)
+25_foot,FOOT,1301,FOOT
+26_full,FULL,1429,FULL
+27_give,GIVE,1447,GIVE
+28_good,GOOD,1035,GOOD
+29_green,GREEN,1425,GREEN
+30_hairhead,HAIR (HEAD),2648,HAIR (HEAD)
+31_hand,HAND,1277,HAND
+32_head,HEAD,1256,HEAD
+33_headlouse,HEAD LOUSE,310,HEAD LOUSE
+34_hear,HEAR,1408,HEAR
+35_heart,HEART,1223,HEART
+36_hornanatomy,HORN (ANATOMY),1393,HORN (ANATOMY)
+37_hotorwarm,HOT OR WARM,2272,HOT OR WARM
+38_i,I,1209,I
+39_kill,KILL,1417,KILL
+40_knee,KNEE,1371,KNEE
+41_knowsomething,KNOW (SOMETHING),1410,KNOW (SOMETHING)
+42_leaf,LEAF,628,LEAF
+43_liedown,LIE DOWN,215,LIE DOWN
+44_liver,LIVER,1224,LIVER
+45_long,LONG,1203,LONG
+46_man,MAN,1554,MAN
+47_many,MANY,1198,MANY
+48_moon,MOON,1313,MOON
+49_mountain,MOUNTAIN,639,MOUNTAIN
+50_mouth,MOUTH,674,MOUTH
+51_name,NAME,1405,NAME
+52_neck,NECK,1333,NECK
+53_new,NEW,1231,NEW
+54_night,NIGHT,1233,NIGHT
+55_nose,NOSE,1221,NOSE
+56_not,NOT,1240,NOT
+57_one,ONE,1493,ONE
+58_path,PATH,2252,PATH
+59_peopleorperson,PEOPLE OR PERSON,2661,PEOPLE OR PERSON
+60_rainprecipitation,RAIN (PRECIPITATION),658,RAIN (PRECIPITATION)
+61_red,RED,156,RED
+62_rock,ROCK,668,ROCK
+63_root,ROOT,670,ROOT
+64_round,ROUND,1395,ROUND
+65_sand,SAND,671,SAND
+66_say,SAY,1458,SAY
+67_see,SEE,1409,SEE
+68_seed,SEED,714,SEED
+69_sit,SIT,1416,SIT
+70_skin,SKIN,763,SKIN
+71_sleep,SLEEP,1585,SLEEP
+72_small,SMALL,1246,SMALL
+73_smokeexhaust,SMOKE (EXHAUST),778,SMOKE (EXHAUST)
+74_stand,STAND,1442,STAND
+75_star,STAR,1430,STAR
+76_sun,SUN,1343,SUN
+77_swim,SWIM,1439,SWIM
+78_tail,TAIL,1220,TAIL
+79_that,THAT,78,THAT
+80_this,THIS,1214,THIS
+81_thou,THOU,1215,THOU
+82_tongue,TONGUE,1205,TONGUE
+83_tooth,TOOTH,1380,TOOTH
+84_tree,TREE,906,TREE
+85_two,TWO,1498,TWO
+86_walk,WALK,1443,WALK
+87_water,WATER,948,WATER
+88_we,WE,1212,WE
+89_what,WHAT,1236,WHAT
+90_white,WHITE,1335,WHITE
+91_who,WHO,1235,WHO
+92_woman,WOMAN,962,WOMAN
+93_yellow,YELLOW,1424,YELLOW
+94_you,YOU,1213,YOU
