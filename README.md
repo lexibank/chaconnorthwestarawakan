@@ -1,5 +1,7 @@
 # CLDF dataset accompanying Chacon's "Annotated Swadesh Wordlists for Northwest Arawakan Languages" from 2022
 
+[![CLDF validation](https://github.com/lexibank/chaconnorthwestarawakan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chaconnorthwestarawakan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -12,17 +14,21 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Chacon-2022-94](https://concepticon.clld.org/contributions/Chacon-2022-94)
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/chaconnorthwestarawakan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chaconnorthwestarawakan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 26
-- **Concepts:** 94
+- **Varieties:** 26 (linked to 16 different Glottocodes)
+- **Concepts:** 94 (linked to 94 different Concepticon concept sets)
 - **Lexemes:** 2,390
 - **Sources:** 14
 - **Synonymy:** 1.13
@@ -30,7 +36,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** 0.20
 - **Invalid lexemes:** 0
 - **Tokens:** 13,827
-- **Segments:** 129 (0 BIPA errors, 0 CTLS sound class errors, 129 CLTS modified)
+- **Segments:** 129 (0 BIPA errors, 0 CLTS sound class errors, 129 CLTS modified)
 - **Inventory size (avg):** 38.08
 
 ## Possible Improvements:
@@ -42,10 +48,10 @@ This dataset is licensed under a CC-BY-4.0 license
 # Contributors
 
 Name               | GitHub user | Description | Role
----                | ---         | --- | --- 
+---                | ---         | --- | ---
 Thiago Chacon | @thiagochacon | main annotator | Author
-Johann-Mattis List | @LinguList  | maintainer, patron | other 
-
+Johann-Mattis List | @LinguList  | maintainer, patron | Editor
+Frederic Blum | @FredericBlum | maintainer | Editor
 
 
 
